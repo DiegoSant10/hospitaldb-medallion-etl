@@ -1,0 +1,2641 @@
+id_resultado,id_cita,tipo_examen,resultado,valor_referencia,fecha_resultado
+1,2556,Biometria Hematica,165.8,Normal,2026-04-06 07:07:52.302759
+2,6454,Examen General de Orina,42.96,Normal,2024-08-16 07:07:52.302759
+3,5345,Biometria Hematica,83.16,Fuera de rango,2025-08-07 07:22:52.302759
+4,7414,Perfil Lipidico,174.35,Normal,2025-04-17 05:07:52.302759
+5,4881,Biometria Hematica,37.43,Normal,2026-04-29 13:07:52.302759
+6,7527,Prueba de Glucosa,25.01,Fuera de rango,2026-01-09 10:52:52.302759
+7,5916,Biometria Hematica,94.3,Normal,2024-09-26 05:22:52.302759
+8,1771,Quimica Sanguinea,79.88,Normal,2025-02-13 07:52:52.302759
+9,6926,Radiografia de Torax,190.46,Normal,2025-05-07 07:37:52.302759
+10,6715,Prueba de Glucosa,153.24,Fuera de rango,2025-10-26 12:07:52.302759
+11,5284,Examen General de Orina,147.22,Normal,
+12,269,Examen General de Orina,13.01,Normal,2025-02-18 08:22:52.302759
+13,602,Radiografia de Torax,110.55,Normal,2025-01-30 14:07:52.302759
+14,656,Quimica Sanguinea,15.2,Normal,2025-09-23 15:22:52.302759
+15,1902,Examen General de Orina,74.62,Normal,2025-09-02 09:07:52.302759
+16,7875,Perfil Lipidico,91.9,Normal,2025-05-26 07:22:52.302759
+17,5392,Prueba de Glucosa,87.99,Normal,2024-12-05 15:22:52.302759
+18,2985,Biometria Hematica,64.6,Normal,2025-12-26 17:07:52.302759
+19,1022,Biometria Hematica,182.12,Normal,2025-03-26 11:52:52.302759
+20,122,Radiografia de Torax,199.36,Normal,2026-05-05 11:07:52.302759
+21,4296,Biometria Hematica,17.74,Normal,2026-05-10 06:22:52.302759
+22,2647,Examen General de Orina,4.65,Normal,2026-05-15 09:07:52.302759
+23,4848,Examen General de Orina,29.34,Normal,2025-11-21 08:52:52.302759
+24,1677,Perfil Lipidico,192.3,Normal,2025-10-27 05:37:52.302759
+25,3285,Prueba de Glucosa,82.61,Normal,2025-03-13 15:07:52.302759
+26,7906,Perfil Lipidico,114.25,Normal,2026-03-03 05:37:52.302759
+27,7153,Perfil Lipidico,103.5,Normal,2026-05-07 06:37:52.302759
+28,7023,Prueba de Glucosa,163.25,Fuera de rango,2026-06-12 08:52:52.302759
+29,5161,Perfil Lipidico,111.75,Normal,2025-02-09 08:07:52.302759
+30,3811,Biometria Hematica,80.35,Normal,2026-05-05 11:07:52.302759
+31,4634,Examen General de Orina,23.32,Normal,2025-07-24 09:52:52.302759
+32,7471,Prueba de Glucosa,173.16,Normal,2025-07-24 06:22:52.302759
+33,6479,Examen General de Orina,134.25,Normal,2025-08-02 16:07:52.302759
+34,4180,Prueba de Glucosa,192.88,Normal,2026-04-15 07:22:52.302759
+35,4066,Biometria Hematica,42.56,Normal,2024-10-17 16:07:52.302759
+36,324,Biometria Hematica,1.06,Fuera de rango,2025-10-01 16:52:52.302759
+37,6979,Biometria Hematica,14.99,Normal,2025-04-24 15:22:52.302759
+38,4667,Radiografia de Torax,172.6,Fuera de rango,2025-11-19 14:07:52.302759
+39,2672,Prueba de Glucosa,44.86,Normal,2024-09-28 12:52:52.302759
+40,6366,Radiografia de Torax,94.72,Normal,2026-05-29 07:37:52.302759
+41,6730,Biometria Hematica,101.05,Normal,2026-06-10 04:37:52.302759
+42,4595,Examen General de Orina,75.72,Normal,2024-10-01 06:37:52.302759
+43,3444,Radiografia de Torax,124.4,Normal,2024-07-19 05:52:52.302759
+44,1657,Quimica Sanguinea,5.4,Normal,2025-04-17 11:37:52.302759
+45,5888,Biometria Hematica,30.63,Normal,2026-06-29 05:37:52.302759
+46,3014,Quimica Sanguinea,39.75,Normal,2024-11-07 15:52:52.302759
+47,3732,Quimica Sanguinea,130.08,Normal,2026-05-11 12:37:52.302759
+48,2167,Quimica Sanguinea,75.03,Fuera de rango,2024-10-13 08:22:52.302759
+49,4277,Quimica Sanguinea,153.07,Normal,2025-06-02 17:07:52.302759
+50,3364,Examen General de Orina,97.5,Normal,2025-08-21 17:07:52.302759
+51,22,Prueba de Glucosa,15.15,Normal,2024-10-02 15:07:52.302759
+52,842,Prueba de Glucosa,78.3,Normal,2026-03-08 15:52:52.302759
+53,5062,Examen General de Orina,197.03,Normal,2026-03-31 16:22:52.302759
+54,6413,Radiografia de Torax,96.31,Normal,2026-06-06 05:52:52.302759
+55,5479,Biometria Hematica,64.75,Normal,2024-08-02 14:37:52.302759
+56,6421,Prueba de Glucosa,76.32,Normal,2024-10-08 10:52:52.302759
+57,6019,Perfil Lipidico,12.86,Normal,2024-12-30 04:37:52.302759
+58,2961,Perfil Lipidico,82.31,Normal,2025-01-03 10:52:52.302759
+59,3539,Quimica Sanguinea,54.85,Normal,2025-12-16 14:37:52.302759
+60,836,Radiografia de Torax,81.28,Normal,2026-05-20 13:22:52.302759
+61,7157,Prueba de Glucosa,44.51,Normal,2024-07-22 16:07:52.302759
+62,3395,Examen General de Orina,118.76,Normal,2025-11-24 09:37:52.302759
+63,6093,Radiografia de Torax,66.05,Normal,2025-06-16 15:52:52.302759
+64,1354,Prueba de Glucosa,167.32,Fuera de rango,2024-10-03 12:37:52.302759
+65,3693,Prueba de Glucosa,46.78,Normal,
+66,3639,Prueba de Glucosa,94.5,Normal,2025-03-04 16:22:52.302759
+67,1360,Biometria Hematica,87.11,Normal,2025-07-25 11:37:52.302759
+68,7243,Radiografia de Torax,180.25,Fuera de rango,2026-02-27 14:07:52.302759
+69,6712,Prueba de Glucosa,104.2,Normal,2024-10-30 14:22:52.302759
+70,5027,Radiografia de Torax,18.56,Fuera de rango,2025-06-14 13:37:52.302759
+71,6496,Examen General de Orina,124.96,Normal,2025-02-02 16:52:52.302759
+72,6505,Quimica Sanguinea,177.5,Normal,2024-08-31 04:37:52.302759
+73,306,Quimica Sanguinea,36.35,Normal,2026-06-06 12:52:52.302759
+74,7005,Radiografia de Torax,140.2,Normal,2024-07-24 05:07:52.302759
+75,7758,Quimica Sanguinea,178.73,Normal,2025-08-25 09:22:52.302759
+76,4121,Biometria Hematica,85.64,Normal,2026-04-07 06:37:52.302759
+77,3044,Radiografia de Torax,11.6,Normal,2026-01-26 09:37:52.302759
+78,5410,Examen General de Orina,18.77,Normal,2025-02-09 05:07:52.302759
+79,7704,Quimica Sanguinea,103.28,Normal,2025-10-14 05:07:52.302759
+80,999,Quimica Sanguinea,33.39,Normal,2026-01-12 06:22:52.302759
+81,1730,Quimica Sanguinea,76.1,Normal,2024-08-14 17:07:52.302759
+82,2913,Prueba de Glucosa,46.27,Normal,2025-12-26 05:37:52.302759
+83,3275,Prueba de Glucosa,185.04,Normal,2026-03-27 04:37:52.302759
+84,5078,Biometria Hematica,66.63,Normal,2026-06-05 13:37:52.302759
+85,4774,Radiografia de Torax,182.72,Normal,2025-04-16 04:37:52.302759
+86,7290,Quimica Sanguinea,177.64,Fuera de rango,2024-12-11 16:37:52.302759
+87,4973,Radiografia de Torax,93.62,Normal,2026-02-25 05:07:52.302759
+88,2843,Radiografia de Torax,38.96,Normal,2025-02-27 11:52:52.302759
+89,1728,Examen General de Orina,18.67,Normal,2026-07-08 08:07:52.302759
+90,5361,Prueba de Glucosa,57.37,Fuera de rango,2026-03-31 12:37:52.302759
+91,5678,Examen General de Orina,166.78,Normal,2025-04-03 07:07:52.302759
+92,5546,Perfil Lipidico,176.84,Normal,2026-01-24 06:22:52.302759
+93,5740,Quimica Sanguinea,119.25,Fuera de rango,2026-03-31 14:07:52.302759
+94,1306,Perfil Lipidico,106.98,Normal,2026-07-11 14:52:52.302759
+95,6989,Perfil Lipidico,178.02,Normal,2024-08-01 13:07:52.302759
+96,2624,Examen General de Orina,51.21,Normal,2025-06-19 12:37:52.302759
+97,3315,Radiografia de Torax,2.11,Normal,2025-08-27 11:22:52.302759
+98,7186,Radiografia de Torax,85.75,Normal,2026-06-01 16:37:52.302759
+99,1732,Perfil Lipidico,11.0,Normal,2024-12-10 11:52:52.302759
+100,5196,Quimica Sanguinea,82.96,Fuera de rango,2025-04-20 14:07:52.302759
+101,872,Quimica Sanguinea,2.17,Normal,2024-12-17 07:22:52.302759
+102,5686,Examen General de Orina,89.4,Normal,2025-09-13 14:07:52.302759
+103,5655,Quimica Sanguinea,81.27,Normal,2026-07-12 08:22:52.302759
+104,990,Quimica Sanguinea,170.59,Normal,2025-02-10 09:52:52.302759
+105,3284,Prueba de Glucosa,109.79,Normal,2025-02-07 05:37:52.302759
+106,5729,Prueba de Glucosa,54.37,Normal,2026-05-21 16:52:52.302759
+107,6450,Radiografia de Torax,34.76,Normal,2024-10-22 14:52:52.302759
+108,3178,Prueba de Glucosa,106.16,Normal,2025-11-01 16:37:52.302759
+109,6939,Examen General de Orina,163.29,Normal,2026-05-23 11:37:52.302759
+110,927,Examen General de Orina,49.34,Fuera de rango,2025-08-16 16:07:52.302759
+111,3181,Prueba de Glucosa,50.47,Normal,2026-03-16 15:52:52.302759
+112,43,Perfil Lipidico,182.77,Normal,2026-02-23 05:22:52.302759
+113,1739,Quimica Sanguinea,65.54,Normal,2025-01-10 06:22:52.302759
+114,1949,Biometria Hematica,71.19,Fuera de rango,2026-04-13 17:07:52.302759
+115,2310,Radiografia de Torax,52.95,Normal,2025-09-20 08:07:52.302759
+116,1747,Prueba de Glucosa,6.12,Normal,2024-12-23 17:22:52.302759
+117,5044,Biometria Hematica,7.18,Fuera de rango,2026-04-23 13:37:52.302759
+118,668,Examen General de Orina,122.14,Normal,2025-12-14 10:52:52.302759
+119,1452,Examen General de Orina,59.11,Normal,
+120,6214,Perfil Lipidico,119.65,Normal,2024-09-21 13:22:52.302759
+121,295,Quimica Sanguinea,69.31,Normal,2025-02-11 06:52:52.302759
+122,7447,Radiografia de Torax,191.37,Normal,2025-01-21 08:07:52.302759
+123,759,Perfil Lipidico,165.06,Normal,2026-01-17 12:07:52.302759
+124,2368,Perfil Lipidico,30.41,Normal,2026-02-04 09:22:52.302759
+125,6970,Biometria Hematica,29.21,Fuera de rango,2025-01-23 10:22:52.302759
+126,3510,Prueba de Glucosa,30.78,Normal,2025-08-05 14:22:52.302759
+127,6728,Examen General de Orina,17.64,Normal,2025-03-07 13:22:52.302759
+128,287,Radiografia de Torax,97.59,Normal,2025-11-06 16:22:52.302759
+129,7508,Quimica Sanguinea,47.16,Fuera de rango,2024-12-02 11:22:52.302759
+130,2361,Examen General de Orina,69.43,Normal,2024-11-29 08:22:52.302759
+131,4276,Perfil Lipidico,154.32,Fuera de rango,2025-06-04 05:07:52.302759
+132,3336,Examen General de Orina,68.89,Normal,2026-01-24 15:52:52.302759
+133,483,Biometria Hematica,139.73,Normal,2026-04-07 15:22:52.302759
+134,5152,Quimica Sanguinea,184.08,Normal,2025-05-14 14:07:52.302759
+135,582,Perfil Lipidico,20.31,Normal,2025-12-30 08:07:52.302759
+136,32,Radiografia de Torax,6.0,Fuera de rango,2026-04-01 15:07:52.302759
+137,3880,Quimica Sanguinea,107.01,Normal,2024-10-17 16:07:52.302759
+138,5095,Radiografia de Torax,164.23,Normal,2025-03-08 14:22:52.302759
+139,919,Biometria Hematica,90.84,Normal,2025-11-17 04:37:52.302759
+140,2709,Examen General de Orina,109.44,Normal,2024-07-23 16:37:52.302759
+141,5608,Prueba de Glucosa,49.8,Normal,2025-04-10 13:52:52.302759
+142,5744,Biometria Hematica,18.82,Normal,2024-11-18 04:52:52.302759
+143,4500,Perfil Lipidico,110.37,Normal,2025-08-24 09:07:52.302759
+144,6252,Biometria Hematica,73.98,Normal,2025-10-06 12:22:52.302759
+145,1538,Radiografia de Torax,79.62,Normal,2025-01-28 06:37:52.302759
+146,3791,Radiografia de Torax,176.36,Fuera de rango,2024-10-10 16:22:52.302759
+147,565,Examen General de Orina,79.57,Normal,2024-09-26 09:52:52.302759
+148,168,Quimica Sanguinea,175.63,Fuera de rango,2025-01-04 13:22:52.302759
+149,880,Prueba de Glucosa,110.13,Normal,2024-08-03 09:22:52.302759
+150,4453,Biometria Hematica,160.75,Fuera de rango,2024-10-02 15:52:52.302759
+151,1034,Perfil Lipidico,136.94,Normal,2025-10-17 06:52:52.302759
+152,1358,Examen General de Orina,1.13,Normal,2024-09-29 11:37:52.302759
+153,2065,Radiografia de Torax,49.88,Normal,2024-11-26 05:22:52.302759
+154,1475,Quimica Sanguinea,30.92,Normal,2024-08-08 17:07:52.302759
+155,7838,Quimica Sanguinea,173.13,Normal,2024-12-24 06:37:52.302759
+156,4753,Biometria Hematica,69.46,Normal,2025-09-27 10:52:52.302759
+157,4090,Examen General de Orina,172.62,Fuera de rango,2025-12-09 10:37:52.302759
+158,5349,Quimica Sanguinea,63.57,Normal,2024-08-19 08:07:52.302759
+159,1881,Radiografia de Torax,53.48,Normal,2024-09-06 10:52:52.302759
+160,7087,Prueba de Glucosa,53.34,Normal,2025-04-16 15:22:52.302759
+161,4144,Examen General de Orina,55.59,Normal,2024-11-20 05:22:52.302759
+162,7147,Quimica Sanguinea,195.74,Fuera de rango,2025-12-14 09:37:52.302759
+163,283,Quimica Sanguinea,61.89,Normal,2026-05-05 06:07:52.302759
+164,3057,Perfil Lipidico,127.24,Normal,2024-11-07 04:37:52.302759
+165,4224,Quimica Sanguinea,89.86,Normal,2025-12-11 07:52:52.302759
+166,6382,Quimica Sanguinea,180.53,Normal,2025-06-29 05:07:52.302759
+167,467,Quimica Sanguinea,165.26,Fuera de rango,2026-06-15 11:07:52.302759
+168,4562,Radiografia de Torax,102.18,Normal,2026-05-23 10:52:52.302759
+169,6406,Radiografia de Torax,152.61,Normal,2025-05-19 16:37:52.302759
+170,3065,Prueba de Glucosa,44.79,Normal,2025-07-23 15:52:52.302759
+171,4007,Biometria Hematica,91.83,Normal,2025-09-20 11:22:52.302759
+172,2407,Examen General de Orina,153.31,Normal,2025-10-13 14:37:52.302759
+173,6779,Quimica Sanguinea,121.82,Normal,2025-07-13 10:37:52.302759
+174,6874,Quimica Sanguinea,198.84,Normal,2025-07-27 14:52:52.302759
+175,6633,Examen General de Orina,175.59,Fuera de rango,2025-01-26 14:52:52.302759
+176,4171,Examen General de Orina,176.11,Normal,2024-11-14 04:52:52.302759
+177,4980,Perfil Lipidico,47.77,Normal,2026-05-05 15:07:52.302759
+178,7722,Perfil Lipidico,15.05,Normal,2025-06-18 04:52:52.302759
+179,5177,Quimica Sanguinea,158.38,Normal,2025-10-02 11:07:52.302759
+180,6657,Radiografia de Torax,111.64,Normal,2024-11-02 14:52:52.302759
+181,1477,Perfil Lipidico,145.78,Normal,2025-10-03 12:22:52.302759
+182,1626,Radiografia de Torax,147.24,Normal,2026-01-16 16:22:52.302759
+183,4521,Quimica Sanguinea,30.77,Normal,2025-05-26 07:52:52.302759
+184,4513,Examen General de Orina,132.83,Normal,2025-02-23 13:07:52.302759
+185,3753,Biometria Hematica,70.22,Normal,2025-04-02 06:07:52.302759
+186,1777,Radiografia de Torax,18.54,Normal,2025-01-24 14:07:52.302759
+187,4970,Examen General de Orina,2.6,Normal,2025-10-17 11:22:52.302759
+188,3554,Prueba de Glucosa,165.58,Normal,
+189,1793,Quimica Sanguinea,79.58,Normal,2025-10-17 13:37:52.302759
+190,2842,Quimica Sanguinea,66.18,Fuera de rango,2025-07-28 16:07:52.302759
+191,5127,Biometria Hematica,127.77,Normal,2025-10-22 09:07:52.302759
+192,4074,Radiografia de Torax,185.05,Normal,2025-07-10 05:22:52.302759
+193,103,Radiografia de Torax,145.04,Normal,2026-04-27 09:37:52.302759
+194,6793,Quimica Sanguinea,75.38,Normal,2025-08-17 10:22:52.302759
+195,4805,Examen General de Orina,87.34,Normal,2025-03-08 14:07:52.302759
+196,2722,Quimica Sanguinea,192.34,Normal,2025-08-06 04:52:52.302759
+197,6823,Quimica Sanguinea,36.09,Fuera de rango,2025-01-11 09:07:52.302759
+198,6616,Quimica Sanguinea,110.39,Normal,2026-04-10 08:22:52.302759
+199,5045,Quimica Sanguinea,165.69,Normal,2026-04-23 12:37:52.302759
+200,4942,Biometria Hematica,37.44,Normal,2025-11-27 15:22:52.302759
+201,3975,Quimica Sanguinea,25.54,Fuera de rango,2025-09-10 08:22:52.302759
+202,5748,Examen General de Orina,109.69,Fuera de rango,2024-10-15 04:52:52.302759
+203,6077,Biometria Hematica,2.9,Normal,2026-01-04 14:07:52.302759
+204,7685,Examen General de Orina,58.12,Normal,2025-08-29 09:07:52.302759
+205,396,Quimica Sanguinea,164.17,Normal,2026-07-11 07:37:52.302759
+206,2705,Radiografia de Torax,180.78,Normal,2026-02-26 13:22:52.302759
+207,4167,Quimica Sanguinea,100.3,Normal,2026-01-22 07:22:52.302759
+208,2635,Perfil Lipidico,35.65,Normal,2025-07-11 14:22:52.302759
+209,4245,Quimica Sanguinea,52.85,Normal,2025-10-15 11:07:52.302759
+210,3392,Radiografia de Torax,4.71,Normal,2026-03-26 08:37:52.302759
+211,6167,Prueba de Glucosa,158.65,Normal,2024-09-25 09:07:52.302759
+212,1240,Quimica Sanguinea,190.66,Normal,2025-04-24 14:52:52.302759
+213,3229,Perfil Lipidico,181.99,Fuera de rango,2025-11-23 10:07:52.302759
+214,2752,Prueba de Glucosa,163.74,Normal,2025-06-30 09:52:52.302759
+215,1794,Examen General de Orina,114.47,Normal,2026-02-07 13:37:52.302759
+216,6647,Prueba de Glucosa,58.01,Normal,2025-11-11 06:07:52.302759
+217,2922,Perfil Lipidico,70.2,Normal,2025-05-13 15:37:52.302759
+218,5722,Examen General de Orina,119.28,Normal,2025-10-23 17:22:52.302759
+219,7735,Radiografia de Torax,149.61,Normal,2026-05-27 05:07:52.302759
+220,569,Prueba de Glucosa,50.43,Fuera de rango,2025-12-27 14:07:52.302759
+221,6204,Quimica Sanguinea,187.28,Fuera de rango,2025-12-15 14:22:52.302759
+222,1836,Radiografia de Torax,158.95,Normal,2024-12-17 07:52:52.302759
+223,1814,Biometria Hematica,84.67,Normal,2025-09-21 09:07:52.302759
+224,3569,Prueba de Glucosa,129.75,Normal,2024-12-25 12:37:52.302759
+225,6799,Quimica Sanguinea,153.07,Normal,2025-06-23 08:07:52.302759
+226,4832,Radiografia de Torax,170.31,Normal,2025-03-04 04:52:52.302759
+227,4782,Examen General de Orina,167.24,Normal,2024-12-01 10:37:52.302759
+228,5506,Radiografia de Torax,57.84,Normal,2025-05-31 15:22:52.302759
+229,5037,Perfil Lipidico,176.54,Normal,2025-05-27 09:22:52.302759
+230,5774,Radiografia de Torax,193.0,Normal,2025-02-25 16:37:52.302759
+231,5419,Perfil Lipidico,2.75,Normal,2026-04-21 16:22:52.302759
+232,4635,Perfil Lipidico,85.58,Fuera de rango,2025-09-29 09:52:52.302759
+233,1942,Radiografia de Torax,62.87,Normal,2024-08-03 09:37:52.302759
+234,940,Quimica Sanguinea,146.19,Normal,2026-04-16 07:07:52.302759
+235,6376,Biometria Hematica,170.5,Fuera de rango,2025-07-16 11:07:52.302759
+236,3581,Radiografia de Torax,45.54,Normal,2026-06-27 07:07:52.302759
+237,570,Examen General de Orina,165.02,Normal,2024-08-17 10:22:52.302759
+238,1964,Radiografia de Torax,62.2,Normal,2026-03-10 12:52:52.302759
+239,3559,Biometria Hematica,153.77,Normal,2025-08-25 05:07:52.302759
+240,81,Examen General de Orina,33.58,Normal,2025-12-30 14:37:52.302759
+241,5706,Examen General de Orina,116.47,Normal,2026-06-30 14:07:52.302759
+242,6575,Perfil Lipidico,186.92,Normal,2025-08-05 15:52:52.302759
+243,7905,Examen General de Orina,54.71,Normal,2024-09-20 09:22:52.302759
+244,862,Examen General de Orina,102.69,Normal,2025-08-16 08:52:52.302759
+245,3867,Prueba de Glucosa,24.88,Normal,
+246,674,Quimica Sanguinea,28.56,Normal,2026-03-06 10:52:52.302759
+247,4178,Examen General de Orina,13.92,Normal,2024-08-09 10:37:52.302759
+248,3383,Examen General de Orina,132.61,Normal,
+249,7798,Perfil Lipidico,187.59,Normal,2026-07-04 06:07:52.302759
+250,3134,Biometria Hematica,76.32,Normal,2025-10-02 16:52:52.302759
+251,5597,Biometria Hematica,165.94,Normal,2026-03-30 14:22:52.302759
+252,3833,Prueba de Glucosa,23.04,Normal,2024-08-19 11:52:52.302759
+253,2580,Prueba de Glucosa,88.52,Normal,2026-05-23 07:52:52.302759
+254,7596,Biometria Hematica,162.3,Normal,2024-12-28 07:22:52.302759
+255,5296,Prueba de Glucosa,151.14,Fuera de rango,2026-06-21 07:52:52.302759
+256,3576,Examen General de Orina,146.21,Normal,2024-08-25 12:22:52.302759
+257,5002,Perfil Lipidico,187.5,Normal,2025-07-18 06:37:52.302759
+258,6727,Biometria Hematica,105.26,Fuera de rango,2026-06-19 05:37:52.302759
+259,5938,Radiografia de Torax,31.45,Normal,2026-06-24 13:07:52.302759
+260,5314,Radiografia de Torax,103.09,Normal,2025-02-23 09:07:52.302759
+261,1261,Prueba de Glucosa,3.61,Normal,2024-08-15 15:37:52.302759
+262,5726,Quimica Sanguinea,62.38,Normal,2024-10-04 11:37:52.302759
+263,4610,Perfil Lipidico,54.17,Normal,2026-05-03 11:37:52.302759
+264,7417,Prueba de Glucosa,59.48,Normal,2024-11-04 13:07:52.302759
+265,4449,Quimica Sanguinea,101.09,Fuera de rango,2025-02-05 11:07:52.302759
+266,409,Examen General de Orina,15.94,Normal,2026-05-16 07:52:52.302759
+267,114,Radiografia de Torax,60.01,Normal,2025-01-06 16:37:52.302759
+268,3992,Radiografia de Torax,98.15,Normal,2025-09-20 12:37:52.302759
+269,5091,Examen General de Orina,160.77,Normal,2024-12-28 13:07:52.302759
+270,2571,Radiografia de Torax,168.16,Normal,2025-02-27 15:22:52.302759
+271,2561,Biometria Hematica,54.86,Fuera de rango,2024-10-30 09:07:52.302759
+272,198,Perfil Lipidico,11.95,Fuera de rango,2025-03-09 12:52:52.302759
+273,1888,Perfil Lipidico,171.58,Normal,2026-02-05 04:37:52.302759
+274,2693,Perfil Lipidico,74.35,Normal,2025-06-15 05:37:52.302759
+275,1704,Radiografia de Torax,96.2,Normal,2024-12-20 06:52:52.302759
+276,576,Prueba de Glucosa,188.01,Normal,2025-07-10 08:07:52.302759
+277,7792,Radiografia de Torax,104.11,Normal,2025-11-01 09:22:52.302759
+278,245,Examen General de Orina,91.76,Normal,
+279,2477,Examen General de Orina,3.96,Normal,2024-10-04 06:37:52.302759
+280,5405,Examen General de Orina,94.3,Normal,2024-10-13 08:22:52.302759
+281,4261,Prueba de Glucosa,94.57,Normal,2026-01-19 14:37:52.302759
+282,1508,Radiografia de Torax,124.2,Normal,2024-11-22 13:07:52.302759
+283,7202,Prueba de Glucosa,135.13,Fuera de rango,2025-11-10 14:37:52.302759
+284,5499,Prueba de Glucosa,154.23,Normal,2026-02-25 07:07:52.302759
+285,6661,Radiografia de Torax,21.86,Normal,2026-07-02 10:37:52.302759
+286,6390,Examen General de Orina,56.44,Normal,
+287,6272,Examen General de Orina,83.02,Normal,2024-08-11 06:22:52.302759
+288,5240,Quimica Sanguinea,116.3,Fuera de rango,2024-10-11 13:22:52.302759
+289,5879,Prueba de Glucosa,117.26,Normal,2026-01-06 13:07:52.302759
+290,4287,Prueba de Glucosa,10.82,Normal,2026-01-08 05:07:52.302759
+291,3397,Quimica Sanguinea,10.57,Normal,2025-05-11 05:07:52.302759
+292,2829,Prueba de Glucosa,27.79,Normal,2024-08-25 08:07:52.302759
+293,2281,Examen General de Orina,50.59,Fuera de rango,2024-09-19 08:22:52.302759
+294,5251,Biometria Hematica,28.71,Normal,2026-03-22 10:22:52.302759
+295,7583,Quimica Sanguinea,141.37,Fuera de rango,2025-07-19 09:22:52.302759
+296,6210,Radiografia de Torax,46.07,Normal,2025-11-15 17:22:52.302759
+297,4206,Examen General de Orina,123.08,Normal,2025-03-22 17:22:52.302759
+298,6053,Perfil Lipidico,52.79,Normal,2026-01-07 12:37:52.302759
+299,5708,Radiografia de Torax,82.53,Normal,2025-06-16 16:52:52.302759
+300,1780,Radiografia de Torax,62.04,Normal,2025-01-20 06:22:52.302759
+301,1738,Perfil Lipidico,4.91,Normal,2026-01-22 09:37:52.302759
+302,3575,Radiografia de Torax,60.83,Normal,2024-08-21 17:22:52.302759
+303,6508,Quimica Sanguinea,65.2,Normal,2025-12-08 12:52:52.302759
+304,1016,Biometria Hematica,55.67,Normal,2024-11-28 08:22:52.302759
+305,6723,Radiografia de Torax,5.55,Normal,2025-12-05 14:52:52.302759
+306,3396,Radiografia de Torax,22.61,Fuera de rango,2025-05-29 15:07:52.302759
+307,3674,Radiografia de Torax,198.99,Fuera de rango,2025-06-13 08:52:52.302759
+308,2265,Prueba de Glucosa,176.75,Fuera de rango,2025-12-12 08:07:52.302759
+309,4476,Biometria Hematica,23.1,Fuera de rango,2025-11-06 07:07:52.302759
+310,6030,Biometria Hematica,51.71,Fuera de rango,2025-11-15 07:52:52.302759
+311,259,Examen General de Orina,102.23,Normal,2025-08-05 09:37:52.302759
+312,5700,Perfil Lipidico,137.83,Normal,2025-11-11 08:07:52.302759
+313,6977,Radiografia de Torax,78.82,Fuera de rango,2025-09-01 11:52:52.302759
+314,1217,Quimica Sanguinea,63.01,Normal,2025-08-11 11:22:52.302759
+315,2471,Radiografia de Torax,6.72,Fuera de rango,2025-10-15 13:22:52.302759
+316,1666,Prueba de Glucosa,100.65,Normal,2024-10-21 12:37:52.302759
+317,7526,Perfil Lipidico,17.47,Fuera de rango,2024-08-15 08:52:52.302759
+318,1294,Radiografia de Torax,27.61,Fuera de rango,2025-03-26 09:52:52.302759
+319,1644,Radiografia de Torax,75.66,Fuera de rango,2025-04-27 16:22:52.302759
+320,4720,Examen General de Orina,113.02,Normal,2024-08-04 08:07:52.302759
+321,2239,Prueba de Glucosa,98.59,Normal,2024-11-04 16:37:52.302759
+322,1346,Biometria Hematica,50.63,Normal,2025-04-26 10:22:52.302759
+323,5775,Biometria Hematica,106.82,Normal,2025-09-28 07:52:52.302759
+324,3126,Quimica Sanguinea,155.87,Normal,2024-07-27 15:52:52.302759
+325,3053,Biometria Hematica,10.4,Normal,2024-12-20 05:07:52.302759
+326,7347,Examen General de Orina,195.94,Normal,2025-09-05 09:22:52.302759
+327,4901,Quimica Sanguinea,68.77,Normal,2025-08-04 15:07:52.302759
+328,4722,Biometria Hematica,149.31,Normal,2025-08-23 16:07:52.302759
+329,1815,Radiografia de Torax,178.44,Normal,2026-03-12 12:52:52.302759
+330,4564,Biometria Hematica,154.3,Normal,2025-01-10 09:22:52.302759
+331,3984,Prueba de Glucosa,128.84,Normal,2025-08-07 11:07:52.302759
+332,7332,Quimica Sanguinea,55.82,Normal,2026-03-21 06:52:52.302759
+333,5921,Perfil Lipidico,190.19,Normal,2025-11-10 13:07:52.302759
+334,2918,Examen General de Orina,88.8,Normal,
+335,1713,Perfil Lipidico,124.37,Normal,2026-02-26 07:07:52.302759
+336,1804,Radiografia de Torax,145.87,Normal,2025-09-23 13:52:52.302759
+337,7506,Biometria Hematica,81.35,Normal,2026-07-05 07:37:52.302759
+338,5486,Radiografia de Torax,16.34,Normal,2024-07-29 09:52:52.302759
+339,4482,Examen General de Orina,78.15,Normal,2026-02-02 08:37:52.302759
+340,615,Radiografia de Torax,43.75,Normal,2025-03-01 07:07:52.302759
+341,2848,Quimica Sanguinea,133.51,Normal,2025-10-04 11:22:52.302759
+342,985,Prueba de Glucosa,108.81,Normal,2025-08-11 07:37:52.302759
+343,3649,Perfil Lipidico,100.94,Normal,2026-07-09 11:52:52.302759
+344,6623,Perfil Lipidico,76.74,Normal,2024-10-11 14:52:52.302759
+345,659,Quimica Sanguinea,58.91,Normal,2024-11-15 13:22:52.302759
+346,533,Examen General de Orina,101.51,Normal,2025-07-07 10:22:52.302759
+347,3048,Perfil Lipidico,86.33,Normal,2025-05-13 14:22:52.302759
+348,6947,Perfil Lipidico,44.97,Normal,2026-02-15 16:52:52.302759
+349,5868,Examen General de Orina,59.63,Normal,2024-12-30 14:07:52.302759
+350,6477,Examen General de Orina,66.35,Normal,2026-03-31 06:37:52.302759
+351,1340,Examen General de Orina,197.55,Normal,2024-11-11 04:52:52.302759
+352,4519,Perfil Lipidico,197.38,Normal,2026-03-27 12:52:52.302759
+353,7207,Quimica Sanguinea,24.48,Normal,2025-06-18 12:52:52.302759
+354,6875,Biometria Hematica,134.06,Normal,2025-11-28 12:07:52.302759
+355,2233,Perfil Lipidico,36.05,Normal,2025-03-12 12:52:52.302759
+356,1759,Prueba de Glucosa,6.95,Normal,2024-09-11 12:07:52.302759
+357,6253,Perfil Lipidico,10.37,Normal,2025-04-18 14:22:52.302759
+358,6701,Examen General de Orina,56.1,Normal,2024-09-22 13:52:52.302759
+359,7977,Examen General de Orina,181.82,Fuera de rango,2025-06-12 08:37:52.302759
+360,3762,Quimica Sanguinea,50.38,Normal,2026-07-15 15:52:52.302759
+361,4136,Biometria Hematica,191.68,Normal,2024-07-24 14:07:52.302759
+362,3847,Prueba de Glucosa,118.73,Normal,2025-02-13 11:37:52.302759
+363,4818,Radiografia de Torax,149.5,Normal,2026-02-08 08:07:52.302759
+364,51,Biometria Hematica,129.26,Normal,2024-10-22 11:52:52.302759
+365,626,Perfil Lipidico,186.68,Normal,2025-05-05 11:22:52.302759
+366,5739,Perfil Lipidico,19.77,Normal,2025-05-06 10:22:52.302759
+367,6558,Perfil Lipidico,130.05,Normal,2025-01-08 08:37:52.302759
+368,362,Quimica Sanguinea,61.71,Normal,2024-12-13 11:22:52.302759
+369,4125,Examen General de Orina,26.9,Normal,2026-01-03 05:37:52.302759
+370,916,Radiografia de Torax,191.2,Normal,2026-07-15 07:37:52.302759
+371,5032,Examen General de Orina,173.76,Fuera de rango,2025-08-11 04:52:52.302759
+372,744,Radiografia de Torax,137.1,Normal,2025-10-11 09:52:52.302759
+373,1700,Biometria Hematica,22.45,Normal,2025-12-16 08:37:52.302759
+374,6122,Quimica Sanguinea,148.59,Normal,2025-08-29 12:52:52.302759
+375,3506,Perfil Lipidico,102.78,Normal,2026-02-26 06:52:52.302759
+376,607,Prueba de Glucosa,162.49,Normal,2026-02-02 16:22:52.302759
+377,2962,Quimica Sanguinea,15.9,Fuera de rango,2025-04-11 16:07:52.302759
+378,5421,Perfil Lipidico,174.79,Normal,2025-06-23 12:37:52.302759
+379,655,Biometria Hematica,2.74,Normal,2025-02-21 05:52:52.302759
+380,1189,Biometria Hematica,64.38,Normal,2026-05-08 06:07:52.302759
+381,5156,Quimica Sanguinea,121.12,Normal,2025-01-25 07:07:52.302759
+382,2238,Biometria Hematica,75.86,Normal,2024-08-12 17:07:52.302759
+383,4790,Biometria Hematica,75.63,Normal,2025-12-19 11:37:52.302759
+384,5465,Biometria Hematica,33.42,Fuera de rango,2025-10-10 06:37:52.302759
+385,1296,Prueba de Glucosa,37.6,Normal,2026-07-02 04:52:52.302759
+386,4129,Prueba de Glucosa,11.42,Normal,2026-03-08 05:37:52.302759
+387,6941,Quimica Sanguinea,55.53,Fuera de rango,2025-11-09 05:37:52.302759
+388,6583,Perfil Lipidico,92.1,Fuera de rango,2026-03-04 11:52:52.302759
+389,2172,Radiografia de Torax,3.15,Fuera de rango,2026-05-09 04:37:52.302759
+390,5136,Biometria Hematica,117.21,Normal,2025-03-04 14:07:52.302759
+391,6506,Prueba de Glucosa,43.83,Normal,2026-03-22 11:37:52.302759
+392,491,Radiografia de Torax,0.74,Normal,2025-02-15 15:22:52.302759
+393,1892,Quimica Sanguinea,101.82,Fuera de rango,2025-09-03 04:52:52.302759
+394,2824,Prueba de Glucosa,18.59,Normal,2026-07-15 16:22:52.302759
+395,6589,Quimica Sanguinea,156.75,Normal,2026-02-08 08:22:52.302759
+396,2341,Examen General de Orina,196.57,Fuera de rango,2025-01-24 08:52:52.302759
+397,6133,Radiografia de Torax,181.16,Normal,2024-10-22 14:22:52.302759
+398,2774,Perfil Lipidico,28.99,Normal,2026-07-05 07:07:52.302759
+399,1529,Prueba de Glucosa,39.16,Normal,2026-04-13 16:07:52.302759
+400,2210,Perfil Lipidico,69.19,Normal,2025-10-10 09:22:52.302759
+401,5384,Quimica Sanguinea,86.66,Normal,2025-01-17 06:37:52.302759
+402,423,Biometria Hematica,23.24,Normal,2025-01-12 10:52:52.302759
+403,4764,Perfil Lipidico,129.71,Normal,2026-04-30 06:37:52.302759
+404,7416,Radiografia de Torax,72.46,Normal,2025-08-04 08:37:52.302759
+405,6371,Prueba de Glucosa,136.82,Normal,2025-04-30 11:37:52.302759
+406,3958,Perfil Lipidico,110.24,Normal,2025-04-15 05:22:52.302759
+407,7461,Prueba de Glucosa,68.81,Normal,2025-04-24 07:37:52.302759
+408,2059,Perfil Lipidico,47.57,Fuera de rango,2025-09-09 10:37:52.302759
+409,7143,Radiografia de Torax,86.9,Normal,2025-02-14 12:52:52.302759
+410,199,Biometria Hematica,180.28,Normal,2026-07-13 11:22:52.302759
+411,428,Radiografia de Torax,34.95,Normal,2024-08-29 06:07:52.302759
+412,3825,Quimica Sanguinea,114.98,Normal,2025-05-05 06:22:52.302759
+413,1243,Biometria Hematica,144.11,Normal,2024-10-14 05:37:52.302759
+414,3755,Radiografia de Torax,92.77,Normal,2025-04-21 14:52:52.302759
+415,1365,Biometria Hematica,134.68,Normal,2024-09-13 05:37:52.302759
+416,5892,Prueba de Glucosa,86.0,Normal,2025-10-13 13:07:52.302759
+417,1549,Radiografia de Torax,50.17,Normal,2024-11-03 04:37:52.302759
+418,5633,Prueba de Glucosa,151.33,Normal,2025-09-09 16:37:52.302759
+419,5159,Examen General de Orina,31.63,Normal,2026-05-11 06:52:52.302759
+420,3115,Biometria Hematica,95.49,Fuera de rango,2024-12-05 13:07:52.302759
+421,4301,Quimica Sanguinea,98.93,Normal,2026-02-04 14:52:52.302759
+422,2949,Quimica Sanguinea,20.11,Normal,2024-08-12 04:37:52.302759
+423,5600,Radiografia de Torax,154.03,Normal,2025-12-18 17:07:52.302759
+424,2135,Prueba de Glucosa,112.7,Normal,2026-01-15 08:07:52.302759
+425,7993,Perfil Lipidico,145.38,Normal,2026-04-20 14:22:52.302759
+426,2465,Perfil Lipidico,101.93,Normal,2025-08-05 14:07:52.302759
+427,3135,Perfil Lipidico,68.38,Fuera de rango,2026-01-30 06:52:52.302759
+428,1962,Radiografia de Torax,41.31,Normal,2026-05-08 17:22:52.302759
+429,6956,Quimica Sanguinea,74.92,Normal,2026-06-05 11:52:52.302759
+430,5963,Radiografia de Torax,191.26,Normal,2025-01-02 16:52:52.302759
+431,2799,Quimica Sanguinea,64.02,Normal,2026-03-26 13:37:52.302759
+432,7497,Perfil Lipidico,22.99,Normal,2025-11-24 08:37:52.302759
+433,3929,Quimica Sanguinea,155.86,Normal,2025-04-18 08:07:52.302759
+434,1869,Quimica Sanguinea,1.57,Fuera de rango,2025-06-26 06:22:52.302759
+435,5644,Examen General de Orina,114.1,Normal,2024-12-21 07:07:52.302759
+436,4516,Quimica Sanguinea,180.69,Normal,2025-06-18 07:52:52.302759
+437,1668,Radiografia de Torax,168.31,Normal,2025-03-16 09:22:52.302759
+438,7151,Examen General de Orina,119.71,Normal,2026-05-01 15:07:52.302759
+439,102,Radiografia de Torax,16.35,Fuera de rango,2024-12-11 10:22:52.302759
+440,210,Radiografia de Torax,19.11,Normal,2025-08-30 16:52:52.302759
+441,6551,Examen General de Orina,8.88,Normal,2024-11-12 17:22:52.302759
+442,7929,Prueba de Glucosa,96.74,Fuera de rango,2025-01-22 05:07:52.302759
+443,2534,Prueba de Glucosa,188.67,Fuera de rango,2025-07-31 06:07:52.302759
+444,3032,Prueba de Glucosa,116.03,Normal,2025-05-29 14:52:52.302759
+445,6031,Prueba de Glucosa,89.1,Normal,2024-10-24 11:22:52.302759
+446,1812,Prueba de Glucosa,111.94,Fuera de rango,2025-12-18 13:37:52.302759
+447,7439,Biometria Hematica,44.53,Normal,2025-08-19 04:52:52.302759
+448,6153,Radiografia de Torax,122.57,Fuera de rango,2026-07-14 12:07:52.302759
+449,224,Quimica Sanguinea,26.14,Fuera de rango,2025-09-06 05:37:52.302759
+450,462,Perfil Lipidico,4.87,Normal,2024-10-30 09:22:52.302759
+451,5653,Quimica Sanguinea,45.73,Normal,2025-08-16 13:37:52.302759
+452,6142,Perfil Lipidico,172.36,Normal,2026-07-09 11:52:52.302759
+453,7035,Perfil Lipidico,116.56,Fuera de rango,2024-11-16 06:07:52.302759
+454,7408,Quimica Sanguinea,158.35,Normal,2025-03-17 10:07:52.302759
+455,5527,Perfil Lipidico,120.91,Normal,2025-06-05 15:52:52.302759
+456,1505,Examen General de Orina,158.55,Normal,2026-06-01 11:22:52.302759
+457,4676,Perfil Lipidico,121.6,Normal,2024-11-29 16:22:52.302759
+458,2383,Biometria Hematica,10.06,Normal,2025-06-21 08:22:52.302759
+459,4877,Prueba de Glucosa,152.71,Normal,2025-12-19 16:22:52.302759
+460,2957,Radiografia de Torax,166.17,Normal,2025-11-27 11:37:52.302759
+461,7129,Radiografia de Torax,101.19,Normal,2024-11-24 05:07:52.302759
+462,2314,Examen General de Orina,53.98,Normal,2026-02-02 14:22:52.302759
+463,6310,Biometria Hematica,99.03,Normal,2025-01-08 07:07:52.302759
+464,7051,Biometria Hematica,176.14,Normal,2026-02-03 10:52:52.302759
+465,1451,Prueba de Glucosa,34.53,Normal,2026-05-21 14:52:52.302759
+466,3000,Radiografia de Torax,143.75,Normal,2025-07-13 06:07:52.302759
+467,68,Quimica Sanguinea,97.39,Normal,
+468,5577,Radiografia de Torax,158.42,Fuera de rango,2026-06-13 13:07:52.302759
+469,3344,Examen General de Orina,170.75,Normal,2024-09-29 05:07:52.302759
+470,3326,Prueba de Glucosa,98.26,Normal,2024-11-30 14:52:52.302759
+471,906,Examen General de Orina,64.94,Fuera de rango,2025-10-31 14:07:52.302759
+472,1372,Examen General de Orina,184.77,Normal,2025-04-05 09:37:52.302759
+473,2856,Biometria Hematica,20.13,Normal,2025-02-09 09:22:52.302759
+474,5664,Radiografia de Torax,175.56,Normal,2025-01-16 07:37:52.302759
+475,4305,Examen General de Orina,176.99,Fuera de rango,2025-10-25 05:07:52.302759
+476,6761,Biometria Hematica,11.91,Normal,2026-03-15 11:37:52.302759
+477,377,Examen General de Orina,39.9,Normal,2024-12-19 10:22:52.302759
+478,3995,Examen General de Orina,136.62,Normal,2024-08-29 17:07:52.302759
+479,4688,Quimica Sanguinea,85.64,Normal,2024-12-10 05:52:52.302759
+480,2594,Perfil Lipidico,69.89,Normal,2025-09-08 07:37:52.302759
+481,3393,Prueba de Glucosa,19.63,Normal,2025-10-02 15:37:52.302759
+482,7203,Quimica Sanguinea,77.09,Normal,2024-09-13 06:37:52.302759
+483,3490,Quimica Sanguinea,61.41,Fuera de rango,2025-05-08 14:52:52.302759
+484,2400,Prueba de Glucosa,67.16,Normal,2025-04-10 07:37:52.302759
+485,6559,Biometria Hematica,101.69,Normal,2025-12-07 14:22:52.302759
+486,2002,Perfil Lipidico,64.81,Normal,2025-06-12 05:37:52.302759
+487,5766,Examen General de Orina,51.24,Normal,2024-11-20 13:52:52.302759
+488,7435,Quimica Sanguinea,164.36,Normal,2025-01-24 14:07:52.302759
+489,3759,Prueba de Glucosa,48.79,Fuera de rango,2026-07-08 12:07:52.302759
+490,2841,Perfil Lipidico,24.22,Normal,2025-07-30 16:37:52.302759
+491,2307,Perfil Lipidico,186.6,Fuera de rango,2024-08-06 16:37:52.302759
+492,7317,Quimica Sanguinea,75.93,Normal,2026-03-07 13:37:52.302759
+493,2229,Biometria Hematica,13.67,Normal,2025-08-25 04:52:52.302759
+494,2186,Biometria Hematica,90.12,Normal,2026-05-23 15:07:52.302759
+495,7383,Prueba de Glucosa,164.85,Normal,2025-02-04 08:37:52.302759
+496,2926,Quimica Sanguinea,154.96,Fuera de rango,2024-12-30 14:22:52.302759
+497,6189,Perfil Lipidico,22.8,Normal,2025-02-28 15:22:52.302759
+498,1284,Perfil Lipidico,195.52,Normal,2026-05-30 05:52:52.302759
+499,715,Biometria Hematica,18.71,Normal,2026-06-14 06:22:52.302759
+500,5559,Perfil Lipidico,11.81,Normal,2025-03-09 09:22:52.302759
+501,2129,Radiografia de Torax,7.78,Fuera de rango,2025-11-15 09:22:52.302759
+502,119,Quimica Sanguinea,164.78,Normal,
+503,756,Quimica Sanguinea,153.38,Normal,2025-06-01 10:22:52.302759
+504,4274,Perfil Lipidico,90.75,Normal,2026-01-11 15:22:52.302759
+505,6577,Prueba de Glucosa,25.44,Normal,2025-10-13 04:37:52.302759
+506,5147,Examen General de Orina,153.72,Normal,2025-09-11 08:52:52.302759
+507,5752,Examen General de Orina,193.0,Fuera de rango,2025-07-25 16:37:52.302759
+508,7959,Prueba de Glucosa,45.41,Normal,2024-07-22 17:07:52.302759
+509,2707,Biometria Hematica,8.73,Normal,2026-06-08 11:07:52.302759
+510,394,Biometria Hematica,8.25,Normal,2025-11-26 04:52:52.302759
+511,687,Examen General de Orina,25.71,Normal,2026-03-07 04:52:52.302759
+512,7599,Perfil Lipidico,121.31,Normal,2024-08-27 08:52:52.302759
+513,307,Perfil Lipidico,59.59,Normal,2024-10-28 11:07:52.302759
+514,5270,Radiografia de Torax,46.11,Normal,2025-07-14 13:07:52.302759
+515,1943,Biometria Hematica,40.88,Normal,2024-12-12 14:37:52.302759
+516,7602,Quimica Sanguinea,17.46,Normal,2024-08-18 12:22:52.302759
+517,7324,Perfil Lipidico,55.29,Normal,2025-07-24 14:52:52.302759
+518,7268,Radiografia de Torax,137.82,Fuera de rango,2024-12-17 16:37:52.302759
+519,6155,Examen General de Orina,74.07,Normal,2026-03-05 17:07:52.302759
+520,7954,Radiografia de Torax,154.77,Normal,2025-07-13 14:37:52.302759
+521,4115,Perfil Lipidico,93.7,Normal,2025-01-11 15:52:52.302759
+522,7898,Prueba de Glucosa,14.22,Fuera de rango,2025-05-12 10:22:52.302759
+523,117,Perfil Lipidico,117.88,Normal,2024-08-25 06:07:52.302759
+524,4940,Examen General de Orina,115.3,Normal,2026-04-05 07:52:52.302759
+525,390,Perfil Lipidico,175.58,Normal,2024-11-07 09:52:52.302759
+526,4806,Prueba de Glucosa,90.56,Normal,2025-07-21 12:07:52.302759
+527,6807,Prueba de Glucosa,37.73,Normal,2026-02-07 05:37:52.302759
+528,6776,Radiografia de Torax,117.44,Normal,2024-09-27 16:22:52.302759
+529,2621,Radiografia de Torax,170.33,Normal,2024-08-14 13:37:52.302759
+530,4385,Perfil Lipidico,68.01,Fuera de rango,2024-12-01 14:07:52.302759
+531,2479,Radiografia de Torax,155.54,Normal,2024-09-09 09:22:52.302759
+532,5490,Prueba de Glucosa,135.57,Normal,2024-10-28 08:37:52.302759
+533,6169,Radiografia de Torax,170.55,Fuera de rango,2024-11-10 06:22:52.302759
+534,2616,Examen General de Orina,42.44,Fuera de rango,2025-08-24 09:37:52.302759
+535,1844,Perfil Lipidico,83.85,Normal,2024-10-09 06:52:52.302759
+536,1459,Perfil Lipidico,194.62,Normal,2024-12-19 09:52:52.302759
+537,6095,Prueba de Glucosa,21.38,Normal,2024-09-08 11:52:52.302759
+538,7046,Perfil Lipidico,91.96,Normal,2025-10-17 12:37:52.302759
+539,1797,Quimica Sanguinea,24.66,Normal,2024-08-17 13:52:52.302759
+540,1232,Perfil Lipidico,30.83,Normal,2026-02-19 07:22:52.302759
+541,3848,Perfil Lipidico,91.19,Normal,2025-11-26 04:37:52.302759
+542,2319,Radiografia de Torax,99.82,Normal,2026-05-04 15:37:52.302759
+543,2893,Radiografia de Torax,21.37,Normal,2025-09-04 04:37:52.302759
+544,1417,Examen General de Orina,199.56,Normal,2024-10-14 10:37:52.302759
+545,327,Perfil Lipidico,130.83,Normal,2025-08-02 12:22:52.302759
+546,4095,Radiografia de Torax,68.02,Normal,2025-09-11 06:22:52.302759
+547,3548,Prueba de Glucosa,185.32,Normal,2025-02-16 12:22:52.302759
+548,1471,Radiografia de Torax,137.99,Normal,2025-01-20 07:22:52.302759
+549,6782,Biometria Hematica,74.99,Normal,
+550,6892,Biometria Hematica,132.66,Normal,2026-05-03 11:37:52.302759
+551,3740,Prueba de Glucosa,187.26,Normal,2025-07-23 04:37:52.302759
+552,18,Quimica Sanguinea,140.0,Normal,2026-03-25 10:52:52.302759
+553,5532,Prueba de Glucosa,87.82,Normal,2025-10-10 11:37:52.302759
+554,4725,Quimica Sanguinea,198.76,Normal,2026-03-06 16:07:52.302759
+555,6000,Examen General de Orina,170.32,Normal,2026-03-16 11:07:52.302759
+556,11,Radiografia de Torax,36.33,Fuera de rango,2025-12-03 14:37:52.302759
+557,2409,Radiografia de Torax,31.6,Normal,2025-05-01 10:22:52.302759
+558,7733,Prueba de Glucosa,98.93,Normal,2026-03-17 09:22:52.302759
+559,406,Perfil Lipidico,44.09,Normal,2025-04-27 13:37:52.302759
+560,3618,Prueba de Glucosa,127.16,Normal,2025-05-03 14:07:52.302759
+561,7271,Biometria Hematica,122.29,Normal,2025-02-01 06:07:52.302759
+562,3901,Quimica Sanguinea,173.82,Normal,2024-10-31 11:07:52.302759
+563,7371,Perfil Lipidico,71.68,Normal,2025-06-17 15:22:52.302759
+564,3051,Prueba de Glucosa,192.59,Normal,2025-07-25 05:52:52.302759
+565,5163,Examen General de Orina,48.12,Normal,2024-12-23 12:22:52.302759
+566,7516,Biometria Hematica,154.01,Normal,2026-01-05 10:37:52.302759
+567,844,Prueba de Glucosa,51.6,Fuera de rango,2025-02-19 06:22:52.302759
+568,5350,Examen General de Orina,73.39,Normal,2024-10-13 09:22:52.302759
+569,2656,Prueba de Glucosa,5.1,Fuera de rango,2025-06-28 07:07:52.302759
+570,6319,Biometria Hematica,69.74,Normal,2025-02-13 05:37:52.302759
+571,1150,Prueba de Glucosa,117.25,Normal,2026-06-07 15:22:52.302759
+572,7847,Radiografia de Torax,64.27,Normal,2026-05-20 10:22:52.302759
+573,4473,Radiografia de Torax,185.97,Normal,2025-04-04 13:52:52.302759
+574,7913,Quimica Sanguinea,86.52,Fuera de rango,2025-10-25 14:52:52.302759
+575,2980,Perfil Lipidico,111.34,Normal,2025-08-27 05:52:52.302759
+576,1518,Quimica Sanguinea,89.34,Normal,2024-11-04 11:37:52.302759
+577,3469,Biometria Hematica,76.66,Normal,2026-04-28 11:37:52.302759
+578,6222,Examen General de Orina,114.22,Normal,2026-04-11 09:37:52.302759
+579,4859,Examen General de Orina,159.92,Normal,2025-03-26 16:22:52.302759
+580,7880,Biometria Hematica,66.04,Normal,2026-03-19 16:07:52.302759
+581,1437,Quimica Sanguinea,58.06,Normal,2025-05-03 05:07:52.302759
+582,7511,Perfil Lipidico,143.63,Normal,2026-06-29 05:22:52.302759
+583,3953,Examen General de Orina,84.73,Normal,2026-05-10 06:37:52.302759
+584,5665,Prueba de Glucosa,181.75,Normal,2026-04-27 05:07:52.302759
+585,1430,Perfil Lipidico,137.43,Normal,2025-11-05 17:22:52.302759
+586,243,Radiografia de Torax,88.54,Fuera de rango,2025-02-15 14:07:52.302759
+587,4920,Biometria Hematica,56.6,Normal,2026-01-25 10:22:52.302759
+588,5003,Biometria Hematica,143.96,Normal,2026-03-18 10:37:52.302759
+589,2865,Radiografia de Torax,72.67,Normal,2025-12-11 08:22:52.302759
+590,6166,Radiografia de Torax,184.7,Normal,2025-02-09 06:37:52.302759
+591,529,Quimica Sanguinea,161.9,Normal,2025-11-29 16:07:52.302759
+592,7302,Quimica Sanguinea,176.05,Fuera de rango,2025-02-09 06:07:52.302759
+593,2151,Quimica Sanguinea,1.26,Normal,2025-01-17 06:37:52.302759
+594,6671,Biometria Hematica,190.94,Normal,2025-05-27 05:07:52.302759
+595,6940,Biometria Hematica,124.15,Fuera de rango,2025-01-30 13:07:52.302759
+596,1305,Perfil Lipidico,147.84,Normal,2026-06-14 15:37:52.302759
+597,6417,Perfil Lipidico,86.75,Normal,2026-03-21 13:52:52.302759
+598,107,Examen General de Orina,199.21,Normal,2026-07-04 16:37:52.302759
+599,5271,Radiografia de Torax,131.15,Normal,2025-06-29 14:22:52.302759
+600,1721,Radiografia de Torax,17.92,Fuera de rango,2025-08-11 04:52:52.302759
+601,2846,Radiografia de Torax,6.18,Normal,2026-06-08 07:37:52.302759
+602,520,Examen General de Orina,62.94,Normal,2025-06-21 05:22:52.302759
+603,5262,Perfil Lipidico,98.16,Normal,2026-06-18 04:52:52.302759
+604,6301,Quimica Sanguinea,46.78,Normal,2024-08-25 17:22:52.302759
+605,1960,Perfil Lipidico,0.88,Normal,2024-12-21 05:22:52.302759
+606,2674,Prueba de Glucosa,164.54,Normal,2024-09-09 12:52:52.302759
+607,3177,Perfil Lipidico,170.18,Normal,2025-09-12 11:37:52.302759
+608,735,Perfil Lipidico,94.37,Normal,2025-04-18 12:37:52.302759
+609,4641,Biometria Hematica,159.71,Normal,2025-08-16 14:37:52.302759
+610,2716,Quimica Sanguinea,101.12,Normal,2025-10-20 17:07:52.302759
+611,2221,Radiografia de Torax,146.06,Normal,2024-12-22 15:22:52.302759
+612,3927,Quimica Sanguinea,63.73,Normal,2024-10-01 16:52:52.302759
+613,7799,Prueba de Glucosa,163.18,Normal,2024-08-18 07:37:52.302759
+614,1328,Radiografia de Torax,36.58,Normal,2026-04-26 07:37:52.302759
+615,2302,Perfil Lipidico,185.08,Normal,2026-07-14 16:07:52.302759
+616,230,Radiografia de Torax,156.84,Normal,2026-07-09 08:37:52.302759
+617,5399,Radiografia de Torax,67.72,Normal,2024-09-01 08:07:52.302759
+618,5369,Quimica Sanguinea,20.47,Normal,2026-06-29 14:37:52.302759
+619,7543,Prueba de Glucosa,166.94,Normal,2026-01-31 10:22:52.302759
+620,4527,Perfil Lipidico,105.39,Normal,2025-10-18 15:07:52.302759
+621,3187,Radiografia de Torax,66.92,Normal,2026-05-01 06:37:52.302759
+622,6245,Quimica Sanguinea,170.98,Normal,2026-02-12 08:07:52.302759
+623,596,Examen General de Orina,138.73,Normal,2026-03-21 08:07:52.302759
+624,5682,Examen General de Orina,163.28,Normal,2025-02-24 11:37:52.302759
+625,5844,Biometria Hematica,65.49,Normal,2025-08-30 06:37:52.302759
+626,4938,Perfil Lipidico,73.34,Normal,2025-07-20 12:22:52.302759
+627,5375,Radiografia de Torax,162.62,Normal,2025-11-15 09:37:52.302759
+628,7159,Prueba de Glucosa,11.46,Normal,2025-10-05 06:52:52.302759
+629,4466,Examen General de Orina,141.0,Normal,2024-07-25 15:07:52.302759
+630,6180,Radiografia de Torax,51.42,Normal,2025-11-17 16:52:52.302759
+631,2214,Biometria Hematica,1.86,Normal,2025-05-29 09:37:52.302759
+632,932,Prueba de Glucosa,185.04,Normal,2026-02-28 16:07:52.302759
+633,5435,Quimica Sanguinea,75.5,Normal,2024-11-27 14:37:52.302759
+634,281,Examen General de Orina,178.21,Normal,2024-08-26 12:07:52.302759
+635,6098,Perfil Lipidico,19.88,Normal,2025-07-30 15:37:52.302759
+636,6181,Prueba de Glucosa,25.78,Normal,2026-06-14 15:07:52.302759
+637,7819,Radiografia de Torax,76.79,Normal,
+638,2733,Examen General de Orina,153.49,Normal,2026-07-04 15:07:52.302759
+639,4697,Radiografia de Torax,122.38,Fuera de rango,2025-09-15 13:37:52.302759
+640,6008,Prueba de Glucosa,40.46,Normal,2025-11-02 05:52:52.302759
+641,5273,Biometria Hematica,38.54,Normal,2025-04-14 05:52:52.302759
+642,4582,Radiografia de Torax,44.63,Fuera de rango,2026-06-18 05:07:52.302759
+643,3800,Quimica Sanguinea,150.42,Normal,2024-09-21 08:52:52.302759
+644,4308,Examen General de Orina,124.63,Normal,2026-04-16 08:22:52.302759
+645,6250,Perfil Lipidico,70.46,Normal,2024-10-29 12:52:52.302759
+646,3823,Radiografia de Torax,159.54,Normal,2025-06-15 16:07:52.302759
+647,4373,Examen General de Orina,12.48,Normal,2026-01-26 09:22:52.302759
+648,2012,Prueba de Glucosa,81.39,Normal,2025-03-05 14:52:52.302759
+649,3670,Biometria Hematica,83.33,Fuera de rango,2026-05-09 05:07:52.302759
+650,1493,Perfil Lipidico,48.21,Fuera de rango,2025-10-30 10:22:52.302759
+651,2511,Prueba de Glucosa,72.28,Normal,2025-12-20 05:52:52.302759
+652,314,Perfil Lipidico,106.56,Fuera de rango,2026-06-25 07:07:52.302759
+653,3504,Examen General de Orina,72.82,Normal,2024-09-22 13:52:52.302759
+654,4288,Biometria Hematica,37.42,Normal,2026-03-23 13:22:52.302759
+655,274,Quimica Sanguinea,151.78,Normal,2026-04-14 10:37:52.302759
+656,4008,Prueba de Glucosa,30.18,Normal,2025-11-10 14:07:52.302759
+657,1662,Perfil Lipidico,146.52,Normal,2026-04-18 06:52:52.302759
+658,85,Perfil Lipidico,127.9,Normal,2025-01-01 13:52:52.302759
+659,1680,Biometria Hematica,75.9,Normal,2024-12-09 12:22:52.302759
+660,6470,Biometria Hematica,106.76,Normal,2025-02-17 16:52:52.302759
+661,6863,Examen General de Orina,196.8,Normal,
+662,6536,Radiografia de Torax,81.71,Fuera de rango,2025-09-07 05:37:52.302759
+663,3368,Radiografia de Torax,38.57,Fuera de rango,2025-01-12 10:52:52.302759
+664,1729,Quimica Sanguinea,96.11,Normal,2026-03-25 06:52:52.302759
+665,7621,Radiografia de Torax,106.81,Normal,2025-11-15 16:37:52.302759
+666,3492,Quimica Sanguinea,175.9,Fuera de rango,2024-07-19 11:37:52.302759
+667,3956,Biometria Hematica,71.91,Fuera de rango,2024-11-27 17:07:52.302759
+668,7912,Biometria Hematica,155.88,Normal,2026-03-01 09:22:52.302759
+669,4390,Radiografia de Torax,53.73,Normal,2024-10-12 05:37:52.302759
+670,2334,Examen General de Orina,119.7,Normal,2025-07-15 06:22:52.302759
+671,7539,Perfil Lipidico,67.79,Normal,2026-06-25 08:37:52.302759
+672,1064,Examen General de Orina,53.09,Normal,2025-06-21 09:37:52.302759
+673,3255,Quimica Sanguinea,42.68,Normal,2025-02-16 06:37:52.302759
+674,4650,Biometria Hematica,83.61,Normal,2025-02-12 12:52:52.302759
+675,6128,Prueba de Glucosa,50.46,Normal,2025-09-01 12:07:52.302759
+676,4149,Perfil Lipidico,27.21,Normal,2024-08-02 08:07:52.302759
+677,6482,Prueba de Glucosa,137.69,Normal,2024-10-05 13:22:52.302759
+678,6065,Biometria Hematica,173.06,Fuera de rango,2026-02-07 13:37:52.302759
+679,460,Radiografia de Torax,115.92,Normal,2026-04-10 14:52:52.302759
+680,667,Perfil Lipidico,16.26,Normal,2025-08-31 10:37:52.302759
+681,7850,Radiografia de Torax,7.52,Normal,2025-04-13 15:37:52.302759
+682,2576,Examen General de Orina,163.0,Normal,2025-03-11 09:52:52.302759
+683,357,Radiografia de Torax,22.99,Normal,2025-03-02 15:37:52.302759
+684,6636,Perfil Lipidico,53.7,Normal,2025-09-10 17:07:52.302759
+685,6363,Radiografia de Torax,126.32,Fuera de rango,2025-06-02 11:07:52.302759
+686,7638,Radiografia de Torax,118.13,Fuera de rango,2025-03-21 08:07:52.302759
+687,7641,Quimica Sanguinea,74.52,Normal,2026-01-19 05:07:52.302759
+688,222,Quimica Sanguinea,59.96,Normal,2025-09-14 06:52:52.302759
+689,2274,Biometria Hematica,151.93,Normal,2026-04-12 11:52:52.302759
+690,2627,Prueba de Glucosa,138.78,Normal,2026-07-10 10:07:52.302759
+691,4062,Biometria Hematica,117.6,Normal,2025-12-01 11:37:52.302759
+692,930,Examen General de Orina,38.7,Normal,2025-07-31 06:07:52.302759
+693,613,Examen General de Orina,49.75,Normal,2025-09-24 09:07:52.302759
+694,5012,Perfil Lipidico,84.33,Normal,
+695,4590,Radiografia de Torax,8.27,Normal,
+696,6170,Perfil Lipidico,19.91,Normal,2024-08-26 08:07:52.302759
+697,5154,Prueba de Glucosa,80.13,Normal,2025-09-16 12:52:52.302759
+698,7401,Radiografia de Torax,174.82,Normal,2025-03-13 08:52:52.302759
+699,2300,Biometria Hematica,87.61,Normal,2025-02-09 08:52:52.302759
+700,1292,Radiografia de Torax,10.67,Fuera de rango,2025-08-28 12:52:52.302759
+701,7020,Biometria Hematica,149.33,Fuera de rango,2025-06-04 15:22:52.302759
+702,1624,Quimica Sanguinea,131.96,Normal,2026-03-28 14:37:52.302759
+703,7079,Prueba de Glucosa,64.37,Normal,2025-02-07 09:22:52.302759
+704,3213,Quimica Sanguinea,144.93,Normal,2026-06-10 15:07:52.302759
+705,4116,Biometria Hematica,168.06,Normal,2025-01-30 17:22:52.302759
+706,6232,Quimica Sanguinea,175.13,Normal,2024-09-05 13:52:52.302759
+707,211,Biometria Hematica,99.89,Normal,2026-02-23 05:07:52.302759
+708,1327,Biometria Hematica,111.03,Fuera de rango,2025-11-13 09:37:52.302759
+709,4684,Biometria Hematica,187.02,Normal,2026-04-10 13:37:52.302759
+710,1333,Biometria Hematica,89.04,Normal,2026-05-12 17:07:52.302759
+711,3553,Radiografia de Torax,14.52,Fuera de rango,2024-10-31 12:37:52.302759
+712,1737,Radiografia de Torax,154.81,Normal,2025-11-02 10:22:52.302759
+713,391,Biometria Hematica,4.74,Normal,2024-07-17 16:22:52.302759
+714,4197,Prueba de Glucosa,67.15,Normal,2025-03-06 04:52:52.302759
+715,2349,Examen General de Orina,185.18,Normal,2024-10-28 05:22:52.302759
+716,5275,Radiografia de Torax,191.97,Normal,2025-11-07 10:22:52.302759
+717,5573,Examen General de Orina,6.6,Normal,2026-01-20 07:07:52.302759
+718,6160,Perfil Lipidico,89.04,Normal,2025-06-08 11:52:52.302759
+719,7978,Perfil Lipidico,40.71,Normal,2025-01-02 14:22:52.302759
+720,7011,Biometria Hematica,193.12,Fuera de rango,2026-02-03 06:22:52.302759
+721,619,Quimica Sanguinea,37.05,Normal,2026-05-30 06:07:52.302759
+722,6603,Perfil Lipidico,161.28,Normal,2025-07-05 07:07:52.302759
+723,3651,Biometria Hematica,125.1,Normal,2025-11-27 10:07:52.302759
+724,268,Examen General de Orina,141.11,Normal,2025-10-23 16:37:52.302759
+725,7088,Radiografia de Torax,111.71,Fuera de rango,2026-04-13 09:37:52.302759
+726,6732,Prueba de Glucosa,30.18,Normal,2025-10-24 11:52:52.302759
+727,1839,Prueba de Glucosa,108.06,Normal,
+728,2393,Perfil Lipidico,94.15,Fuera de rango,2024-12-31 09:52:52.302759
+729,7755,Biometria Hematica,15.18,Normal,2025-04-16 12:22:52.302759
+730,7083,Radiografia de Torax,14.48,Normal,2026-01-16 04:52:52.302759
+731,939,Examen General de Orina,178.1,Normal,2024-12-02 10:07:52.302759
+732,4907,Examen General de Orina,130.93,Fuera de rango,2025-11-11 12:07:52.302759
+733,920,Prueba de Glucosa,128.62,Normal,2024-08-03 13:07:52.302759
+734,3669,Radiografia de Torax,4.09,Normal,2024-09-08 09:37:52.302759
+735,407,Perfil Lipidico,157.91,Normal,2026-05-31 04:52:52.302759
+736,2130,Biometria Hematica,109.8,Fuera de rango,2025-06-05 11:07:52.302759
+737,7990,Examen General de Orina,182.05,Fuera de rango,2024-08-22 07:52:52.302759
+738,3419,Prueba de Glucosa,147.34,Fuera de rango,2024-08-13 11:37:52.302759
+739,3260,Biometria Hematica,192.94,Normal,2025-10-04 09:07:52.302759
+740,7489,Prueba de Glucosa,111.38,Normal,2024-09-05 12:22:52.302759
+741,2966,Quimica Sanguinea,13.26,Normal,2024-08-11 08:22:52.302759
+742,2760,Examen General de Orina,140.61,Normal,2025-01-11 16:37:52.302759
+743,5742,Examen General de Orina,197.34,Normal,2026-06-11 12:37:52.302759
+744,5743,Radiografia de Torax,111.89,Normal,2026-05-15 15:22:52.302759
+745,3093,Quimica Sanguinea,16.96,Normal,2025-12-13 05:37:52.302759
+746,2932,Prueba de Glucosa,170.34,Normal,2025-02-11 14:37:52.302759
+747,535,Biometria Hematica,55.56,Normal,2026-06-16 07:22:52.302759
+748,424,Biometria Hematica,161.72,Normal,2024-12-02 15:37:52.302759
+749,1186,Perfil Lipidico,141.34,Normal,2026-03-30 13:07:52.302759
+750,4713,Examen General de Orina,40.24,Fuera de rango,2025-09-02 07:22:52.302759
+751,7937,Biometria Hematica,107.29,Normal,2025-01-17 12:37:52.302759
+752,4414,Biometria Hematica,136.01,Normal,2024-12-19 13:07:52.302759
+753,2623,Perfil Lipidico,50.48,Normal,2024-09-18 05:22:52.302759
+754,4799,Radiografia de Torax,111.36,Normal,2025-10-20 04:37:52.302759
+755,5983,Prueba de Glucosa,173.98,Normal,2025-04-12 06:37:52.302759
+756,320,Biometria Hematica,100.14,Normal,2025-12-30 09:52:52.302759
+757,5146,Perfil Lipidico,47.34,Normal,2025-03-30 05:37:52.302759
+758,3925,Quimica Sanguinea,123.93,Normal,2025-12-08 07:37:52.302759
+759,5952,Quimica Sanguinea,36.45,Fuera de rango,2025-11-06 16:37:52.302759
+760,3440,Radiografia de Torax,191.42,Fuera de rango,2024-10-06 07:22:52.302759
+761,6869,Biometria Hematica,172.35,Normal,2026-05-23 11:52:52.302759
+762,7094,Quimica Sanguinea,39.59,Normal,2026-03-10 09:22:52.302759
+763,6009,Prueba de Glucosa,61.29,Fuera de rango,2026-01-07 12:07:52.302759
+764,3136,Radiografia de Torax,140.87,Fuera de rango,2025-11-16 15:37:52.302759
+765,730,Quimica Sanguinea,25.47,Normal,2025-12-26 11:22:52.302759
+766,63,Examen General de Orina,89.81,Fuera de rango,2025-03-07 16:37:52.302759
+767,4968,Perfil Lipidico,120.19,Normal,2026-02-18 10:37:52.302759
+768,3189,Biometria Hematica,80.26,Fuera de rango,2025-10-06 14:52:52.302759
+769,4029,Perfil Lipidico,139.33,Normal,2024-12-10 14:07:52.302759
+770,6517,Biometria Hematica,43.8,Fuera de rango,2024-10-30 13:22:52.302759
+771,7212,Perfil Lipidico,180.43,Fuera de rango,2024-09-28 12:37:52.302759
+772,395,Examen General de Orina,115.86,Normal,2025-09-26 07:07:52.302759
+773,3613,Perfil Lipidico,8.03,Normal,2024-12-02 14:37:52.302759
+774,4020,Prueba de Glucosa,143.87,Normal,2025-09-01 16:37:52.302759
+775,6901,Examen General de Orina,95.04,Normal,2025-11-27 12:37:52.302759
+776,7653,Perfil Lipidico,133.06,Normal,2026-05-05 06:22:52.302759
+777,4222,Perfil Lipidico,135.58,Fuera de rango,2025-04-02 05:52:52.302759
+778,6576,Examen General de Orina,24.51,Normal,
+779,5704,Biometria Hematica,142.66,Normal,2026-05-31 06:22:52.302759
+780,1936,Prueba de Glucosa,121.17,Normal,2026-04-13 09:07:52.302759
+781,284,Quimica Sanguinea,146.38,Normal,2025-03-28 09:07:52.302759
+782,704,Radiografia de Torax,98.7,Normal,2024-11-24 09:07:52.302759
+783,7710,Biometria Hematica,164.84,Fuera de rango,2025-09-06 12:37:52.302759
+784,3589,Examen General de Orina,6.53,Normal,2025-11-21 07:07:52.302759
+785,3892,Perfil Lipidico,23.46,Normal,2026-01-17 10:22:52.302759
+786,546,Radiografia de Torax,81.19,Normal,2026-03-15 06:07:52.302759
+787,2779,Radiografia de Torax,65.63,Normal,2024-08-13 11:37:52.302759
+788,521,Radiografia de Torax,12.78,Fuera de rango,2025-05-12 08:22:52.302759
+789,2987,Prueba de Glucosa,126.36,Normal,2025-12-15 08:22:52.302759
+790,4085,Prueba de Glucosa,98.63,Normal,2025-04-26 14:52:52.302759
+791,502,Prueba de Glucosa,135.21,Normal,2026-03-23 07:52:52.302759
+792,56,Examen General de Orina,72.39,Normal,2025-05-01 11:22:52.302759
+793,3878,Perfil Lipidico,42.6,Normal,2025-01-20 12:37:52.302759
+794,3261,Radiografia de Torax,79.59,Fuera de rango,2026-04-14 13:22:52.302759
+795,2230,Perfil Lipidico,30.83,Normal,2026-06-21 12:07:52.302759
+796,4036,Prueba de Glucosa,88.81,Fuera de rango,2025-04-08 08:07:52.302759
+797,6609,Quimica Sanguinea,95.67,Normal,2026-04-22 08:07:52.302759
+798,4080,Biometria Hematica,190.13,Normal,2025-09-29 07:22:52.302759
+799,4356,Radiografia de Torax,130.21,Normal,2026-01-02 16:22:52.302759
+800,6611,Examen General de Orina,165.17,Normal,2025-02-24 08:52:52.302759
+801,998,Biometria Hematica,191.22,Normal,2024-08-01 16:52:52.302759
+802,7218,Biometria Hematica,58.11,Normal,2024-09-24 04:52:52.302759
+803,25,Radiografia de Torax,197.21,Fuera de rango,2026-04-15 05:07:52.302759
+804,6244,Biometria Hematica,37.94,Fuera de rango,2025-12-16 10:07:52.302759
+805,5835,Perfil Lipidico,92.74,Normal,2026-01-08 07:52:52.302759
+806,3698,Radiografia de Torax,27.97,Fuera de rango,2025-03-14 11:52:52.302759
+807,5625,Perfil Lipidico,69.98,Normal,2025-06-24 14:07:52.302759
+808,760,Examen General de Orina,46.91,Normal,2025-12-22 06:22:52.302759
+809,1910,Radiografia de Torax,29.73,Normal,2026-04-16 15:52:52.302759
+810,1434,Prueba de Glucosa,28.53,Normal,2026-04-09 08:37:52.302759
+811,246,Prueba de Glucosa,74.51,Normal,2026-01-17 05:37:52.302759
+812,6057,Prueba de Glucosa,183.94,Fuera de rango,2025-07-21 10:07:52.302759
+813,6905,Examen General de Orina,92.13,Normal,2024-12-04 06:07:52.302759
+814,6193,Radiografia de Torax,111.03,Normal,2025-06-09 08:52:52.302759
+815,69,Quimica Sanguinea,120.75,Normal,2025-02-27 13:52:52.302759
+816,4174,Examen General de Orina,20.93,Fuera de rango,
+817,3219,Prueba de Glucosa,84.48,Normal,2025-01-16 04:52:52.302759
+818,6778,Perfil Lipidico,34.38,Normal,2025-08-30 10:37:52.302759
+819,4892,Prueba de Glucosa,64.87,Normal,2026-01-07 06:22:52.302759
+820,4011,Biometria Hematica,186.38,Normal,2025-09-19 07:22:52.302759
+821,6278,Examen General de Orina,130.86,Normal,2025-09-29 09:52:52.302759
+822,3156,Examen General de Orina,69.6,Normal,2026-05-26 06:37:52.302759
+823,129,Quimica Sanguinea,41.87,Normal,2025-12-15 05:22:52.302759
+824,6543,Radiografia de Torax,73.44,Fuera de rango,2024-08-17 07:37:52.302759
+825,6780,Perfil Lipidico,173.94,Fuera de rango,2025-09-27 15:07:52.302759
+826,4184,Radiografia de Torax,16.46,Normal,2025-09-29 05:07:52.302759
+827,4592,Examen General de Orina,69.71,Normal,2026-06-23 17:22:52.302759
+828,1230,Radiografia de Torax,113.89,Normal,2025-12-01 07:52:52.302759
+829,4138,Quimica Sanguinea,34.61,Normal,2025-10-17 04:52:52.302759
+830,754,Quimica Sanguinea,157.86,Fuera de rango,2025-09-11 06:52:52.302759
+831,4192,Quimica Sanguinea,61.57,Normal,2025-07-24 11:37:52.302759
+832,4221,Quimica Sanguinea,101.89,Normal,2025-09-08 07:52:52.302759
+833,4891,Prueba de Glucosa,148.89,Normal,2025-07-24 15:22:52.302759
+834,3125,Biometria Hematica,123.24,Normal,2025-02-22 06:07:52.302759
+835,7565,Radiografia de Torax,55.79,Normal,2025-11-14 09:37:52.302759
+836,3381,Perfil Lipidico,193.76,Normal,2025-05-27 13:37:52.302759
+837,7081,Perfil Lipidico,76.72,Normal,2025-10-02 13:22:52.302759
+838,6178,Quimica Sanguinea,115.39,Normal,2025-07-26 12:52:52.302759
+839,832,Examen General de Orina,13.33,Normal,2026-02-11 09:37:52.302759
+840,4594,Perfil Lipidico,131.56,Normal,2025-03-28 16:37:52.302759
+841,5930,Examen General de Orina,93.75,Fuera de rango,2025-03-19 12:52:52.302759
+842,1631,Perfil Lipidico,192.84,Normal,2025-07-07 08:52:52.302759
+843,3489,Prueba de Glucosa,19.72,Fuera de rango,
+844,871,Quimica Sanguinea,26.42,Normal,2024-09-20 10:07:52.302759
+845,5690,Radiografia de Torax,76.41,Normal,2025-08-26 11:22:52.302759
+846,1643,Biometria Hematica,35.75,Normal,2024-09-30 15:22:52.302759
+847,3941,Prueba de Glucosa,143.88,Normal,2026-02-11 14:37:52.302759
+848,1810,Prueba de Glucosa,13.54,Normal,2024-10-02 13:22:52.302759
+849,3568,Radiografia de Torax,87.37,Normal,2025-06-19 12:22:52.302759
+850,7613,Biometria Hematica,185.26,Normal,2026-01-26 13:52:52.302759
+851,2269,Prueba de Glucosa,27.66,Normal,2024-08-22 06:22:52.302759
+852,1633,Prueba de Glucosa,98.41,Normal,2026-06-21 12:07:52.302759
+853,646,Biometria Hematica,156.65,Normal,2024-11-08 05:22:52.302759
+854,4160,Radiografia de Torax,195.04,Fuera de rango,2025-04-01 07:22:52.302759
+855,2552,Examen General de Orina,18.11,Normal,2026-02-03 07:07:52.302759
+856,4961,Quimica Sanguinea,29.58,Normal,2025-11-03 16:22:52.302759
+857,693,Biometria Hematica,108.86,Normal,2025-10-19 13:07:52.302759
+858,716,Quimica Sanguinea,156.55,Normal,2025-12-12 06:22:52.302759
+859,1500,Perfil Lipidico,165.74,Normal,2026-05-24 12:22:52.302759
+860,6405,Examen General de Orina,32.57,Normal,2025-10-17 07:07:52.302759
+861,2608,Perfil Lipidico,10.09,Normal,2024-12-11 09:22:52.302759
+862,4794,Prueba de Glucosa,22.61,Normal,2025-05-12 06:52:52.302759
+863,1982,Examen General de Orina,164.99,Fuera de rango,2024-12-31 05:37:52.302759
+864,1829,Radiografia de Torax,57.26,Normal,2026-05-03 09:07:52.302759
+865,2844,Radiografia de Torax,91.47,Normal,2026-03-23 11:07:52.302759
+866,903,Prueba de Glucosa,107.75,Normal,2025-02-14 09:52:52.302759
+867,6325,Prueba de Glucosa,48.56,Normal,2024-10-29 13:22:52.302759
+868,6216,Biometria Hematica,89.74,Normal,2025-08-01 12:52:52.302759
+869,6483,Prueba de Glucosa,141.4,Normal,2024-11-14 13:22:52.302759
+870,2121,Perfil Lipidico,144.32,Fuera de rango,2025-03-31 16:52:52.302759
+871,500,Quimica Sanguinea,162.34,Normal,2025-07-16 07:37:52.302759
+872,7017,Biometria Hematica,197.47,Normal,2026-03-11 08:07:52.302759
+873,397,Examen General de Orina,135.73,Normal,2024-08-16 06:52:52.302759
+874,4033,Prueba de Glucosa,5.41,Normal,2025-01-08 13:52:52.302759
+875,3774,Perfil Lipidico,61.22,Normal,2024-08-26 11:52:52.302759
+876,6907,Quimica Sanguinea,147.48,Normal,2024-09-18 15:52:52.302759
+877,356,Prueba de Glucosa,57.29,Fuera de rango,2025-02-20 12:07:52.302759
+878,4402,Quimica Sanguinea,181.3,Normal,2025-01-14 17:22:52.302759
+879,1470,Prueba de Glucosa,106.15,Normal,2026-01-01 11:52:52.302759
+880,3822,Examen General de Orina,92.99,Normal,2026-04-12 11:22:52.302759
+881,7473,Quimica Sanguinea,199.2,Normal,2024-07-19 04:37:52.302759
+882,5185,Examen General de Orina,136.95,Normal,2026-05-09 17:07:52.302759
+883,6965,Radiografia de Torax,73.99,Normal,2025-01-03 11:22:52.302759
+884,3778,Examen General de Orina,197.51,Normal,2024-09-17 07:52:52.302759
+885,3121,Quimica Sanguinea,40.71,Normal,2026-05-08 09:07:52.302759
+886,6241,Radiografia de Torax,28.08,Fuera de rango,2024-07-22 14:07:52.302759
+887,1963,Prueba de Glucosa,24.95,Normal,2025-11-27 05:22:52.302759
+888,7593,Radiografia de Torax,162.91,Fuera de rango,2026-03-10 08:52:52.302759
+889,1062,Prueba de Glucosa,195.65,Normal,2025-09-09 06:07:52.302759
+890,4869,Radiografia de Torax,162.84,Normal,2025-07-21 06:22:52.302759
+891,6754,Quimica Sanguinea,182.13,Normal,2025-05-15 05:22:52.302759
+892,4436,Quimica Sanguinea,51.48,Fuera de rango,2026-06-18 06:07:52.302759
+893,1659,Examen General de Orina,123.23,Normal,
+894,5192,Biometria Hematica,172.29,Normal,2026-01-17 14:52:52.302759
+895,2295,Examen General de Orina,17.93,Normal,2025-05-02 16:22:52.302759
+896,6402,Examen General de Orina,158.79,Normal,2024-12-24 12:22:52.302759
+897,453,Prueba de Glucosa,146.68,Normal,2026-03-08 17:22:52.302759
+898,3894,Perfil Lipidico,182.61,Normal,2025-03-19 10:07:52.302759
+899,1938,Biometria Hematica,101.38,Normal,2025-04-16 14:37:52.302759
+900,5723,Prueba de Glucosa,14.0,Normal,2025-06-24 16:52:52.302759
+901,3298,Prueba de Glucosa,117.34,Fuera de rango,2026-01-24 10:22:52.302759
+902,3625,Biometria Hematica,166.56,Normal,2025-01-07 05:22:52.302759
+903,3556,Radiografia de Torax,36.14,Normal,2026-02-07 04:52:52.302759
+904,2007,Perfil Lipidico,121.36,Normal,2025-06-23 15:37:52.302759
+905,7610,Biometria Hematica,73.77,Normal,2024-10-21 16:07:52.302759
+906,7089,Quimica Sanguinea,98.66,Normal,2025-09-16 07:22:52.302759
+907,5359,Examen General de Orina,120.65,Normal,2026-04-28 16:22:52.302759
+908,1898,Prueba de Glucosa,77.2,Normal,2025-03-12 08:07:52.302759
+909,1649,Prueba de Glucosa,116.98,Normal,2025-06-03 05:52:52.302759
+910,5474,Radiografia de Torax,168.27,Normal,2024-11-20 14:52:52.302759
+911,1285,Quimica Sanguinea,134.57,Normal,2026-06-01 10:52:52.302759
+912,6896,Prueba de Glucosa,158.9,Normal,2026-05-03 11:07:52.302759
+913,4146,Examen General de Orina,159.61,Normal,2026-05-22 13:07:52.302759
+914,1473,Biometria Hematica,182.81,Normal,2025-05-27 07:37:52.302759
+915,4375,Perfil Lipidico,158.72,Normal,2024-07-19 07:07:52.302759
+916,2399,Perfil Lipidico,189.49,Normal,2026-05-25 04:37:52.302759
+917,7238,Quimica Sanguinea,69.57,Normal,2025-04-27 06:52:52.302759
+918,1594,Prueba de Glucosa,65.06,Normal,2025-08-04 15:22:52.302759
+919,6694,Examen General de Orina,14.92,Normal,2026-06-25 11:07:52.302759
+920,915,Radiografia de Torax,147.16,Normal,2026-02-17 04:37:52.302759
+921,4315,Examen General de Orina,164.89,Normal,2026-07-15 10:37:52.302759
+922,5725,Radiografia de Torax,117.48,Normal,2025-10-06 15:07:52.302759
+923,1826,Prueba de Glucosa,29.01,Normal,2026-03-13 14:37:52.302759
+924,1691,Quimica Sanguinea,134.56,Normal,2024-07-17 15:22:52.302759
+925,7076,Biometria Hematica,139.4,Normal,2025-01-24 15:52:52.302759
+926,3311,Biometria Hematica,132.02,Fuera de rango,2025-02-05 09:52:52.302759
+927,6688,Radiografia de Torax,8.3,Normal,2025-08-02 16:37:52.302759
+928,158,Radiografia de Torax,69.62,Normal,2025-11-16 15:52:52.302759
+929,5525,Prueba de Glucosa,20.18,Normal,2024-11-21 07:07:52.302759
+930,4300,Radiografia de Torax,154.95,Normal,2025-08-11 11:07:52.302759
+931,2190,Radiografia de Torax,99.77,Normal,2026-03-18 10:22:52.302759
+932,2899,Examen General de Orina,57.91,Normal,2024-10-10 14:07:52.302759
+933,1722,Quimica Sanguinea,29.65,Normal,2025-07-16 06:22:52.302759
+934,4119,Quimica Sanguinea,38.03,Normal,2025-02-14 12:37:52.302759
+935,4644,Perfil Lipidico,165.18,Normal,2025-11-04 09:37:52.302759
+936,5170,Quimica Sanguinea,30.22,Normal,2025-01-05 11:37:52.302759
+937,6670,Biometria Hematica,154.77,Fuera de rango,2024-08-12 14:37:52.302759
+938,7670,Prueba de Glucosa,152.79,Normal,2026-06-17 07:37:52.302759
+939,7004,Biometria Hematica,84.16,Normal,2025-05-17 10:07:52.302759
+940,537,Biometria Hematica,81.76,Normal,2025-09-28 09:37:52.302759
+941,5792,Perfil Lipidico,28.09,Normal,2024-12-08 11:37:52.302759
+942,4530,Quimica Sanguinea,86.73,Normal,2025-12-29 08:22:52.302759
+943,1450,Radiografia de Torax,142.54,Normal,2026-05-06 07:22:52.302759
+944,6068,Prueba de Glucosa,35.1,Normal,2025-07-18 08:52:52.302759
+945,4945,Quimica Sanguinea,54.58,Normal,2025-09-11 06:37:52.302759
+946,3083,Prueba de Glucosa,32.8,Normal,2024-12-14 05:07:52.302759
+947,2089,Prueba de Glucosa,88.49,Normal,2025-09-16 05:37:52.302759
+948,4318,Prueba de Glucosa,16.18,Normal,2024-11-23 06:07:52.302759
+949,4627,Examen General de Orina,134.2,Normal,2024-09-22 12:52:52.302759
+950,6628,Quimica Sanguinea,43.67,Normal,
+951,4048,Examen General de Orina,135.4,Fuera de rango,2026-02-17 06:52:52.302759
+952,5089,Quimica Sanguinea,6.66,Fuera de rango,2026-01-16 15:07:52.302759
+953,2929,Radiografia de Torax,66.89,Normal,2025-12-21 10:37:52.302759
+954,6296,Radiografia de Torax,120.04,Fuera de rango,2024-11-13 12:37:52.302759
+955,5496,Examen General de Orina,161.13,Normal,2026-06-29 10:52:52.302759
+956,2292,Examen General de Orina,151.43,Normal,2025-11-18 14:37:52.302759
+957,4307,Quimica Sanguinea,50.58,Normal,2026-03-10 17:07:52.302759
+958,3450,Biometria Hematica,187.86,Normal,2025-02-11 16:07:52.302759
+959,5230,Biometria Hematica,39.06,Normal,2025-08-10 14:52:52.302759
+960,6721,Examen General de Orina,165.0,Normal,2025-08-30 10:07:52.302759
+961,4015,Prueba de Glucosa,3.74,Normal,2024-10-08 04:37:52.302759
+962,2415,Prueba de Glucosa,92.28,Normal,2025-04-17 16:37:52.302759
+963,343,Radiografia de Torax,84.07,Normal,2026-05-20 12:22:52.302759
+964,3938,Prueba de Glucosa,14.93,Fuera de rango,2025-04-26 15:52:52.302759
+965,1466,Quimica Sanguinea,197.58,Normal,2025-09-26 08:37:52.302759
+966,2245,Radiografia de Torax,142.78,Fuera de rango,2025-08-19 10:52:52.302759
+967,2344,Radiografia de Torax,8.89,Fuera de rango,2025-07-21 07:37:52.302759
+968,4509,Quimica Sanguinea,191.85,Normal,2024-07-28 07:07:52.302759
+969,6893,Biometria Hematica,122.87,Normal,2025-07-16 05:52:52.302759
+970,4202,Perfil Lipidico,70.95,Normal,2025-05-28 13:37:52.302759
+971,7060,Prueba de Glucosa,177.18,Normal,2026-04-06 07:22:52.302759
+972,7716,Quimica Sanguinea,110.96,Normal,2025-01-02 11:37:52.302759
+973,7816,Examen General de Orina,61.17,Normal,2025-04-18 06:22:52.302759
+974,7827,Radiografia de Torax,71.12,Normal,2025-01-27 16:07:52.302759
+975,2706,Perfil Lipidico,71.7,Normal,2024-11-11 05:37:52.302759
+976,6509,Perfil Lipidico,133.38,Normal,2024-09-23 05:07:52.302759
+977,2803,Quimica Sanguinea,34.02,Normal,2025-09-26 14:07:52.302759
+978,5122,Prueba de Glucosa,148.93,Normal,2025-04-20 04:37:52.302759
+979,7277,Quimica Sanguinea,41.41,Normal,2025-01-26 05:52:52.302759
+980,7428,Perfil Lipidico,63.55,Normal,2026-04-25 12:22:52.302759
+981,6924,Prueba de Glucosa,40.44,Normal,2026-03-06 14:22:52.302759
+982,1288,Biometria Hematica,12.64,Normal,2025-10-29 14:22:52.302759
+983,705,Perfil Lipidico,155.38,Normal,2025-02-26 06:07:52.302759
+984,4910,Prueba de Glucosa,13.27,Fuera de rango,2026-05-20 07:07:52.302759
+985,2131,Radiografia de Torax,108.56,Normal,2026-03-29 04:52:52.302759
+986,971,Perfil Lipidico,46.76,Normal,2025-11-08 13:22:52.302759
+987,2072,Examen General de Orina,11.15,Fuera de rango,2025-07-02 12:07:52.302759
+988,4751,Quimica Sanguinea,20.4,Fuera de rango,2025-10-16 10:07:52.302759
+989,6367,Prueba de Glucosa,119.08,Normal,2025-10-05 05:52:52.302759
+990,3761,Prueba de Glucosa,26.46,Normal,2024-07-19 15:07:52.302759
+991,7002,Perfil Lipidico,27.81,Normal,2024-10-14 12:07:52.302759
+992,6645,Prueba de Glucosa,28.85,Normal,2026-06-04 12:22:52.302759
+993,6163,Examen General de Orina,147.82,Fuera de rango,2024-08-28 15:07:52.302759
+994,4438,Radiografia de Torax,11.87,Normal,2025-07-06 05:07:52.302759
+995,2819,Quimica Sanguinea,196.09,Normal,2025-01-07 09:37:52.302759
+996,7932,Quimica Sanguinea,6.63,Normal,2025-04-05 12:37:52.302759
+997,1275,Quimica Sanguinea,133.98,Normal,2025-12-24 15:07:52.302759
+998,393,Perfil Lipidico,195.0,Normal,
+999,3196,Quimica Sanguinea,57.31,Normal,2025-02-16 10:07:52.302759
+1000,577,Examen General de Orina,54.19,Normal,2025-09-10 15:37:52.302759
+1001,6682,Biometria Hematica,181.97,Fuera de rango,2025-01-23 09:07:52.302759
+1002,1746,Radiografia de Torax,166.33,Normal,2026-01-29 09:37:52.302759
+1003,6836,Radiografia de Torax,109.03,Normal,2025-01-30 10:07:52.302759
+1004,4111,Examen General de Orina,67.86,Normal,2025-08-01 04:37:52.302759
+1005,5541,Prueba de Glucosa,2.89,Normal,2026-07-13 12:37:52.302759
+1006,5612,Radiografia de Torax,36.37,Normal,2025-05-26 15:37:52.302759
+1007,3052,Quimica Sanguinea,163.53,Normal,2026-01-28 14:22:52.302759
+1008,7457,Examen General de Orina,61.62,Normal,2025-09-28 08:07:52.302759
+1009,1980,Prueba de Glucosa,140.56,Normal,2026-07-11 09:22:52.302759
+1010,3473,Quimica Sanguinea,159.18,Normal,2025-08-03 10:22:52.302759
+1011,6925,Radiografia de Torax,28.5,Fuera de rango,2026-02-17 11:52:52.302759
+1012,6448,Quimica Sanguinea,181.46,Normal,2025-10-12 14:37:52.302759
+1013,304,Quimica Sanguinea,155.2,Normal,2024-12-05 12:07:52.302759
+1014,514,Quimica Sanguinea,156.49,Fuera de rango,2026-05-08 15:52:52.302759
+1015,6992,Perfil Lipidico,142.61,Normal,2025-03-21 12:37:52.302759
+1016,678,Perfil Lipidico,34.78,Normal,2025-07-16 08:52:52.302759
+1017,457,Examen General de Orina,198.86,Fuera de rango,2024-10-22 16:37:52.302759
+1018,3764,Prueba de Glucosa,8.98,Normal,2024-07-31 06:22:52.302759
+1019,3497,Quimica Sanguinea,130.41,Normal,2026-03-15 14:52:52.302759
+1020,6037,Quimica Sanguinea,131.34,Normal,2025-05-18 12:22:52.302759
+1021,909,Examen General de Orina,97.51,Normal,2026-03-18 13:37:52.302759
+1022,1616,Examen General de Orina,11.34,Normal,2025-08-21 14:37:52.302759
+1023,6784,Quimica Sanguinea,97.87,Normal,2025-04-06 16:07:52.302759
+1024,4089,Quimica Sanguinea,2.34,Normal,2025-12-03 12:37:52.302759
+1025,3850,Biometria Hematica,167.08,Normal,2026-05-13 15:52:52.302759
+1026,4739,Prueba de Glucosa,133.05,Normal,2024-08-01 14:52:52.302759
+1027,1639,Prueba de Glucosa,191.4,Normal,2025-06-23 16:52:52.302759
+1028,6283,Examen General de Orina,176.89,Normal,2025-03-12 14:52:52.302759
+1029,5962,Radiografia de Torax,45.49,Normal,2024-10-21 11:22:52.302759
+1030,226,Radiografia de Torax,159.7,Normal,
+1031,4517,Quimica Sanguinea,91.46,Fuera de rango,2025-11-17 05:22:52.302759
+1032,979,Quimica Sanguinea,111.39,Normal,2024-07-18 05:52:52.302759
+1033,1883,Perfil Lipidico,88.58,Normal,2025-02-21 13:37:52.302759
+1034,3340,Perfil Lipidico,1.28,Normal,2025-08-14 11:37:52.302759
+1035,5249,Quimica Sanguinea,162.86,Normal,2026-02-15 08:22:52.302759
+1036,1842,Biometria Hematica,84.87,Normal,2025-10-19 13:52:52.302759
+1037,5814,Prueba de Glucosa,125.67,Normal,2025-09-14 07:22:52.302759
+1038,7554,Perfil Lipidico,87.94,Normal,2025-09-26 13:07:52.302759
+1039,650,Quimica Sanguinea,44.51,Fuera de rango,2025-05-30 15:52:52.302759
+1040,878,Perfil Lipidico,153.76,Fuera de rango,2025-06-06 06:37:52.302759
+1041,1956,Prueba de Glucosa,20.25,Normal,2025-10-15 14:07:52.302759
+1042,7746,Examen General de Orina,27.5,Fuera de rango,
+1043,7185,Quimica Sanguinea,26.07,Normal,2025-04-21 15:52:52.302759
+1044,2396,Examen General de Orina,26.83,Normal,2025-02-27 17:22:52.302759
+1045,7660,Biometria Hematica,190.62,Normal,2026-04-21 10:37:52.302759
+1046,1119,Perfil Lipidico,62.83,Normal,2025-03-26 12:52:52.302759
+1047,6078,Biometria Hematica,39.08,Normal,2026-03-05 05:37:52.302759
+1048,7820,Biometria Hematica,104.14,Normal,2026-06-11 14:22:52.302759
+1049,3843,Biometria Hematica,140.25,Normal,2025-12-28 08:22:52.302759
+1050,5432,Prueba de Glucosa,191.9,Normal,
+1051,6540,Perfil Lipidico,36.6,Normal,2024-08-19 15:07:52.302759
+1052,1734,Perfil Lipidico,159.44,Fuera de rango,2026-07-12 10:07:52.302759
+1053,1142,Quimica Sanguinea,132.83,Fuera de rango,2024-08-11 10:52:52.302759
+1054,7044,Prueba de Glucosa,54.43,Normal,2025-12-28 05:22:52.302759
+1055,6082,Perfil Lipidico,100.14,Normal,2024-11-05 05:52:52.302759
+1056,19,Biometria Hematica,15.35,Normal,2025-09-22 13:37:52.302759
+1057,7227,Biometria Hematica,136.25,Normal,2025-03-23 05:07:52.302759
+1058,386,Quimica Sanguinea,130.76,Normal,2024-10-18 06:37:52.302759
+1059,4639,Biometria Hematica,189.31,Normal,2024-09-09 13:52:52.302759
+1060,5660,Perfil Lipidico,198.74,Normal,2024-09-14 10:37:52.302759
+1061,1422,Perfil Lipidico,42.98,Normal,2025-10-09 11:22:52.302759
+1062,1502,Examen General de Orina,86.26,Normal,2025-08-19 09:52:52.302759
+1063,1807,Prueba de Glucosa,64.66,Normal,2025-02-23 13:07:52.302759
+1064,2916,Biometria Hematica,180.38,Normal,2026-04-17 07:07:52.302759
+1065,5582,Biometria Hematica,72.02,Normal,2025-11-10 17:07:52.302759
+1066,7198,Biometria Hematica,124.28,Fuera de rango,2026-01-18 04:37:52.302759
+1067,6624,Biometria Hematica,47.47,Normal,2024-08-01 05:52:52.302759
+1068,3062,Perfil Lipidico,93.79,Normal,2024-12-13 08:52:52.302759
+1069,3274,Prueba de Glucosa,8.6,Normal,2025-09-29 13:07:52.302759
+1070,2743,Perfil Lipidico,46.33,Normal,2025-03-05 07:52:52.302759
+1071,4168,Prueba de Glucosa,122.31,Normal,2025-08-14 09:22:52.302759
+1072,2054,Radiografia de Torax,186.9,Normal,2025-07-28 06:07:52.302759
+1073,5979,Radiografia de Torax,41.26,Normal,2026-01-19 10:37:52.302759
+1074,5901,Prueba de Glucosa,174.32,Normal,2024-12-14 08:22:52.302759
+1075,7494,Perfil Lipidico,65.22,Normal,2026-07-05 11:52:52.302759
+1076,2666,Prueba de Glucosa,67.62,Normal,2026-06-03 08:52:52.302759
+1077,6227,Examen General de Orina,108.39,Normal,2025-12-25 13:52:52.302759
+1078,2096,Quimica Sanguinea,131.16,Normal,2025-12-07 11:22:52.302759
+1079,7828,Examen General de Orina,175.5,Normal,2024-09-13 09:52:52.302759
+1080,1273,Prueba de Glucosa,160.21,Normal,2025-09-12 11:07:52.302759
+1081,5118,Quimica Sanguinea,191.95,Normal,2024-08-30 07:37:52.302759
+1082,4154,Biometria Hematica,151.81,Fuera de rango,2024-12-25 14:52:52.302759
+1083,4442,Quimica Sanguinea,196.08,Normal,2025-11-15 06:52:52.302759
+1084,5919,Radiografia de Torax,185.27,Fuera de rango,2025-11-22 04:37:52.302759
+1085,1248,Prueba de Glucosa,143.02,Normal,2026-03-12 08:07:52.302759
+1086,4767,Prueba de Glucosa,193.56,Normal,2026-04-21 06:07:52.302759
+1087,5289,Biometria Hematica,19.74,Normal,2026-01-09 15:07:52.302759
+1088,855,Perfil Lipidico,73.15,Normal,2025-03-28 07:07:52.302759
+1089,6157,Prueba de Glucosa,108.17,Normal,
+1090,2577,Biometria Hematica,75.74,Normal,2025-01-15 11:22:52.302759
+1091,2020,Perfil Lipidico,132.1,Normal,2025-10-10 17:07:52.302759
+1092,802,Examen General de Orina,30.9,Normal,2025-04-23 09:07:52.302759
+1093,46,Prueba de Glucosa,35.05,Normal,2025-01-26 09:22:52.302759
+1094,5648,Prueba de Glucosa,129.53,Normal,2025-04-22 14:22:52.302759
+1095,61,Prueba de Glucosa,190.32,Fuera de rango,2025-06-22 14:22:52.302759
+1096,3679,Radiografia de Torax,6.2,Normal,2024-11-24 16:07:52.302759
+1097,6831,Prueba de Glucosa,180.05,Fuera de rango,2025-03-24 13:52:52.302759
+1098,1193,Biometria Hematica,191.64,Normal,2024-12-19 07:07:52.302759
+1099,2872,Examen General de Orina,126.61,Normal,2025-03-15 16:22:52.302759
+1100,2022,Radiografia de Torax,42.18,Fuera de rango,2025-08-16 11:52:52.302759
+1101,3273,Prueba de Glucosa,89.45,Normal,2025-05-24 15:22:52.302759
+1102,5734,Prueba de Glucosa,68.5,Normal,2025-04-14 15:37:52.302759
+1103,6485,Radiografia de Torax,31.18,Normal,2024-08-03 09:22:52.302759
+1104,1461,Examen General de Orina,9.82,Normal,2026-05-09 05:37:52.302759
+1105,5937,Prueba de Glucosa,32.23,Fuera de rango,2026-03-05 09:22:52.302759
+1106,7773,Quimica Sanguinea,105.69,Normal,2026-03-15 04:52:52.302759
+1107,2442,Radiografia de Torax,177.98,Normal,
+1108,3805,Perfil Lipidico,139.87,Normal,2024-10-29 14:52:52.302759
+1109,83,Prueba de Glucosa,52.62,Fuera de rango,2026-05-07 17:07:52.302759
+1110,1290,Biometria Hematica,150.13,Fuera de rango,2024-07-26 07:07:52.302759
+1111,2834,Perfil Lipidico,41.34,Normal,2025-02-14 11:22:52.302759
+1112,5209,Biometria Hematica,163.57,Normal,2025-06-27 11:07:52.302759
+1113,280,Quimica Sanguinea,121.87,Normal,2025-08-02 08:37:52.302759
+1114,6841,Prueba de Glucosa,28.18,Fuera de rango,2024-12-01 11:37:52.302759
+1115,3246,Biometria Hematica,38.3,Normal,2025-03-23 15:22:52.302759
+1116,5261,Radiografia de Torax,10.49,Normal,2025-12-08 07:07:52.302759
+1117,1201,Examen General de Orina,30.33,Normal,2025-12-13 06:22:52.302759
+1118,7895,Prueba de Glucosa,67.27,Normal,2025-07-12 15:52:52.302759
+1119,7783,Prueba de Glucosa,132.51,Normal,2025-07-06 07:22:52.302759
+1120,1408,Examen General de Orina,45.31,Normal,2026-01-26 10:52:52.302759
+1121,4822,Perfil Lipidico,68.18,Normal,2025-03-04 05:22:52.302759
+1122,7387,Examen General de Orina,140.67,Normal,2025-07-10 15:22:52.302759
+1123,2538,Radiografia de Torax,133.55,Normal,2025-12-04 16:22:52.302759
+1124,6277,Examen General de Orina,72.46,Normal,2026-07-04 06:07:52.302759
+1125,7684,Radiografia de Torax,1.88,Normal,2025-05-26 06:52:52.302759
+1126,3468,Perfil Lipidico,170.33,Normal,2025-07-23 16:52:52.302759
+1127,3863,Quimica Sanguinea,25.35,Normal,2026-01-17 16:37:52.302759
+1128,1496,Examen General de Orina,49.53,Normal,2024-09-02 08:07:52.302759
+1129,4401,Perfil Lipidico,74.42,Normal,2025-07-28 15:37:52.302759
+1130,5808,Quimica Sanguinea,31.37,Normal,2025-06-16 12:52:52.302759
+1131,1827,Quimica Sanguinea,162.8,Normal,2024-11-27 04:37:52.302759
+1132,5153,Perfil Lipidico,11.43,Normal,2025-09-20 06:22:52.302759
+1133,2641,Quimica Sanguinea,12.54,Normal,
+1134,5481,Biometria Hematica,31.16,Normal,2025-01-24 04:37:52.302759
+1135,6530,Perfil Lipidico,143.94,Normal,2026-03-10 13:37:52.302759
+1136,7612,Quimica Sanguinea,95.03,Normal,2024-12-17 07:07:52.302759
+1137,5009,Examen General de Orina,5.63,Normal,2025-12-07 08:22:52.302759
+1138,7154,Examen General de Orina,40.44,Normal,2024-09-16 06:07:52.302759
+1139,4145,Quimica Sanguinea,50.47,Fuera de rango,2025-05-27 05:52:52.302759
+1140,6144,Perfil Lipidico,61.86,Fuera de rango,2025-07-12 11:37:52.302759
+1141,6787,Perfil Lipidico,110.24,Normal,2025-04-20 06:07:52.302759
+1142,1969,Prueba de Glucosa,109.02,Normal,2025-02-27 13:07:52.302759
+1143,781,Radiografia de Torax,194.48,Normal,2024-10-20 16:22:52.302759
+1144,7451,Examen General de Orina,29.43,Normal,2026-01-05 11:52:52.302759
+1145,3797,Radiografia de Torax,161.78,Normal,2025-05-05 06:07:52.302759
+1146,363,Quimica Sanguinea,198.48,Normal,2024-09-06 06:07:52.302759
+1147,371,Biometria Hematica,134.36,Normal,2024-08-19 05:37:52.302759
+1148,6720,Perfil Lipidico,98.41,Normal,2024-08-04 13:52:52.302759
+1149,3517,Quimica Sanguinea,73.46,Fuera de rango,2024-12-24 12:52:52.302759
+1150,7377,Prueba de Glucosa,18.2,Normal,2025-04-09 10:22:52.302759
+1151,1870,Prueba de Glucosa,109.54,Normal,2024-11-27 07:37:52.302759
+1152,7444,Biometria Hematica,13.91,Normal,2026-04-25 11:22:52.302759
+1153,806,Perfil Lipidico,52.34,Normal,2026-04-19 16:22:52.302759
+1154,1547,Perfil Lipidico,68.53,Normal,2025-12-10 14:22:52.302759
+1155,5769,Biometria Hematica,76.89,Normal,2026-05-19 04:52:52.302759
+1156,4395,Perfil Lipidico,122.86,Fuera de rango,2026-04-09 11:07:52.302759
+1157,296,Radiografia de Torax,76.25,Normal,
+1158,966,Prueba de Glucosa,144.95,Normal,2025-09-11 15:07:52.302759
+1159,1257,Examen General de Orina,157.14,Fuera de rango,2025-07-06 10:07:52.302759
+1160,4669,Quimica Sanguinea,110.42,Fuera de rango,2026-02-08 04:52:52.302759
+1161,1211,Perfil Lipidico,30.37,Normal,2025-10-10 09:07:52.302759
+1162,7318,Quimica Sanguinea,158.62,Normal,2025-06-06 10:37:52.302759
+1163,5135,Perfil Lipidico,112.28,Normal,2025-04-19 12:07:52.302759
+1164,6627,Quimica Sanguinea,111.56,Normal,2026-04-21 10:37:52.302759
+1165,317,Perfil Lipidico,20.61,Normal,2025-05-14 07:52:52.302759
+1166,1100,Examen General de Orina,63.73,Normal,2025-10-13 09:07:52.302759
+1167,1681,Biometria Hematica,172.6,Normal,2025-03-14 05:07:52.302759
+1168,2097,Perfil Lipidico,153.66,Normal,2025-09-16 05:52:52.302759
+1169,2581,Prueba de Glucosa,73.91,Normal,2024-10-03 08:07:52.302759
+1170,2703,Prueba de Glucosa,133.34,Normal,2024-10-03 09:07:52.302759
+1171,7615,Biometria Hematica,194.02,Normal,2025-11-21 09:37:52.302759
+1172,3204,Prueba de Glucosa,181.06,Normal,2024-11-26 09:37:52.302759
+1173,5701,Examen General de Orina,76.7,Fuera de rango,2024-10-05 16:22:52.302759
+1174,2264,Prueba de Glucosa,71.3,Normal,2024-09-10 08:22:52.302759
+1175,5877,Quimica Sanguinea,43.31,Fuera de rango,2025-12-10 10:07:52.302759
+1176,2277,Examen General de Orina,64.63,Normal,2025-05-31 08:37:52.302759
+1177,5313,Examen General de Orina,44.45,Normal,2026-02-27 07:22:52.302759
+1178,5724,Examen General de Orina,193.03,Normal,2025-08-06 15:37:52.302759
+1179,2596,Perfil Lipidico,61.49,Normal,2025-09-21 12:52:52.302759
+1180,7671,Perfil Lipidico,115.92,Normal,2026-01-22 07:52:52.302759
+1181,7545,Prueba de Glucosa,178.39,Normal,2025-09-19 05:22:52.302759
+1182,5944,Radiografia de Torax,86.22,Normal,2026-03-04 11:07:52.302759
+1183,4484,Quimica Sanguinea,102.94,Normal,2026-03-16 15:07:52.302759
+1184,4325,Radiografia de Torax,199.15,Normal,2026-05-29 14:52:52.302759
+1185,4603,Biometria Hematica,86.09,Normal,2025-07-08 16:22:52.302759
+1186,1723,Radiografia de Torax,73.46,Normal,2025-07-20 11:07:52.302759
+1187,6719,Perfil Lipidico,149.14,Normal,2025-11-06 10:37:52.302759
+1188,1349,Prueba de Glucosa,198.9,Normal,2026-03-12 09:22:52.302759
+1189,160,Biometria Hematica,79.91,Normal,2024-10-14 11:52:52.302759
+1190,3540,Quimica Sanguinea,67.65,Normal,2025-10-09 10:37:52.302759
+1191,1895,Radiografia de Torax,18.16,Normal,2025-06-14 09:22:52.302759
+1192,4746,Prueba de Glucosa,84.45,Normal,
+1193,2895,Examen General de Orina,93.93,Normal,2025-06-20 12:37:52.302759
+1194,7540,Prueba de Glucosa,188.0,Fuera de rango,2026-06-10 14:52:52.302759
+1195,5294,Quimica Sanguinea,142.32,Normal,2024-07-28 15:37:52.302759
+1196,729,Perfil Lipidico,76.74,Fuera de rango,2025-08-12 08:52:52.302759
+1197,97,Perfil Lipidico,35.21,Normal,2025-04-20 10:52:52.302759
+1198,1527,Biometria Hematica,33.7,Normal,2024-12-16 14:07:52.302759
+1199,2343,Biometria Hematica,123.72,Normal,2025-01-28 08:37:52.302759
+1200,2549,Quimica Sanguinea,10.43,Normal,2024-09-24 11:22:52.302759
+1201,4984,Examen General de Orina,63.6,Fuera de rango,2026-05-27 17:22:52.302759
+1202,2991,Perfil Lipidico,27.52,Normal,2026-05-10 04:52:52.302759
+1203,189,Examen General de Orina,0.52,Normal,2024-07-28 07:22:52.302759
+1204,553,Prueba de Glucosa,6.83,Normal,2026-05-29 09:22:52.302759
+1205,3845,Quimica Sanguinea,61.0,Normal,2025-03-09 06:22:52.302759
+1206,6196,Quimica Sanguinea,162.82,Normal,2025-02-03 06:22:52.302759
+1207,7891,Examen General de Orina,80.31,Normal,2026-05-14 15:52:52.302759
+1208,995,Radiografia de Torax,131.83,Fuera de rango,2024-08-21 11:07:52.302759
+1209,7806,Radiografia de Torax,107.89,Normal,2025-04-21 06:37:52.302759
+1210,6357,Quimica Sanguinea,185.78,Fuera de rango,2026-05-14 08:07:52.302759
+1211,1377,Perfil Lipidico,113.88,Normal,2025-10-12 08:37:52.302759
+1212,997,Prueba de Glucosa,57.4,Normal,2025-12-30 05:52:52.302759
+1213,1390,Examen General de Orina,185.85,Normal,2025-06-28 06:37:52.302759
+1214,1024,Examen General de Orina,165.21,Fuera de rango,2024-09-11 11:22:52.302759
+1215,7968,Biometria Hematica,188.73,Normal,2025-05-03 12:52:52.302759
+1216,6121,Biometria Hematica,186.48,Normal,2025-06-11 14:52:52.302759
+1217,7650,Examen General de Orina,196.43,Normal,2024-07-23 13:07:52.302759
+1218,2110,Biometria Hematica,192.91,Normal,2025-09-24 06:52:52.302759
+1219,4705,Biometria Hematica,190.03,Fuera de rango,2024-11-11 13:52:52.302759
+1220,2444,Biometria Hematica,167.87,Normal,2024-12-28 15:37:52.302759
+1221,4879,Perfil Lipidico,120.18,Normal,2026-04-23 07:22:52.302759
+1222,6192,Prueba de Glucosa,153.49,Fuera de rango,2025-11-13 14:07:52.302759
+1223,1755,Biometria Hematica,198.12,Normal,2025-06-19 09:37:52.302759
+1224,5575,Prueba de Glucosa,181.46,Normal,2026-04-08 11:22:52.302759
+1225,6805,Examen General de Orina,101.56,Normal,2025-12-20 04:37:52.302759
+1226,1268,Biometria Hematica,177.74,Normal,2024-08-09 16:37:52.302759
+1227,7964,Biometria Hematica,151.1,Normal,2025-01-13 13:37:52.302759
+1228,7739,Quimica Sanguinea,190.44,Normal,2026-04-27 13:22:52.302759
+1229,426,Prueba de Glucosa,181.16,Normal,2024-10-31 13:07:52.302759
+1230,2353,Examen General de Orina,21.65,Normal,2024-07-18 05:07:52.302759
+1231,817,Examen General de Orina,7.91,Normal,2026-04-02 12:22:52.302759
+1232,217,Examen General de Orina,179.08,Normal,2026-05-12 06:22:52.302759
+1233,7997,Biometria Hematica,46.3,Normal,2026-04-18 16:37:52.302759
+1234,5148,Biometria Hematica,66.12,Fuera de rango,2025-05-31 08:52:52.302759
+1235,517,Perfil Lipidico,53.35,Fuera de rango,2025-10-21 13:52:52.302759
+1236,6879,Perfil Lipidico,82.52,Normal,2026-01-23 14:22:52.302759
+1237,5574,Radiografia de Torax,120.89,Fuera de rango,2024-08-31 13:37:52.302759
+1238,1085,Quimica Sanguinea,195.02,Normal,2025-11-19 07:52:52.302759
+1239,2519,Radiografia de Torax,76.06,Fuera de rango,2024-09-23 14:22:52.302759
+1240,7045,Radiografia de Torax,89.56,Normal,
+1241,2894,Biometria Hematica,109.66,Normal,2026-02-12 10:07:52.302759
+1242,7938,Prueba de Glucosa,92.26,Normal,2026-07-06 04:37:52.302759
+1243,4704,Prueba de Glucosa,62.19,Normal,2025-10-12 13:22:52.302759
+1244,131,Biometria Hematica,68.93,Normal,2025-06-29 10:37:52.302759
+1245,6150,Prueba de Glucosa,18.32,Normal,2026-07-07 14:07:52.302759
+1246,4505,Examen General de Orina,128.32,Normal,2025-04-22 09:52:52.302759
+1247,2545,Quimica Sanguinea,165.58,Fuera de rango,2025-08-15 07:22:52.302759
+1248,3653,Perfil Lipidico,143.16,Normal,2026-06-26 11:52:52.302759
+1249,7980,Radiografia de Torax,112.71,Normal,2024-07-23 04:52:52.302759
+1250,7486,Quimica Sanguinea,25.26,Normal,2025-10-26 09:37:52.302759
+1251,3737,Radiografia de Torax,9.7,Normal,2026-04-23 07:07:52.302759
+1252,5882,Prueba de Glucosa,198.75,Normal,
+1253,173,Radiografia de Torax,1.67,Normal,2024-12-13 06:07:52.302759
+1254,1953,Perfil Lipidico,83.49,Normal,2025-10-29 15:52:52.302759
+1255,4023,Examen General de Orina,98.98,Normal,2026-06-04 15:07:52.302759
+1256,7188,Biometria Hematica,103.52,Normal,2025-02-05 09:37:52.302759
+1257,5311,Perfil Lipidico,50.44,Normal,2026-02-04 06:52:52.302759
+1258,6443,Perfil Lipidico,174.8,Normal,2025-03-09 04:37:52.302759
+1259,2143,Radiografia de Torax,154.41,Normal,2025-01-01 12:22:52.302759
+1260,1867,Perfil Lipidico,48.91,Normal,2024-12-26 16:37:52.302759
+1261,2373,Radiografia de Torax,149.67,Normal,2026-02-23 12:07:52.302759
+1262,2024,Radiografia de Torax,133.72,Normal,2025-12-09 16:22:52.302759
+1263,994,Examen General de Orina,137.31,Normal,2025-04-07 11:52:52.302759
+1264,562,Biometria Hematica,89.36,Normal,2026-06-30 12:22:52.302759
+1265,1082,Perfil Lipidico,187.03,Normal,2025-12-31 08:37:52.302759
+1266,3428,Biometria Hematica,33.72,Fuera de rango,2025-08-03 12:07:52.302759
+1267,7030,Perfil Lipidico,142.77,Normal,2025-04-13 11:22:52.302759
+1268,5990,Prueba de Glucosa,189.34,Normal,2025-06-17 16:52:52.302759
+1269,7744,Prueba de Glucosa,28.34,Normal,2024-10-27 04:52:52.302759
+1270,6883,Radiografia de Torax,193.8,Normal,2025-12-30 07:52:52.302759
+1271,984,Quimica Sanguinea,94.75,Normal,2026-01-31 09:52:52.302759
+1272,431,Perfil Lipidico,10.91,Normal,2024-10-09 04:52:52.302759
+1273,2088,Radiografia de Torax,125.32,Fuera de rango,2024-11-16 07:52:52.302759
+1274,1326,Radiografia de Torax,42.85,Normal,2025-11-28 06:37:52.302759
+1275,2757,Biometria Hematica,117.64,Normal,2026-04-13 09:22:52.302759
+1276,184,Quimica Sanguinea,8.02,Normal,2025-03-26 13:22:52.302759
+1277,466,Examen General de Orina,82.66,Normal,2025-08-08 05:07:52.302759
+1278,7055,Quimica Sanguinea,56.11,Normal,2025-08-06 16:07:52.302759
+1279,4889,Prueba de Glucosa,38.82,Normal,2026-06-01 10:07:52.302759
+1280,157,Biometria Hematica,177.53,Normal,2026-02-24 05:37:52.302759
+1281,3529,Perfil Lipidico,62.29,Normal,2024-07-16 13:07:52.302759
+1282,512,Examen General de Orina,141.05,Normal,2025-09-11 15:22:52.302759
+1283,3839,Prueba de Glucosa,144.06,Normal,2026-06-07 04:52:52.302759
+1284,6270,Prueba de Glucosa,198.59,Normal,2024-11-05 07:22:52.302759
+1285,3143,Biometria Hematica,21.01,Normal,2025-01-24 15:37:52.302759
+1286,4432,Radiografia de Torax,68.25,Normal,2026-05-30 13:22:52.302759
+1287,4853,Prueba de Glucosa,191.28,Normal,2026-05-03 13:52:52.302759
+1288,680,Examen General de Orina,84.34,Normal,2024-08-25 07:37:52.302759
+1289,4827,Examen General de Orina,104.42,Normal,2025-11-01 12:07:52.302759
+1290,6416,Radiografia de Torax,101.77,Normal,2024-09-07 07:07:52.302759
+1291,4252,Radiografia de Torax,27.84,Normal,2025-03-05 10:22:52.302759
+1292,6105,Prueba de Glucosa,184.47,Normal,2025-12-08 05:22:52.302759
+1293,1559,Perfil Lipidico,58.96,Normal,2025-05-22 06:22:52.302759
+1294,7498,Quimica Sanguinea,28.87,Normal,2025-03-19 08:37:52.302759
+1295,6267,Quimica Sanguinea,188.51,Normal,2025-08-07 14:22:52.302759
+1296,7303,Radiografia de Torax,33.47,Normal,2026-06-01 08:07:52.302759
+1297,4201,Examen General de Orina,129.14,Fuera de rango,2024-09-05 14:52:52.302759
+1298,6219,Examen General de Orina,141.61,Normal,2025-01-08 15:07:52.302759
+1299,2809,Perfil Lipidico,104.67,Normal,2025-03-17 05:07:52.302759
+1300,5054,Examen General de Orina,150.56,Fuera de rango,2025-08-24 11:22:52.302759
+1301,5436,Radiografia de Torax,1.44,Normal,2025-05-27 05:22:52.302759
+1302,3338,Examen General de Orina,93.63,Normal,2025-07-08 07:22:52.302759
+1303,4955,Biometria Hematica,114.81,Fuera de rango,2026-06-11 12:22:52.302759
+1304,7234,Quimica Sanguinea,7.51,Normal,2025-02-27 12:37:52.302759
+1305,2163,Biometria Hematica,13.85,Fuera de rango,2025-02-22 10:52:52.302759
+1306,4921,Perfil Lipidico,137.44,Normal,2026-02-20 07:52:52.302759
+1307,7345,Quimica Sanguinea,165.87,Normal,2024-11-13 13:22:52.302759
+1308,4480,Radiografia de Torax,9.86,Normal,2024-12-29 04:37:52.302759
+1309,4101,Radiografia de Torax,78.55,Fuera de rango,2024-11-15 10:07:52.302759
+1310,7040,Prueba de Glucosa,141.69,Normal,2026-02-26 11:07:52.302759
+1311,1554,Radiografia de Torax,140.58,Normal,2025-07-10 14:22:52.302759
+1312,507,Radiografia de Torax,162.61,Normal,2025-05-19 09:07:52.302759
+1313,4487,Perfil Lipidico,2.42,Normal,2025-12-14 05:07:52.302759
+1314,804,Prueba de Glucosa,95.97,Normal,2026-02-14 11:22:52.302759
+1315,1920,Biometria Hematica,191.5,Normal,2025-10-04 08:52:52.302759
+1316,3967,Quimica Sanguinea,19.31,Normal,2024-12-30 13:07:52.302759
+1317,4792,Examen General de Orina,82.84,Normal,2026-03-25 11:37:52.302759
+1318,3734,Biometria Hematica,119.54,Normal,2025-02-26 08:07:52.302759
+1319,4573,Prueba de Glucosa,96.37,Normal,2025-11-28 15:22:52.302759
+1320,5982,Quimica Sanguinea,72.95,Normal,2025-12-03 05:52:52.302759
+1321,720,Radiografia de Torax,12.67,Normal,2026-03-25 09:52:52.302759
+1322,3073,Quimica Sanguinea,73.15,Normal,2025-07-08 16:07:52.302759
+1323,6614,Prueba de Glucosa,160.09,Normal,2026-07-11 07:07:52.302759
+1324,4744,Perfil Lipidico,25.97,Normal,2026-04-06 13:52:52.302759
+1325,3798,Quimica Sanguinea,139.71,Fuera de rango,2026-06-13 14:22:52.302759
+1326,4126,Quimica Sanguinea,4.55,Normal,2025-08-28 04:52:52.302759
+1327,3154,Radiografia de Torax,157.47,Normal,2025-10-16 04:52:52.302759
+1328,867,Examen General de Orina,1.58,Normal,2025-06-25 12:52:52.302759
+1329,3231,Perfil Lipidico,8.18,Normal,2025-10-14 07:22:52.302759
+1330,4399,Quimica Sanguinea,1.26,Normal,2024-08-19 11:52:52.302759
+1331,4626,Prueba de Glucosa,60.96,Fuera de rango,2025-05-27 13:22:52.302759
+1332,838,Quimica Sanguinea,177.09,Normal,2026-05-21 15:37:52.302759
+1333,6006,Examen General de Orina,21.84,Normal,2024-11-10 14:22:52.302759
+1334,5341,Perfil Lipidico,160.15,Normal,2025-05-24 08:37:52.302759
+1335,2482,Quimica Sanguinea,144.5,Normal,2025-08-26 12:37:52.302759
+1336,6838,Biometria Hematica,40.87,Normal,2025-12-17 17:07:52.302759
+1337,2000,Biometria Hematica,25.12,Normal,2025-05-03 08:22:52.302759
+1338,2297,Radiografia de Torax,168.84,Normal,2026-04-12 11:37:52.302759
+1339,7016,Biometria Hematica,119.8,Fuera de rango,2026-03-01 09:22:52.302759
+1340,141,Perfil Lipidico,9.53,Normal,2024-12-16 16:07:52.302759
+1341,3140,Radiografia de Torax,165.89,Fuera de rango,2026-02-26 14:22:52.302759
+1342,3345,Radiografia de Torax,80.86,Normal,2024-12-29 13:07:52.302759
+1343,6610,Radiografia de Torax,64.98,Normal,2024-12-03 07:22:52.302759
+1344,2311,Prueba de Glucosa,92.18,Normal,2026-03-19 10:52:52.302759
+1345,5231,Examen General de Orina,68.52,Normal,2025-10-02 06:52:52.302759
+1346,2981,Biometria Hematica,7.08,Normal,2026-05-06 14:07:52.302759
+1347,2659,Quimica Sanguinea,158.89,Normal,2025-11-20 11:37:52.302759
+1348,4975,Perfil Lipidico,120.22,Normal,2024-12-14 08:37:52.302759
+1349,3719,Biometria Hematica,106.57,Fuera de rango,2026-02-05 16:52:52.302759
+1350,3479,Quimica Sanguinea,108.82,Normal,2026-02-12 09:37:52.302759
+1351,1906,Quimica Sanguinea,168.6,Fuera de rango,2025-05-11 06:52:52.302759
+1352,5225,Quimica Sanguinea,135.95,Fuera de rango,2025-09-16 06:22:52.302759
+1353,3259,Biometria Hematica,17.44,Normal,2025-11-19 10:37:52.302759
+1354,4620,Examen General de Orina,89.93,Normal,2025-02-01 11:37:52.302759
+1355,3149,Biometria Hematica,50.2,Normal,2025-06-07 06:37:52.302759
+1356,3161,Biometria Hematica,75.42,Normal,2026-01-01 17:22:52.302759
+1357,3085,Quimica Sanguinea,28.73,Fuera de rango,2024-10-31 11:22:52.302759
+1358,137,Quimica Sanguinea,51.07,Normal,2024-10-17 15:37:52.302759
+1359,40,Perfil Lipidico,193.3,Normal,2025-08-21 07:22:52.302759
+1360,3544,Examen General de Orina,84.23,Normal,2026-06-10 08:22:52.302759
+1361,2140,Prueba de Glucosa,86.63,Normal,2025-09-28 13:52:52.302759
+1362,925,Perfil Lipidico,172.39,Normal,2025-02-10 08:07:52.302759
+1363,714,Examen General de Orina,96.79,Normal,2025-10-18 06:52:52.302759
+1364,1501,Examen General de Orina,86.9,Normal,2025-02-12 09:37:52.302759
+1365,2775,Prueba de Glucosa,120.56,Normal,2025-02-13 06:22:52.302759
+1366,1676,Prueba de Glucosa,113.26,Normal,2024-09-09 09:22:52.302759
+1367,3061,Perfil Lipidico,26.7,Fuera de rango,2025-09-16 10:22:52.302759
+1368,6081,Radiografia de Torax,67.15,Normal,2024-08-12 11:22:52.302759
+1369,673,Quimica Sanguinea,102.31,Normal,2024-10-17 12:07:52.302759
+1370,7378,Biometria Hematica,104.75,Normal,2025-09-20 09:37:52.302759
+1371,2120,Quimica Sanguinea,38.44,Normal,2024-12-17 04:37:52.302759
+1372,7438,Biometria Hematica,119.07,Normal,2025-08-05 07:37:52.302759
+1373,4979,Prueba de Glucosa,197.32,Normal,2024-10-05 07:52:52.302759
+1374,5036,Radiografia de Torax,136.83,Normal,2025-08-27 10:52:52.302759
+1375,7703,Perfil Lipidico,156.22,Normal,2025-06-27 10:07:52.302759
+1376,7814,Quimica Sanguinea,111.41,Normal,2025-01-09 10:52:52.302759
+1377,5594,Prueba de Glucosa,153.7,Normal,2026-05-22 17:07:52.302759
+1378,1897,Radiografia de Torax,35.17,Normal,2024-10-04 17:22:52.302759
+1379,2023,Quimica Sanguinea,154.07,Normal,2026-05-06 16:22:52.302759
+1380,6801,Biometria Hematica,197.43,Normal,2024-08-28 16:37:52.302759
+1381,5951,Perfil Lipidico,175.25,Normal,2025-11-11 13:22:52.302759
+1382,1841,Biometria Hematica,27.95,Fuera de rango,2026-01-27 07:52:52.302759
+1383,3210,Radiografia de Torax,70.36,Normal,2025-09-06 08:37:52.302759
+1384,6136,Quimica Sanguinea,39.91,Fuera de rango,2025-09-05 10:37:52.302759
+1385,1882,Examen General de Orina,116.93,Normal,2026-05-02 06:22:52.302759
+1386,4330,Perfil Lipidico,108.62,Normal,2025-09-05 08:07:52.302759
+1387,6332,Perfil Lipidico,21.38,Normal,2024-07-18 17:22:52.302759
+1388,116,Perfil Lipidico,176.51,Normal,2025-06-01 06:22:52.302759
+1389,1891,Quimica Sanguinea,132.0,Normal,2025-09-18 07:07:52.302759
+1390,4872,Prueba de Glucosa,74.76,Normal,2026-05-25 16:52:52.302759
+1391,5548,Perfil Lipidico,23.64,Normal,2026-07-02 15:22:52.302759
+1392,7258,Quimica Sanguinea,53.65,Fuera de rango,2026-06-03 12:52:52.302759
+1393,5853,Quimica Sanguinea,115.62,Normal,2025-10-29 17:22:52.302759
+1394,758,Quimica Sanguinea,127.61,Normal,
+1395,90,Quimica Sanguinea,45.76,Normal,2025-06-26 15:37:52.302759
+1396,1096,Quimica Sanguinea,75.41,Normal,2024-11-29 04:37:52.302759
+1397,7696,Quimica Sanguinea,58.3,Normal,2026-02-22 08:52:52.302759
+1398,6039,Examen General de Orina,106.72,Normal,2025-05-15 06:07:52.302759
+1399,5141,Perfil Lipidico,15.78,Normal,2025-05-27 13:07:52.302759
+1400,5241,Examen General de Orina,37.92,Normal,2025-05-02 13:22:52.302759
+1401,5352,Perfil Lipidico,191.36,Normal,2024-10-12 10:22:52.302759
+1402,2507,Quimica Sanguinea,42.15,Normal,2026-07-07 10:07:52.302759
+1403,1172,Biometria Hematica,76.47,Normal,
+1404,1080,Perfil Lipidico,33.84,Fuera de rango,2025-02-05 16:07:52.302759
+1405,2835,Perfil Lipidico,7.21,Normal,2025-04-05 06:52:52.302759
+1406,7468,Biometria Hematica,15.74,Normal,2025-06-05 07:22:52.302759
+1407,359,Perfil Lipidico,63.56,Normal,2025-04-30 08:52:52.302759
+1408,3420,Radiografia de Torax,165.98,Normal,2024-10-31 09:37:52.302759
+1409,543,Examen General de Orina,52.56,Normal,2025-09-18 11:22:52.302759
+1410,2603,Examen General de Orina,99.84,Fuera de rango,2025-07-06 13:37:52.302759
+1411,4443,Radiografia de Torax,148.61,Normal,2024-09-24 13:22:52.302759
+1412,4775,Quimica Sanguinea,82.47,Normal,2025-04-09 15:07:52.302759
+1413,5303,Examen General de Orina,120.26,Normal,2025-02-28 15:52:52.302759
+1414,4019,Radiografia de Torax,131.62,Normal,2024-11-03 11:22:52.302759
+1415,4488,Examen General de Orina,92.75,Normal,2024-09-22 07:07:52.302759
+1416,5691,Perfil Lipidico,151.58,Normal,2024-10-22 10:07:52.302759
+1417,5564,Prueba de Glucosa,16.39,Normal,2025-03-08 13:52:52.302759
+1418,448,Prueba de Glucosa,26.85,Fuera de rango,2024-10-29 06:07:52.302759
+1419,3607,Perfil Lipidico,16.38,Normal,2026-03-22 15:07:52.302759
+1420,3059,Perfil Lipidico,15.86,Normal,2026-06-19 13:52:52.302759
+1421,2006,Biometria Hematica,182.64,Normal,2025-01-20 07:37:52.302759
+1422,5235,Perfil Lipidico,22.04,Normal,2025-04-18 11:22:52.302759
+1423,7331,Perfil Lipidico,48.52,Normal,2024-08-29 06:22:52.302759
+1424,2280,Perfil Lipidico,112.74,Fuera de rango,2024-07-23 14:07:52.302759
+1425,7542,Radiografia de Torax,167.4,Normal,2024-10-14 14:52:52.302759
+1426,6280,Radiografia de Torax,17.33,Fuera de rango,2025-08-13 14:37:52.302759
+1427,5699,Biometria Hematica,160.83,Normal,2026-02-28 10:52:52.302759
+1428,3327,Prueba de Glucosa,158.44,Normal,2024-07-17 05:52:52.302759
+1429,3571,Examen General de Orina,83.88,Normal,2026-04-15 10:37:52.302759
+1430,1464,Prueba de Glucosa,47.78,Fuera de rango,2024-09-17 10:07:52.302759
+1431,3122,Perfil Lipidico,16.37,Normal,2026-01-21 07:22:52.302759
+1432,6733,Quimica Sanguinea,56.92,Normal,2025-05-21 11:07:52.302759
+1433,3095,Radiografia de Torax,23.62,Normal,2025-12-19 11:07:52.302759
+1434,6566,Perfil Lipidico,41.3,Normal,2026-03-21 17:22:52.302759
+1435,6048,Quimica Sanguinea,8.05,Fuera de rango,2024-12-28 10:07:52.302759
+1436,7815,Perfil Lipidico,180.88,Normal,2024-07-27 06:52:52.302759
+1437,191,Prueba de Glucosa,129.5,Normal,2024-07-31 15:52:52.302759
+1438,3493,Quimica Sanguinea,171.76,Fuera de rango,2025-02-28 05:37:52.302759
+1439,1274,Prueba de Glucosa,160.25,Normal,2025-04-13 07:52:52.302759
+1440,1689,Examen General de Orina,182.54,Fuera de rango,2025-07-14 07:07:52.302759
+1441,1131,Perfil Lipidico,188.86,Normal,2026-04-02 17:22:52.302759
+1442,1605,Prueba de Glucosa,129.93,Normal,2025-06-24 13:37:52.302759
+1443,6606,Biometria Hematica,178.62,Normal,2026-03-15 05:52:52.302759
+1444,4798,Prueba de Glucosa,137.17,Normal,2026-06-20 12:22:52.302759
+1445,6740,Examen General de Orina,145.88,Normal,2024-12-01 07:07:52.302759
+1446,622,Radiografia de Torax,110.05,Normal,2025-01-31 09:22:52.302759
+1447,2401,Quimica Sanguinea,13.07,Normal,2025-07-24 12:07:52.302759
+1448,5705,Quimica Sanguinea,148.83,Fuera de rango,2025-10-31 08:37:52.302759
+1449,2795,Radiografia de Torax,35.3,Normal,2025-09-08 17:22:52.302759
+1450,6539,Radiografia de Torax,194.07,Normal,2026-02-26 06:22:52.302759
+1451,921,Quimica Sanguinea,131.39,Normal,
+1452,3789,Perfil Lipidico,94.54,Normal,2026-06-18 13:52:52.302759
+1453,2105,Prueba de Glucosa,76.91,Normal,2026-05-20 12:52:52.302759
+1454,3542,Quimica Sanguinea,6.8,Normal,2025-05-13 07:37:52.302759
+1455,1611,Examen General de Orina,111.04,Normal,2024-10-26 12:37:52.302759
+1456,7096,Quimica Sanguinea,90.23,Normal,2025-05-30 07:37:52.302759
+1457,4409,Biometria Hematica,180.04,Normal,2025-12-16 09:37:52.302759
+1458,5028,Perfil Lipidico,193.03,Normal,2025-02-13 10:37:52.302759
+1459,2651,Perfil Lipidico,90.26,Fuera de rango,2026-02-21 11:07:52.302759
+1460,6872,Perfil Lipidico,154.9,Normal,2024-08-17 05:52:52.302759
+1461,5761,Prueba de Glucosa,177.58,Normal,2025-07-28 11:37:52.302759
+1462,7206,Radiografia de Torax,154.49,Normal,2026-06-17 16:52:52.302759
+1463,574,Examen General de Orina,123.37,Normal,2024-08-10 16:52:52.302759
+1464,4381,Perfil Lipidico,198.58,Normal,2025-08-06 10:22:52.302759
+1465,6172,Examen General de Orina,118.49,Normal,2026-07-10 15:22:52.302759
+1466,2347,Examen General de Orina,23.09,Normal,2025-09-30 08:07:52.302759
+1467,5206,Perfil Lipidico,4.12,Normal,2024-12-26 14:22:52.302759
+1468,7555,Perfil Lipidico,44.45,Normal,2024-11-16 13:52:52.302759
+1469,4030,Prueba de Glucosa,113.24,Normal,2026-07-09 05:07:52.302759
+1470,1104,Examen General de Orina,2.86,Fuera de rango,2026-01-03 12:37:52.302759
+1471,6025,Quimica Sanguinea,101.04,Fuera de rango,2024-10-17 11:52:52.302759
+1472,7236,Examen General de Orina,163.17,Normal,2025-07-26 10:22:52.302759
+1473,310,Biometria Hematica,2.16,Normal,2026-04-17 07:52:52.302759
+1474,1490,Examen General de Orina,173.48,Normal,2025-05-04 15:22:52.302759
+1475,5674,Quimica Sanguinea,16.81,Normal,2025-10-12 16:22:52.302759
+1476,3815,Examen General de Orina,39.89,Normal,2025-05-05 05:37:52.302759
+1477,4742,Quimica Sanguinea,42.56,Normal,2024-10-14 05:22:52.302759
+1478,3757,Biometria Hematica,94.51,Normal,2025-10-20 07:52:52.302759
+1479,1389,Prueba de Glucosa,92.9,Normal,2024-10-19 08:07:52.302759
+1480,3799,Examen General de Orina,37.94,Normal,2025-11-02 12:37:52.302759
+1481,5560,Radiografia de Torax,1.9,Fuera de rango,2024-12-24 13:52:52.302759
+1482,5459,Radiografia de Torax,191.37,Normal,2026-02-06 06:52:52.302759
+1483,3796,Prueba de Glucosa,126.08,Fuera de rango,2025-09-21 04:52:52.302759
+1484,75,Radiografia de Torax,128.82,Normal,2026-06-16 06:07:52.302759
+1485,1625,Quimica Sanguinea,139.27,Normal,2026-04-04 13:22:52.302759
+1486,4660,Perfil Lipidico,125.58,Normal,2025-09-01 11:37:52.302759
+1487,5281,Biometria Hematica,60.78,Normal,2025-12-25 12:37:52.302759
+1488,7947,Perfil Lipidico,59.32,Normal,2025-03-31 15:52:52.302759
+1489,6878,Prueba de Glucosa,181.5,Fuera de rango,2026-04-17 07:07:52.302759
+1490,358,Biometria Hematica,75.62,Normal,2024-08-06 13:22:52.302759
+1491,1406,Prueba de Glucosa,197.9,Normal,2024-10-06 16:07:52.302759
+1492,5793,Quimica Sanguinea,99.01,Normal,2025-10-03 13:22:52.302759
+1493,4596,Biometria Hematica,140.16,Normal,2024-07-16 05:37:52.302759
+1494,1446,Radiografia de Torax,31.79,Normal,2024-08-30 04:37:52.302759
+1495,5623,Prueba de Glucosa,162.95,Normal,2026-04-15 17:22:52.302759
+1496,3864,Radiografia de Torax,66.68,Normal,2026-04-27 09:37:52.302759
+1497,3920,Prueba de Glucosa,10.34,Normal,2025-10-29 16:37:52.302759
+1498,1917,Perfil Lipidico,71.76,Fuera de rango,2025-06-02 14:22:52.302759
+1499,3661,Prueba de Glucosa,112.67,Normal,2024-12-17 16:37:52.302759
+1500,1342,Quimica Sanguinea,6.89,Normal,2025-08-14 05:37:52.302759
+1501,2367,Prueba de Glucosa,170.59,Normal,2025-07-17 06:22:52.302759
+1502,6931,Perfil Lipidico,41.72,Normal,2025-03-23 12:52:52.302759
+1503,1448,Biometria Hematica,183.86,Fuera de rango,2024-11-18 16:52:52.302759
+1504,3407,Prueba de Glucosa,74.53,Normal,2025-05-30 07:22:52.302759
+1505,5522,Radiografia de Torax,87.56,Normal,2025-02-22 16:52:52.302759
+1506,3399,Quimica Sanguinea,121.04,Normal,2025-09-15 15:07:52.302759
+1507,4664,Prueba de Glucosa,154.61,Normal,2025-12-30 12:52:52.302759
+1508,4272,Biometria Hematica,199.85,Normal,2025-12-22 13:52:52.302759
+1509,5052,Prueba de Glucosa,193.91,Normal,2024-11-09 09:37:52.302759
+1510,2741,Examen General de Orina,22.33,Fuera de rango,2025-11-15 12:37:52.302759
+1511,6871,Quimica Sanguinea,130.12,Normal,2024-12-06 12:37:52.302759
+1512,5731,Quimica Sanguinea,181.65,Normal,2025-02-20 11:37:52.302759
+1513,7441,Prueba de Glucosa,5.12,Normal,2024-11-29 05:22:52.302759
+1514,746,Perfil Lipidico,96.25,Normal,2025-01-06 06:52:52.302759
+1515,7972,Perfil Lipidico,106.55,Normal,2026-06-04 09:07:52.302759
+1516,5469,Examen General de Orina,118.94,Normal,2026-01-10 15:07:52.302759
+1517,2766,Examen General de Orina,82.52,Normal,2025-12-11 05:52:52.302759
+1518,1751,Examen General de Orina,35.26,Normal,2025-12-04 10:22:52.302759
+1519,4458,Quimica Sanguinea,70.53,Normal,2024-09-16 11:52:52.302759
+1520,7205,Perfil Lipidico,31.65,Fuera de rango,2025-04-10 06:52:52.302759
+1521,617,Perfil Lipidico,178.69,Normal,2024-08-10 09:52:52.302759
+1522,508,Perfil Lipidico,45.69,Normal,2025-10-23 11:37:52.302759
+1523,2715,Radiografia de Torax,76.34,Normal,2026-04-10 13:22:52.302759
+1524,334,Prueba de Glucosa,113.23,Fuera de rango,
+1525,5996,Biometria Hematica,197.32,Normal,2026-05-10 09:07:52.302759
+1526,3128,Radiografia de Torax,80.46,Normal,2024-12-24 08:22:52.302759
+1527,2590,Perfil Lipidico,189.31,Normal,2026-02-04 12:52:52.302759
+1528,2967,Perfil Lipidico,126.07,Normal,2025-11-20 12:37:52.302759
+1529,6663,Biometria Hematica,64.49,Normal,2026-06-08 14:37:52.302759
+1530,2586,Quimica Sanguinea,178.13,Normal,2024-10-24 16:22:52.302759
+1531,136,Perfil Lipidico,177.93,Normal,2026-01-14 08:07:52.302759
+1532,1648,Quimica Sanguinea,68.64,Normal,2025-11-12 07:22:52.302759
+1533,4045,Prueba de Glucosa,92.03,Normal,2025-11-29 05:22:52.302759
+1534,4854,Perfil Lipidico,76.45,Normal,2026-04-13 17:07:52.302759
+1535,4657,Biometria Hematica,159.35,Normal,2024-08-17 09:37:52.302759
+1536,7717,Biometria Hematica,34.45,Normal,2024-11-20 06:22:52.302759
+1537,1178,Biometria Hematica,48.2,Fuera de rango,2025-09-17 07:07:52.302759
+1538,4962,Perfil Lipidico,150.9,Normal,2026-05-08 13:37:52.302759
+1539,4951,Quimica Sanguinea,193.8,Normal,2026-06-21 15:52:52.302759
+1540,1992,Examen General de Orina,94.11,Normal,2024-12-05 17:22:52.302759
+1541,1832,Examen General de Orina,183.02,Normal,2026-07-06 04:52:52.302759
+1542,4533,Radiografia de Torax,10.03,Normal,2025-08-04 12:07:52.302759
+1543,4237,Biometria Hematica,24.56,Normal,2025-02-13 05:07:52.302759
+1544,6271,Biometria Hematica,80.38,Normal,2025-12-22 11:22:52.302759
+1545,6164,Perfil Lipidico,125.13,Normal,2026-02-22 10:07:52.302759
+1546,6713,Perfil Lipidico,148.29,Normal,2026-02-04 13:37:52.302759
+1547,1264,Perfil Lipidico,132.13,Normal,2026-01-06 15:07:52.302759
+1548,3118,Prueba de Glucosa,32.9,Normal,2026-02-19 14:07:52.302759
+1549,2761,Biometria Hematica,174.49,Fuera de rango,2026-03-03 13:37:52.302759
+1550,1966,Biometria Hematica,112.21,Normal,2026-04-04 10:52:52.302759
+1551,509,Quimica Sanguinea,75.79,Normal,2024-10-30 10:22:52.302759
+1552,7859,Radiografia de Torax,186.87,Normal,2026-06-19 07:37:52.302759
+1553,7928,Prueba de Glucosa,148.13,Normal,2025-11-13 13:52:52.302759
+1554,3012,Radiografia de Torax,151.77,Normal,2025-01-03 17:22:52.302759
+1555,692,Perfil Lipidico,17.04,Fuera de rango,2025-08-30 10:37:52.302759
+1556,584,Perfil Lipidico,79.2,Normal,2024-10-09 05:07:52.302759
+1557,2740,Examen General de Orina,89.88,Normal,2026-07-02 14:52:52.302759
+1558,5810,Prueba de Glucosa,142.16,Fuera de rango,2026-03-24 08:22:52.302759
+1559,1483,Prueba de Glucosa,39.82,Fuera de rango,2026-04-04 09:07:52.302759
+1560,1507,Perfil Lipidico,192.16,Normal,2025-03-08 16:07:52.302759
+1561,182,Radiografia de Torax,94.36,Normal,2024-08-25 13:07:52.302759
+1562,3702,Examen General de Orina,134.61,Normal,2026-02-15 05:52:52.302759
+1563,7536,Prueba de Glucosa,86.95,Normal,2025-12-26 14:37:52.302759
+1564,2064,Biometria Hematica,127.77,Fuera de rango,2025-06-01 08:07:52.302759
+1565,2016,Biometria Hematica,62.51,Fuera de rango,2025-03-20 09:07:52.302759
+1566,6341,Prueba de Glucosa,169.9,Normal,2025-05-14 07:07:52.302759
+1567,736,Prueba de Glucosa,135.14,Fuera de rango,2026-05-12 07:52:52.302759
+1568,1472,Radiografia de Torax,83.14,Normal,2026-01-23 11:07:52.302759
+1569,3622,Biometria Hematica,77.97,Normal,2025-07-21 12:07:52.302759
+1570,2325,Biometria Hematica,20.93,Normal,2025-12-11 08:22:52.302759
+1571,6106,Biometria Hematica,19.98,Normal,2025-11-24 06:22:52.302759
+1572,2094,Quimica Sanguinea,169.44,Normal,2024-09-30 09:07:52.302759
+1573,608,Quimica Sanguinea,168.68,Normal,2026-01-08 11:22:52.302759
+1574,4888,Examen General de Orina,142.15,Fuera de rango,2025-08-15 10:52:52.302759
+1575,4623,Radiografia de Torax,141.0,Fuera de rango,2025-12-28 14:37:52.302759
+1576,7237,Radiografia de Torax,140.75,Normal,
+1577,3694,Radiografia de Torax,107.33,Normal,2025-11-23 15:52:52.302759
+1578,3505,Prueba de Glucosa,135.69,Normal,2025-12-18 10:37:52.302759
+1579,5468,Radiografia de Torax,93.14,Normal,2026-02-12 05:52:52.302759
+1580,892,Prueba de Glucosa,147.09,Fuera de rango,2026-04-10 17:22:52.302759
+1581,2930,Perfil Lipidico,95.44,Normal,2025-10-05 07:52:52.302759
+1582,1266,Radiografia de Torax,137.07,Fuera de rango,2025-10-05 11:22:52.302759
+1583,6997,Perfil Lipidico,109.91,Normal,2026-06-25 07:22:52.302759
+1584,1592,Quimica Sanguinea,68.29,Normal,2025-01-23 09:07:52.302759
+1585,1824,Prueba de Glucosa,80.64,Normal,2025-05-14 09:07:52.302759
+1586,5783,Quimica Sanguinea,39.82,Normal,2024-10-05 17:07:52.302759
+1587,1852,Radiografia de Torax,15.03,Normal,2026-04-06 11:22:52.302759
+1588,3572,Prueba de Glucosa,19.96,Normal,2025-11-03 15:52:52.302759
+1589,6980,Biometria Hematica,11.61,Normal,2025-11-28 11:07:52.302759
+1590,4740,Quimica Sanguinea,12.56,Normal,2025-04-08 09:37:52.302759
+1591,2805,Perfil Lipidico,52.05,Normal,2024-09-21 15:22:52.302759
+1592,3866,Prueba de Glucosa,123.27,Normal,2024-08-08 05:52:52.302759
+1593,4988,Examen General de Orina,94.43,Normal,2025-05-22 14:22:52.302759
+1594,7160,Prueba de Glucosa,40.33,Normal,2025-09-14 06:22:52.302759
+1595,1600,Prueba de Glucosa,50.63,Normal,2026-01-17 13:37:52.302759
+1596,138,Prueba de Glucosa,82.87,Normal,2026-05-13 09:07:52.302759
+1597,1656,Quimica Sanguinea,54.36,Normal,2025-02-06 10:52:52.302759
+1598,7146,Perfil Lipidico,18.54,Normal,2025-11-10 12:22:52.302759
+1599,4597,Examen General de Orina,153.21,Fuera de rango,2025-08-09 10:07:52.302759
+1600,3889,Quimica Sanguinea,17.47,Normal,2026-03-12 15:22:52.302759
+1601,2868,Radiografia de Torax,94.07,Fuera de rango,2025-03-29 13:22:52.302759
+1602,1149,Quimica Sanguinea,159.29,Normal,2026-03-19 16:22:52.302759
+1603,412,Biometria Hematica,71.95,Normal,2025-01-01 14:07:52.302759
+1604,6996,Examen General de Orina,167.53,Normal,2024-12-09 08:22:52.302759
+1605,2960,Radiografia de Torax,19.34,Normal,2025-08-06 12:07:52.302759
+1606,3476,Prueba de Glucosa,165.93,Fuera de rango,2025-06-29 09:22:52.302759
+1607,1155,Examen General de Orina,139.15,Normal,2025-12-29 13:52:52.302759
+1608,6866,Quimica Sanguinea,121.0,Normal,2024-11-28 09:37:52.302759
+1609,1922,Examen General de Orina,68.4,Normal,2026-07-01 05:52:52.302759
+1610,3754,Prueba de Glucosa,68.04,Normal,
+1611,474,Biometria Hematica,39.14,Fuera de rango,2025-01-26 14:37:52.302759
+1612,4183,Prueba de Glucosa,103.59,Fuera de rango,2025-10-17 10:52:52.302759
+1613,2113,Perfil Lipidico,124.44,Normal,2025-01-14 13:52:52.302759
+1614,5939,Biometria Hematica,157.1,Normal,2025-03-03 15:37:52.302759
+1615,3844,Radiografia de Torax,65.61,Normal,2026-05-11 04:37:52.302759
+1616,896,Perfil Lipidico,29.1,Normal,2024-12-04 17:07:52.302759
+1617,943,Prueba de Glucosa,148.43,Normal,2025-08-01 13:22:52.302759
+1618,352,Biometria Hematica,168.89,Normal,2026-02-21 09:52:52.302759
+1619,3993,Perfil Lipidico,172.7,Fuera de rango,2026-04-01 14:22:52.302759
+1620,7373,Perfil Lipidico,23.5,Normal,2025-11-19 09:52:52.302759
+1621,376,Prueba de Glucosa,109.96,Fuera de rango,2025-04-16 14:52:52.302759
+1622,4247,Quimica Sanguinea,141.6,Normal,2024-10-03 08:37:52.302759
+1623,3205,Prueba de Glucosa,100.01,Normal,2026-03-18 13:07:52.302759
+1624,6195,Prueba de Glucosa,96.6,Normal,2024-11-14 13:07:52.302759
+1625,2812,Perfil Lipidico,156.6,Normal,2026-05-21 07:37:52.302759
+1626,4205,Quimica Sanguinea,165.36,Fuera de rango,2024-09-12 16:52:52.302759
+1627,7241,Radiografia de Torax,127.94,Normal,2025-09-09 06:07:52.302759
+1628,3425,Quimica Sanguinea,87.12,Normal,2026-03-10 09:07:52.302759
+1629,5684,Examen General de Orina,25.77,Normal,2025-04-28 06:37:52.302759
+1630,3004,Examen General de Orina,159.28,Normal,2024-12-01 15:07:52.302759
+1631,6044,Perfil Lipidico,20.56,Normal,2024-08-27 14:07:52.302759
+1632,6771,Radiografia de Torax,186.79,Normal,2025-04-13 06:37:52.302759
+1633,229,Perfil Lipidico,38.57,Normal,2025-03-10 11:07:52.302759
+1634,93,Radiografia de Torax,83.72,Fuera de rango,2025-11-29 09:37:52.302759
+1635,5404,Quimica Sanguinea,127.29,Normal,2025-11-14 07:52:52.302759
+1636,879,Prueba de Glucosa,67.12,Normal,2025-04-20 16:22:52.302759
+1637,516,Biometria Hematica,115.39,Normal,2026-07-10 11:52:52.302759
+1638,1259,Examen General de Orina,193.7,Fuera de rango,2024-08-23 07:37:52.302759
+1639,5566,Radiografia de Torax,192.82,Normal,2025-04-30 17:22:52.302759
+1640,2294,Perfil Lipidico,154.28,Normal,2026-03-13 17:07:52.302759
+1641,3389,Biometria Hematica,103.0,Fuera de rango,2025-06-09 16:07:52.302759
+1642,910,Radiografia de Torax,39.63,Normal,2026-07-02 05:07:52.302759
+1643,6617,Radiografia de Torax,157.06,Normal,2026-04-01 08:22:52.302759
+1644,1546,Prueba de Glucosa,53.47,Normal,2025-10-26 17:22:52.302759
+1645,2905,Prueba de Glucosa,160.45,Normal,2024-12-13 09:52:52.302759
+1646,2431,Examen General de Orina,24.0,Normal,2025-11-03 10:52:52.302759
+1647,5588,Biometria Hematica,162.11,Fuera de rango,2025-11-04 15:52:52.302759
+1648,4949,Radiografia de Torax,182.25,Normal,2025-11-09 08:37:52.302759
+1649,7423,Prueba de Glucosa,33.98,Normal,2025-03-13 10:52:52.302759
+1650,7622,Prueba de Glucosa,98.34,Normal,2025-10-11 13:52:52.302759
+1651,6637,Quimica Sanguinea,88.85,Fuera de rango,2026-03-16 11:52:52.302759
+1652,2098,Biometria Hematica,26.76,Normal,2025-09-04 14:37:52.302759
+1653,1491,Biometria Hematica,184.8,Normal,2025-03-22 04:37:52.302759
+1654,7504,Biometria Hematica,9.99,Normal,2024-12-05 04:52:52.302759
+1655,1352,Quimica Sanguinea,129.73,Normal,2025-10-22 06:22:52.302759
+1656,4361,Biometria Hematica,16.64,Normal,2025-08-18 08:22:52.302759
+1657,6492,Perfil Lipidico,180.95,Normal,2025-12-09 10:52:52.302759
+1658,3709,Examen General de Orina,166.88,Normal,2024-07-26 16:37:52.302759
+1659,1977,Perfil Lipidico,164.21,Normal,2025-12-18 10:52:52.302759
+1660,4321,Perfil Lipidico,133.58,Normal,2026-02-17 09:52:52.302759
+1661,3657,Perfil Lipidico,137.18,Normal,2025-02-17 08:52:52.302759
+1662,5326,Examen General de Orina,30.43,Normal,2025-05-28 10:37:52.302759
+1663,1957,Perfil Lipidico,87.41,Normal,2025-02-07 13:37:52.302759
+1664,1212,Prueba de Glucosa,108.71,Normal,2026-04-23 10:22:52.302759
+1665,6299,Quimica Sanguinea,7.9,Normal,2025-04-27 09:22:52.302759
+1666,5651,Perfil Lipidico,97.05,Fuera de rango,2025-02-23 16:22:52.302759
+1667,2053,Quimica Sanguinea,138.81,Normal,2026-04-04 09:07:52.302759
+1668,6798,Prueba de Glucosa,113.08,Normal,2024-10-08 13:37:52.302759
+1669,597,Quimica Sanguinea,40.55,Normal,2025-06-13 14:07:52.302759
+1670,7114,Radiografia de Torax,85.96,Normal,2025-10-07 17:07:52.302759
+1671,7034,Examen General de Orina,167.05,Normal,2026-01-23 09:52:52.302759
+1672,421,Examen General de Orina,140.46,Normal,2025-08-23 07:22:52.302759
+1673,6580,Perfil Lipidico,49.33,Normal,2024-11-18 10:22:52.302759
+1674,3748,Examen General de Orina,110.11,Normal,2026-02-22 16:37:52.302759
+1675,1124,Biometria Hematica,83.25,Fuera de rango,2024-08-07 14:37:52.302759
+1676,1287,Prueba de Glucosa,103.98,Normal,2025-12-03 12:52:52.302759
+1677,65,Radiografia de Torax,19.8,Normal,2025-01-29 15:07:52.302759
+1678,5334,Quimica Sanguinea,145.79,Normal,2024-11-28 07:52:52.302759
+1679,6916,Radiografia de Torax,30.07,Fuera de rango,2024-08-09 08:07:52.302759
+1680,1654,Radiografia de Torax,190.03,Normal,2024-08-08 12:52:52.302759
+1681,541,Prueba de Glucosa,53.96,Fuera de rango,2024-11-30 10:52:52.302759
+1682,6324,Examen General de Orina,170.43,Normal,2026-06-30 08:07:52.302759
+1683,1310,Perfil Lipidico,47.79,Normal,2024-08-13 14:22:52.302759
+1684,1776,Radiografia de Torax,67.84,Normal,2024-10-31 12:52:52.302759
+1685,7608,Prueba de Glucosa,142.77,Normal,2025-04-22 10:37:52.302759
+1686,3672,Examen General de Orina,129.73,Normal,2026-03-16 10:22:52.302759
+1687,7693,Biometria Hematica,181.59,Normal,2024-07-27 08:37:52.302759
+1688,6667,Biometria Hematica,29.08,Normal,2025-05-05 11:07:52.302759
+1689,6217,Biometria Hematica,50.41,Normal,2026-03-10 14:07:52.302759
+1690,3357,Examen General de Orina,123.91,Normal,2025-05-24 09:37:52.302759
+1691,4039,Prueba de Glucosa,107.27,Normal,2026-01-18 16:07:52.302759
+1692,2566,Quimica Sanguinea,40.82,Normal,2026-07-04 14:37:52.302759
+1693,6868,Quimica Sanguinea,134.25,Normal,2026-03-13 13:52:52.302759
+1694,1304,Perfil Lipidico,155.41,Normal,2025-07-19 08:22:52.302759
+1695,1042,Biometria Hematica,117.71,Normal,2025-02-01 10:37:52.302759
+1696,7413,Examen General de Orina,100.73,Normal,2025-06-26 11:37:52.302759
+1697,3945,Examen General de Orina,115.42,Normal,
+1698,2784,Radiografia de Torax,140.38,Normal,2024-11-09 14:22:52.302759
+1699,5647,Perfil Lipidico,0.93,Normal,2025-01-22 16:52:52.302759
+1700,1591,Radiografia de Torax,92.58,Normal,2025-02-17 09:52:52.302759
+1701,5773,Examen General de Orina,42.77,Normal,
+1702,7499,Radiografia de Torax,177.79,Normal,2025-09-27 15:07:52.302759
+1703,5980,Radiografia de Torax,93.33,Normal,2025-01-11 16:37:52.302759
+1704,7470,Examen General de Orina,138.88,Normal,
+1705,5694,Perfil Lipidico,53.71,Normal,2024-08-01 12:07:52.302759
+1706,5689,Quimica Sanguinea,107.08,Normal,2025-01-25 12:07:52.302759
+1707,3182,Biometria Hematica,23.59,Normal,2026-06-11 07:37:52.302759
+1708,1369,Biometria Hematica,3.84,Normal,2025-03-04 16:52:52.302759
+1709,2109,Prueba de Glucosa,5.94,Fuera de rango,2025-11-27 10:22:52.302759
+1710,957,Radiografia de Torax,135.18,Normal,2025-10-13 16:37:52.302759
+1711,7563,Biometria Hematica,89.26,Normal,2025-09-04 15:52:52.302759
+1712,228,Quimica Sanguinea,185.6,Normal,2026-05-29 11:52:52.302759
+1713,3103,Biometria Hematica,196.85,Fuera de rango,2025-07-07 08:52:52.302759
+1714,7586,Biometria Hematica,3.21,Normal,2024-11-15 12:07:52.302759
+1715,5400,Radiografia de Torax,39.61,Normal,2025-04-13 05:07:52.302759
+1716,2192,Quimica Sanguinea,21.26,Normal,2025-09-27 13:22:52.302759
+1717,1843,Quimica Sanguinea,112.28,Normal,2025-01-07 05:07:52.302759
+1718,2541,Radiografia de Torax,177.15,Normal,2024-08-21 14:52:52.302759
+1719,907,Quimica Sanguinea,156.36,Normal,2024-12-08 09:37:52.302759
+1720,3234,Biometria Hematica,156.79,Normal,2025-08-05 12:07:52.302759
+1721,6431,Quimica Sanguinea,110.79,Normal,2025-07-21 15:22:52.302759
+1722,1443,Prueba de Glucosa,106.43,Normal,2024-12-29 14:37:52.302759
+1723,5291,Examen General de Orina,64.09,Normal,2025-02-04 07:22:52.302759
+1724,3604,Radiografia de Torax,197.57,Normal,2025-04-24 15:22:52.302759
+1725,2278,Perfil Lipidico,95.81,Normal,2025-04-18 06:37:52.302759
+1726,2553,Quimica Sanguinea,146.02,Normal,2025-10-31 06:07:52.302759
+1727,5248,Quimica Sanguinea,166.99,Normal,2025-03-31 11:22:52.302759
+1728,3003,Prueba de Glucosa,183.36,Normal,2024-07-30 16:07:52.302759
+1729,4147,Perfil Lipidico,0.81,Fuera de rango,2025-12-13 04:37:52.302759
+1730,4548,Biometria Hematica,56.37,Normal,2024-09-30 12:52:52.302759
+1731,595,Prueba de Glucosa,40.88,Normal,2024-08-26 12:52:52.302759
+1732,5848,Radiografia de Torax,61.1,Normal,2026-05-25 15:52:52.302759
+1733,552,Radiografia de Torax,68.2,Normal,2026-01-25 08:22:52.302759
+1734,4132,Examen General de Orina,32.17,Normal,2025-08-14 10:22:52.302759
+1735,121,Radiografia de Torax,171.36,Normal,2026-03-16 10:37:52.302759
+1736,6091,Examen General de Orina,96.89,Normal,2024-10-18 10:07:52.302759
+1737,6097,Prueba de Glucosa,20.86,Normal,
+1738,4298,Prueba de Glucosa,27.86,Normal,2025-07-25 06:37:52.302759
+1739,41,Radiografia de Torax,11.28,Normal,2025-10-10 16:07:52.302759
+1740,2015,Examen General de Orina,186.85,Fuera de rango,2025-01-28 08:52:52.302759
+1741,973,Quimica Sanguinea,89.92,Normal,2026-04-20 09:07:52.302759
+1742,3585,Biometria Hematica,131.31,Normal,2026-02-24 16:22:52.302759
+1743,3904,Examen General de Orina,0.74,Fuera de rango,2024-09-17 07:52:52.302759
+1744,7348,Prueba de Glucosa,185.35,Normal,2025-06-18 07:22:52.302759
+1745,2267,Perfil Lipidico,198.73,Normal,2024-10-31 12:07:52.302759
+1746,5713,Quimica Sanguinea,53.58,Normal,2026-06-18 11:37:52.302759
+1747,2196,Examen General de Orina,60.44,Normal,2026-03-31 12:52:52.302759
+1748,1873,Perfil Lipidico,17.4,Normal,2025-02-04 14:52:52.302759
+1749,1366,Quimica Sanguinea,165.29,Normal,2024-10-11 09:52:52.302759
+1750,127,Quimica Sanguinea,33.54,Normal,2025-10-28 04:37:52.302759
+1751,5426,Quimica Sanguinea,137.33,Normal,2026-05-06 09:07:52.302759
+1752,6783,Prueba de Glucosa,155.53,Normal,2026-07-03 07:07:52.302759
+1753,4636,Perfil Lipidico,19.69,Fuera de rango,2025-12-14 15:52:52.302759
+1754,1767,Radiografia de Torax,26.4,Normal,2024-12-04 05:37:52.302759
+1755,7066,Perfil Lipidico,133.13,Normal,2026-03-06 06:52:52.302759
+1756,2495,Quimica Sanguinea,129.28,Normal,2026-06-07 14:37:52.302759
+1757,5055,Biometria Hematica,29.78,Normal,2026-04-25 15:22:52.302759
+1758,4647,Biometria Hematica,158.2,Normal,2025-11-04 09:07:52.302759
+1759,1339,Perfil Lipidico,188.92,Normal,2026-02-15 07:52:52.302759
+1760,5780,Quimica Sanguinea,100.79,Normal,2026-04-19 12:37:52.302759
+1761,1059,Examen General de Orina,137.92,Normal,2025-06-02 11:37:52.302759
+1762,5220,Quimica Sanguinea,33.26,Normal,2025-03-18 09:07:52.302759
+1763,1111,Prueba de Glucosa,39.78,Normal,2025-12-31 16:37:52.302759
+1764,7541,Radiografia de Torax,102.8,Normal,2026-01-04 17:07:52.302759
+1765,140,Examen General de Orina,151.88,Fuera de rango,2025-04-15 15:22:52.302759
+1766,3969,Quimica Sanguinea,168.19,Fuera de rango,2025-11-06 05:37:52.302759
+1767,2469,Quimica Sanguinea,106.58,Normal,2025-07-20 10:07:52.302759
+1768,6698,Prueba de Glucosa,190.73,Normal,2025-09-20 12:37:52.302759
+1769,2271,Prueba de Glucosa,47.3,Normal,2025-11-08 14:22:52.302759
+1770,4092,Radiografia de Torax,144.95,Normal,2025-09-07 11:37:52.302759
+1771,3031,Biometria Hematica,70.79,Normal,2025-08-12 13:52:52.302759
+1772,2933,Quimica Sanguinea,95.37,Fuera de rango,2025-11-09 16:22:52.302759
+1773,6389,Examen General de Orina,126.12,Normal,2025-11-12 12:07:52.302759
+1774,965,Examen General de Orina,33.48,Normal,2026-05-29 06:52:52.302759
+1775,7801,Quimica Sanguinea,44.36,Normal,2025-04-06 16:07:52.302759
+1776,1144,Quimica Sanguinea,141.73,Normal,2025-09-22 16:52:52.302759
+1777,7942,Biometria Hematica,15.45,Normal,2026-01-24 13:37:52.302759
+1778,4754,Examen General de Orina,96.53,Fuera de rango,2026-02-25 16:07:52.302759
+1779,3660,Biometria Hematica,99.23,Fuera de rango,2025-04-11 11:22:52.302759
+1780,5817,Quimica Sanguinea,179.33,Normal,2025-04-12 12:22:52.302759
+1781,5423,Radiografia de Torax,198.06,Normal,2024-08-03 05:07:52.302759
+1782,7760,Prueba de Glucosa,130.55,Normal,2026-06-15 04:37:52.302759
+1783,7514,Radiografia de Torax,21.56,Normal,2024-09-16 15:52:52.302759
+1784,5308,Radiografia de Torax,8.91,Normal,2025-01-19 11:52:52.302759
+1785,1351,Quimica Sanguinea,47.29,Normal,2026-02-06 12:37:52.302759
+1786,1379,Examen General de Orina,69.47,Normal,2026-07-01 08:37:52.302759
+1787,7091,Quimica Sanguinea,43.85,Normal,2025-01-20 09:22:52.302759
+1788,5662,Biometria Hematica,15.66,Normal,2024-09-21 14:07:52.302759
+1789,5234,Examen General de Orina,186.97,Normal,2026-03-29 07:52:52.302759
+1790,7762,Biometria Hematica,31.08,Fuera de rango,2026-07-13 15:22:52.302759
+1791,996,Quimica Sanguinea,197.21,Normal,2025-04-02 11:52:52.302759
+1792,5953,Perfil Lipidico,47.41,Normal,2025-07-15 08:37:52.302759
+1793,5309,Perfil Lipidico,181.2,Normal,2026-05-09 12:22:52.302759
+1794,7734,Prueba de Glucosa,124.73,Normal,2024-09-17 14:07:52.302759
+1795,2004,Quimica Sanguinea,104.26,Normal,2025-06-18 17:22:52.302759
+1796,7999,Radiografia de Torax,193.38,Normal,2024-12-01 06:22:52.302759
+1797,5300,Quimica Sanguinea,78.05,Normal,2025-05-19 12:37:52.302759
+1798,7870,Examen General de Orina,118.22,Normal,2025-02-26 16:37:52.302759
+1799,7014,Quimica Sanguinea,155.42,Normal,2025-01-01 11:22:52.302759
+1800,4220,Prueba de Glucosa,30.74,Normal,2025-06-20 16:37:52.302759
+1801,4018,Perfil Lipidico,94.71,Normal,2026-02-19 13:22:52.302759
+1802,6094,Perfil Lipidico,148.69,Normal,2026-05-20 05:37:52.302759
+1803,7531,Radiografia de Torax,186.97,Normal,2025-12-30 08:37:52.302759
+1804,7509,Quimica Sanguinea,63.64,Normal,2025-12-17 07:07:52.302759
+1805,5176,Perfil Lipidico,110.34,Normal,2025-09-29 08:07:52.302759
+1806,5165,Radiografia de Torax,68.98,Normal,2025-12-18 11:07:52.302759
+1807,3352,Examen General de Orina,95.28,Normal,2024-09-03 15:22:52.302759
+1808,5102,Prueba de Glucosa,99.96,Normal,2024-11-22 06:07:52.302759
+1809,5424,Perfil Lipidico,75.86,Normal,2025-04-03 09:07:52.302759
+1810,5169,Perfil Lipidico,151.58,Normal,2025-01-30 05:07:52.302759
+1811,2657,Perfil Lipidico,130.47,Normal,2024-12-03 15:22:52.302759
+1812,3092,Examen General de Orina,177.12,Fuera de rango,2026-06-21 06:37:52.302759
+1813,4450,Examen General de Orina,78.07,Normal,2025-04-18 15:52:52.302759
+1814,5688,Quimica Sanguinea,107.31,Normal,2025-05-28 09:07:52.302759
+1815,2811,Quimica Sanguinea,39.43,Normal,2026-01-20 07:52:52.302759
+1816,3216,Biometria Hematica,154.09,Normal,2025-01-22 06:07:52.302759
+1817,5298,Radiografia de Torax,192.42,Normal,2025-10-05 05:37:52.302759
+1818,112,Prueba de Glucosa,187.16,Normal,2025-01-20 15:07:52.302759
+1819,4294,Biometria Hematica,187.55,Normal,2025-04-16 05:22:52.302759
+1820,1484,Examen General de Orina,83.34,Normal,2025-05-10 15:52:52.302759
+1821,7570,Quimica Sanguinea,63.57,Normal,
+1822,2796,Quimica Sanguinea,136.08,Fuera de rango,2025-12-05 16:52:52.302759
+1823,4497,Examen General de Orina,155.53,Normal,2024-08-10 08:22:52.302759
+1824,6137,Prueba de Glucosa,17.74,Normal,2024-08-22 16:37:52.302759
+1825,7854,Perfil Lipidico,39.03,Normal,2026-04-09 15:07:52.302759
+1826,2677,Examen General de Orina,23.85,Normal,2024-08-10 05:52:52.302759
+1827,7955,Perfil Lipidico,91.59,Normal,2026-01-22 06:22:52.302759
+1828,634,Biometria Hematica,130.6,Normal,2025-05-19 04:52:52.302759
+1829,2145,Perfil Lipidico,73.08,Normal,2024-09-27 04:52:52.302759
+1830,1017,Radiografia de Torax,184.5,Normal,2025-02-15 04:37:52.302759
+1831,7226,Biometria Hematica,199.22,Normal,2025-02-28 14:37:52.302759
+1832,7369,Examen General de Orina,127.65,Normal,2026-04-19 04:37:52.302759
+1833,536,Quimica Sanguinea,148.13,Normal,2025-05-12 05:22:52.302759
+1834,761,Radiografia de Torax,173.68,Normal,2025-04-24 12:22:52.302759
+1835,2498,Radiografia de Torax,130.32,Normal,2026-06-25 06:52:52.302759
+1836,5227,Perfil Lipidico,55.45,Normal,2024-11-12 05:37:52.302759
+1837,2114,Prueba de Glucosa,71.82,Normal,2024-12-03 05:52:52.302759
+1838,1141,Quimica Sanguinea,113.11,Fuera de rango,2024-08-02 04:52:52.302759
+1839,4724,Examen General de Orina,175.98,Normal,2024-12-17 06:37:52.302759
+1840,361,Radiografia de Torax,197.16,Normal,2024-12-10 07:52:52.302759
+1841,1300,Biometria Hematica,168.18,Normal,2025-09-11 12:37:52.302759
+1842,5047,Biometria Hematica,60.01,Normal,2025-01-16 13:22:52.302759
+1843,3600,Biometria Hematica,194.96,Fuera de rango,2024-08-19 10:52:52.302759
+1844,1449,Prueba de Glucosa,87.92,Normal,2024-08-19 07:37:52.302759
+1845,3239,Quimica Sanguinea,51.06,Normal,2025-03-24 11:37:52.302759
+1846,4769,Examen General de Orina,5.13,Normal,2026-03-30 14:37:52.302759
+1847,4686,Radiografia de Torax,170.68,Normal,2025-10-19 14:37:52.302759
+1848,1900,Prueba de Glucosa,36.04,Normal,2024-07-21 16:37:52.302759
+1849,3201,Prueba de Glucosa,159.05,Fuera de rango,2024-11-16 05:07:52.302759
+1850,3458,Quimica Sanguinea,33.29,Normal,2025-10-16 16:07:52.302759
+1851,2917,Prueba de Glucosa,160.03,Normal,2025-11-04 12:52:52.302759
+1852,1167,Radiografia de Torax,156.81,Normal,2026-03-20 09:22:52.302759
+1853,6328,Prueba de Glucosa,17.12,Normal,2025-06-19 10:07:52.302759
+1854,4604,Quimica Sanguinea,136.16,Normal,2025-07-26 07:22:52.302759
+1855,16,Quimica Sanguinea,145.58,Normal,2026-02-03 11:07:52.302759
+1856,1375,Radiografia de Torax,117.22,Normal,2025-01-29 13:52:52.302759
+1857,5797,Radiografia de Torax,157.91,Normal,2026-05-09 08:37:52.302759
+1858,3775,Radiografia de Torax,177.8,Normal,2025-04-28 16:52:52.302759
+1859,3964,Examen General de Orina,170.86,Normal,2024-12-25 12:22:52.302759
+1860,782,Perfil Lipidico,136.27,Normal,2025-10-31 15:07:52.302759
+1861,5572,Examen General de Orina,74.79,Normal,2025-01-27 10:22:52.302759
+1862,5956,Quimica Sanguinea,183.92,Fuera de rango,
+1863,2579,Prueba de Glucosa,15.55,Normal,2024-12-20 09:22:52.302759
+1864,3949,Prueba de Glucosa,76.71,Normal,2026-01-13 07:52:52.302759
+1865,1622,Radiografia de Torax,94.84,Normal,2026-06-07 09:22:52.302759
+1866,2639,Examen General de Orina,141.64,Fuera de rango,2025-01-02 06:37:52.302759
+1867,6326,Quimica Sanguinea,53.87,Normal,2024-11-05 09:22:52.302759
+1868,7312,Perfil Lipidico,71.44,Normal,2026-01-31 17:07:52.302759
+1869,7732,Examen General de Orina,65.79,Fuera de rango,2026-05-16 07:22:52.302759
+1870,6569,Radiografia de Torax,135.14,Normal,2025-03-05 10:22:52.302759
+1871,3077,Examen General de Orina,68.31,Normal,2024-08-04 15:37:52.302759
+1872,6353,Examen General de Orina,186.35,Normal,2024-11-15 07:52:52.302759
+1873,3173,Quimica Sanguinea,35.43,Fuera de rango,2024-12-05 14:37:52.302759
+1874,3907,Prueba de Glucosa,20.06,Normal,2025-01-09 14:07:52.302759
+1875,803,Radiografia de Torax,198.51,Fuera de rango,2025-11-24 08:22:52.302759
+1876,524,Prueba de Glucosa,129.6,Normal,2026-07-07 14:07:52.302759
+1877,2638,Radiografia de Torax,69.3,Normal,2026-01-09 14:22:52.302759
+1878,6646,Perfil Lipidico,15.66,Fuera de rango,2025-02-05 06:07:52.302759
+1879,3714,Quimica Sanguinea,120.23,Normal,
+1880,4083,Quimica Sanguinea,100.2,Fuera de rango,2025-10-14 16:37:52.302759
+1881,6159,Quimica Sanguinea,114.69,Normal,2026-03-16 14:37:52.302759
+1882,4196,Examen General de Orina,136.5,Normal,2025-10-20 06:52:52.302759
+1883,6315,Radiografia de Torax,94.18,Normal,2026-02-15 16:22:52.302759
+1884,3086,Examen General de Orina,28.93,Normal,2025-11-28 16:22:52.302759
+1885,5130,Quimica Sanguinea,185.78,Normal,2025-11-06 13:37:52.302759
+1886,3250,Radiografia de Torax,90.71,Normal,2025-08-09 08:22:52.302759
+1887,1028,Quimica Sanguinea,43.58,Normal,2025-07-25 15:07:52.302759
+1888,1343,Perfil Lipidico,13.86,Fuera de rango,2024-09-16 15:52:52.302759
+1889,4433,Radiografia de Torax,82.68,Normal,2025-05-18 07:52:52.302759
+1890,2574,Examen General de Orina,197.56,Normal,2026-03-13 11:22:52.302759
+1891,5803,Examen General de Orina,18.99,Normal,2026-02-13 06:52:52.302759
+1892,4917,Perfil Lipidico,27.28,Normal,2024-12-19 04:52:52.302759
+1893,7643,Radiografia de Torax,46.92,Normal,
+1894,5520,Quimica Sanguinea,109.32,Normal,2026-01-31 07:07:52.302759
+1895,1053,Perfil Lipidico,68.58,Normal,2026-05-30 14:07:52.302759
+1896,7631,Perfil Lipidico,164.27,Normal,2025-02-22 13:07:52.302759
+1897,6437,Quimica Sanguinea,96.66,Normal,2025-07-04 13:22:52.302759
+1898,1773,Prueba de Glucosa,157.73,Normal,2025-07-17 15:52:52.302759
+1899,6839,Examen General de Orina,178.72,Normal,2024-10-06 09:07:52.302759
+1900,5119,Quimica Sanguinea,128.25,Normal,2026-04-20 13:07:52.302759
+1901,3452,Prueba de Glucosa,56.36,Normal,2026-03-03 10:22:52.302759
+1902,2710,Quimica Sanguinea,149.15,Normal,2024-11-29 05:07:52.302759
+1903,4922,Biometria Hematica,190.68,Normal,2024-08-13 07:22:52.302759
+1904,4408,Examen General de Orina,198.26,Normal,2026-05-01 15:52:52.302759
+1905,5348,Biometria Hematica,175.53,Normal,2024-08-06 06:52:52.302759
+1906,2116,Prueba de Glucosa,137.27,Normal,2025-08-01 06:07:52.302759
+1907,858,Prueba de Glucosa,174.98,Normal,2025-07-29 04:52:52.302759
+1908,3626,Radiografia de Torax,76.95,Normal,2024-12-07 12:22:52.302759
+1909,3900,Quimica Sanguinea,108.95,Fuera de rango,2025-07-13 08:22:52.302759
+1910,3932,Prueba de Glucosa,108.7,Normal,2025-12-03 12:22:52.302759
+1911,233,Radiografia de Torax,170.45,Fuera de rango,2024-08-07 10:22:52.302759
+1912,353,Biometria Hematica,167.31,Normal,2025-01-25 11:22:52.302759
+1913,2106,Prueba de Glucosa,197.52,Normal,2026-01-02 06:37:52.302759
+1914,4985,Perfil Lipidico,72.2,Normal,2025-09-22 16:52:52.302759
+1915,5995,Quimica Sanguinea,81.54,Fuera de rango,2026-03-08 13:37:52.302759
+1916,4173,Quimica Sanguinea,34.75,Normal,2026-01-15 16:37:52.302759
+1917,212,Prueba de Glucosa,149.22,Normal,2024-12-12 16:22:52.302759
+1918,7630,Perfil Lipidico,171.23,Normal,2025-03-21 16:52:52.302759
+1919,4504,Radiografia de Torax,31.26,Fuera de rango,2025-08-11 13:22:52.302759
+1920,4232,Radiografia de Torax,136.98,Normal,2024-08-01 10:52:52.302759
+1921,4162,Examen General de Orina,125.6,Fuera de rango,
+1922,2041,Quimica Sanguinea,172.02,Normal,2025-09-15 06:22:52.302759
+1923,1929,Radiografia de Torax,57.72,Normal,2026-01-22 04:52:52.302759
+1924,5179,Quimica Sanguinea,51.74,Normal,2026-01-30 09:37:52.302759
+1925,1642,Prueba de Glucosa,121.79,Normal,2025-01-06 06:37:52.302759
+1926,3045,Biometria Hematica,117.64,Normal,2025-12-09 12:22:52.302759
+1927,2100,Radiografia de Torax,62.07,Normal,2024-11-18 13:07:52.302759
+1928,3451,Radiografia de Torax,33.43,Normal,
+1929,7841,Prueba de Glucosa,32.61,Fuera de rango,
+1930,7863,Examen General de Orina,156.28,Normal,2024-09-03 14:37:52.302759
+1931,6806,Examen General de Orina,122.44,Normal,2025-12-10 10:07:52.302759
+1932,5994,Perfil Lipidico,96.83,Normal,2025-10-29 11:37:52.302759
+1933,4490,Quimica Sanguinea,148.15,Fuera de rango,2026-04-01 12:52:52.302759
+1934,261,Biometria Hematica,114.81,Fuera de rango,2026-03-20 16:37:52.302759
+1935,5066,Perfil Lipidico,37.87,Normal,2025-06-03 09:07:52.302759
+1936,3253,Biometria Hematica,12.42,Fuera de rango,2025-03-28 06:22:52.302759
+1937,3009,Prueba de Glucosa,37.38,Fuera de rango,
+1938,6104,Quimica Sanguinea,27.09,Normal,2026-03-12 13:22:52.302759
+1939,7109,Biometria Hematica,116.25,Normal,2025-05-05 09:07:52.302759
+1940,95,Perfil Lipidico,149.77,Normal,2025-09-13 17:22:52.302759
+1941,3646,Perfil Lipidico,73.59,Normal,2026-07-14 13:07:52.302759
+1942,5970,Examen General de Orina,81.01,Fuera de rango,2026-07-08 05:22:52.302759
+1943,4983,Quimica Sanguinea,186.48,Fuera de rango,2024-11-17 06:37:52.302759
+1944,6060,Perfil Lipidico,22.19,Fuera de rango,2024-08-10 11:07:52.302759
+1945,1904,Perfil Lipidico,99.24,Normal,2026-07-11 06:52:52.302759
+1946,6207,Prueba de Glucosa,126.24,Normal,2025-06-09 09:22:52.302759
+1947,6686,Radiografia de Torax,61.62,Fuera de rango,2025-08-08 06:22:52.302759
+1948,7222,Perfil Lipidico,167.39,Fuera de rango,2025-02-22 06:37:52.302759
+1949,2595,Examen General de Orina,199.49,Normal,2026-04-20 14:52:52.302759
+1950,4839,Biometria Hematica,197.0,Normal,2024-11-20 07:22:52.302759
+1951,7450,Perfil Lipidico,76.39,Normal,2025-06-02 10:37:52.302759
+1952,2286,Perfil Lipidico,116.95,Normal,2025-03-08 17:07:52.302759
+1953,3388,Biometria Hematica,6.4,Normal,2026-07-07 13:22:52.302759
+1954,1514,Radiografia de Torax,140.63,Normal,2025-03-27 14:52:52.302759
+1955,6154,Prueba de Glucosa,39.65,Normal,2025-08-25 12:07:52.302759
+1956,3496,Perfil Lipidico,174.04,Normal,2025-03-15 14:37:52.302759
+1957,1791,Examen General de Orina,31.24,Normal,2026-06-29 06:37:52.302759
+1958,1544,Perfil Lipidico,96.36,Fuera de rango,2025-01-14 08:52:52.302759
+1959,4995,Biometria Hematica,142.95,Normal,2025-09-20 06:52:52.302759
+1960,7809,Biometria Hematica,196.77,Normal,2025-03-08 10:37:52.302759
+1961,2085,Radiografia de Torax,55.39,Normal,2026-06-21 13:37:52.302759
+1962,2380,Examen General de Orina,38.4,Normal,2025-01-07 08:52:52.302759
+1963,1685,Perfil Lipidico,158.64,Normal,2025-10-10 11:22:52.302759
+1964,7432,Biometria Hematica,160.72,Normal,2026-06-02 15:22:52.302759
+1965,2634,Perfil Lipidico,24.97,Normal,2026-06-23 17:07:52.302759
+1966,144,Perfil Lipidico,138.99,Normal,2025-04-25 14:52:52.302759
+1967,6774,Radiografia de Torax,116.26,Normal,2025-05-25 07:22:52.302759
+1968,6410,Biometria Hematica,192.59,Fuera de rango,2026-03-26 10:22:52.302759
+1969,1762,Quimica Sanguinea,66.77,Normal,2024-10-23 13:52:52.302759
+1970,5936,Prueba de Glucosa,195.55,Normal,2026-07-01 07:22:52.302759
+1971,4679,Radiografia de Torax,52.38,Normal,2025-05-14 14:07:52.302759
+1972,3116,Biometria Hematica,1.11,Normal,2025-10-07 14:37:52.302759
+1973,4335,Prueba de Glucosa,141.46,Normal,2024-12-20 10:52:52.302759
+1974,3017,Quimica Sanguinea,177.01,Normal,2025-11-22 16:22:52.302759
+1975,620,Examen General de Orina,64.53,Fuera de rango,2025-12-22 14:37:52.302759
+1976,5804,Quimica Sanguinea,66.09,Normal,2026-04-30 08:37:52.302759
+1977,2877,Radiografia de Torax,74.65,Normal,2025-08-13 15:37:52.302759
+1978,7756,Quimica Sanguinea,98.91,Normal,2025-09-27 06:22:52.302759
+1979,6994,Quimica Sanguinea,137.68,Normal,2025-07-02 16:07:52.302759
+1980,2467,Biometria Hematica,61.92,Normal,2024-09-02 05:22:52.302759
+1981,5763,Quimica Sanguinea,103.81,Normal,2026-05-09 15:52:52.302759
+1982,3597,Prueba de Glucosa,195.73,Normal,2024-08-14 11:37:52.302759
+1983,7766,Examen General de Orina,35.21,Fuera de rango,2025-02-22 11:52:52.302759
+1984,4326,Biometria Hematica,129.31,Fuera de rango,2024-09-30 15:37:52.302759
+1985,5079,Radiografia de Torax,151.86,Normal,2025-12-01 15:22:52.302759
+1986,311,Perfil Lipidico,189.3,Normal,2025-06-11 06:37:52.302759
+1987,1743,Prueba de Glucosa,184.97,Normal,2025-09-11 11:52:52.302759
+1988,4607,Examen General de Orina,114.08,Normal,2025-04-10 06:37:52.302759
+1989,427,Radiografia de Torax,125.51,Normal,2025-10-12 07:07:52.302759
+1990,3667,Radiografia de Torax,183.74,Normal,2025-06-21 11:07:52.302759
+1991,4075,Prueba de Glucosa,180.46,Normal,2025-02-25 11:22:52.302759
+1992,3735,Radiografia de Torax,138.99,Fuera de rango,2026-04-03 15:22:52.302759
+1993,5380,Biometria Hematica,103.84,Normal,2026-07-15 04:37:52.302759
+1994,557,Perfil Lipidico,91.11,Normal,2025-04-26 17:07:52.302759
+1995,4673,Perfil Lipidico,22.88,Normal,2024-10-10 17:07:52.302759
+1996,586,Examen General de Orina,162.21,Normal,2026-03-30 17:07:52.302759
+1997,1371,Prueba de Glucosa,141.1,Normal,2026-04-15 16:52:52.302759
+1998,983,Quimica Sanguinea,184.56,Normal,2024-07-25 06:07:52.302759
+1999,5611,Prueba de Glucosa,11.53,Normal,2025-01-02 16:22:52.302759
+2000,364,Examen General de Orina,127.58,Normal,2026-03-17 07:22:52.302759
+2001,4642,Perfil Lipidico,41.6,Normal,2026-03-01 08:37:52.302759
+2002,4225,Quimica Sanguinea,128.5,Normal,2025-11-09 17:07:52.302759
+2003,36,Quimica Sanguinea,122.65,Fuera de rango,2026-03-20 14:37:52.302759
+2004,5358,Prueba de Glucosa,77.87,Normal,2025-12-30 08:37:52.302759
+2005,2780,Quimica Sanguinea,106.57,Normal,2026-05-17 05:22:52.302759
+2006,2174,Biometria Hematica,19.04,Normal,2026-01-23 13:07:52.302759
+2007,6625,Radiografia de Torax,137.12,Normal,2025-03-20 16:07:52.302759
+2008,4788,Prueba de Glucosa,132.75,Normal,2026-05-30 06:52:52.302759
+2009,6886,Quimica Sanguinea,172.8,Normal,2025-09-04 11:52:52.302759
+2010,1581,Perfil Lipidico,81.2,Normal,2025-04-18 12:52:52.302759
+2011,1572,Examen General de Orina,160.02,Normal,2026-06-19 05:37:52.302759
+2012,5356,Prueba de Glucosa,186.21,Normal,2024-09-19 09:07:52.302759
+2013,282,Quimica Sanguinea,40.63,Normal,2025-10-10 08:07:52.302759
+2014,7861,Biometria Hematica,61.7,Fuera de rango,
+2015,3038,Perfil Lipidico,81.19,Normal,2025-06-13 15:22:52.302759
+2016,7888,Radiografia de Torax,28.03,Normal,2025-07-26 05:52:52.302759
+2017,3243,Biometria Hematica,172.8,Fuera de rango,2026-01-31 17:07:52.302759
+2018,5556,Quimica Sanguinea,188.97,Normal,2025-03-11 12:52:52.302759
+2019,6898,Perfil Lipidico,142.3,Normal,2026-06-16 10:37:52.302759
+2020,7592,Prueba de Glucosa,53.19,Normal,2026-01-24 16:52:52.302759
+2021,3749,Examen General de Orina,161.53,Normal,2025-09-26 06:37:52.302759
+2022,5115,Prueba de Glucosa,71.0,Normal,2025-08-30 11:22:52.302759
+2023,6864,Quimica Sanguinea,50.99,Normal,2025-11-01 13:37:52.302759
+2024,7445,Prueba de Glucosa,110.42,Normal,2025-10-17 12:37:52.302759
+2025,2986,Perfil Lipidico,183.94,Normal,2024-11-24 11:52:52.302759
+2026,6029,Quimica Sanguinea,28.72,Normal,2025-02-02 09:22:52.302759
+2027,4338,Prueba de Glucosa,69.26,Normal,2026-04-01 11:07:52.302759
+2028,3402,Quimica Sanguinea,157.27,Normal,2026-03-10 16:52:52.302759
+2029,4289,Examen General de Orina,176.96,Normal,2026-04-26 15:37:52.302759
+2030,6560,Quimica Sanguinea,1.71,Normal,2024-11-10 14:52:52.302759
+2031,6491,Quimica Sanguinea,135.12,Normal,2024-10-19 08:07:52.302759
+2032,1959,Quimica Sanguinea,197.86,Normal,2026-03-30 17:22:52.302759
+2033,4427,Quimica Sanguinea,113.36,Fuera de rango,2025-08-08 06:22:52.302759
+2034,738,Examen General de Orina,12.92,Normal,2025-11-15 11:37:52.302759
+2035,3139,Quimica Sanguinea,87.63,Normal,2026-05-17 05:22:52.302759
+2036,6063,Prueba de Glucosa,24.63,Normal,2025-02-27 07:37:52.302759
+2037,1350,Radiografia de Torax,145.47,Normal,2024-12-06 11:22:52.302759
+2038,654,Examen General de Orina,66.32,Fuera de rango,2025-08-11 10:07:52.302759
+2039,5067,Perfil Lipidico,130.25,Normal,2024-11-24 13:22:52.302759
+2040,6316,Perfil Lipidico,196.0,Normal,2025-05-08 07:37:52.302759
+2041,6442,Examen General de Orina,57.0,Normal,2024-08-29 10:07:52.302759
+2042,7852,Perfil Lipidico,117.91,Normal,2025-05-17 09:22:52.302759
+2043,4025,Radiografia de Torax,165.92,Normal,2026-01-28 13:22:52.302759
+2044,4864,Biometria Hematica,67.29,Normal,2025-10-22 04:37:52.302759
+2045,251,Biometria Hematica,155.98,Normal,2025-01-10 05:52:52.302759
+2046,415,Quimica Sanguinea,172.65,Normal,2025-12-22 12:07:52.302759
+2047,3654,Radiografia de Torax,33.78,Normal,2025-07-07 15:52:52.302759
+2048,2753,Perfil Lipidico,184.02,Normal,2024-11-09 09:07:52.302759
+2049,3720,Examen General de Orina,92.43,Normal,2025-09-24 15:52:52.302759
+2050,4849,Radiografia de Torax,14.05,Normal,2025-05-21 08:22:52.302759
+2051,1027,Perfil Lipidico,105.87,Normal,2024-07-23 07:22:52.302759
+2052,4570,Perfil Lipidico,65.51,Normal,2025-04-21 07:52:52.302759
+2053,1513,Biometria Hematica,39.47,Normal,2026-03-05 17:07:52.302759
+2054,6038,Examen General de Orina,98.18,Normal,2024-10-16 14:52:52.302759
+2055,1954,Quimica Sanguinea,194.95,Fuera de rango,2025-01-06 08:22:52.302759
+2056,5900,Radiografia de Torax,164.42,Normal,2026-04-15 11:22:52.302759
+2057,4392,Biometria Hematica,35.14,Fuera de rango,2026-06-15 11:07:52.302759
+2058,4506,Perfil Lipidico,22.78,Normal,2026-04-30 09:07:52.302759
+2059,6109,Perfil Lipidico,99.51,Fuera de rango,2025-06-25 08:37:52.302759
+2060,5712,Biometria Hematica,12.0,Normal,2025-10-03 11:22:52.302759
+2061,2655,Radiografia de Torax,78.34,Normal,2024-12-22 06:52:52.302759
+2062,5837,Radiografia de Torax,131.78,Fuera de rango,2025-05-14 07:22:52.302759
+2063,4793,Biometria Hematica,135.15,Normal,2024-08-19 17:07:52.302759
+2064,808,Perfil Lipidico,28.35,Normal,2025-03-26 09:22:52.302759
+2065,974,Radiografia de Torax,164.22,Normal,2025-07-06 08:52:52.302759
+2066,7427,Examen General de Orina,35.0,Normal,2024-08-11 11:52:52.302759
+2067,4699,Radiografia de Torax,165.77,Normal,2025-10-02 05:52:52.302759
+2068,1665,Perfil Lipidico,47.97,Normal,2026-03-18 14:07:52.302759
+2069,6194,Biometria Hematica,33.2,Normal,2025-04-10 05:52:52.302759
+2070,5388,Quimica Sanguinea,163.86,Normal,2026-01-04 08:07:52.302759
+2071,6490,Prueba de Glucosa,160.74,Normal,2024-12-22 13:52:52.302759
+2072,6040,Radiografia de Torax,194.91,Fuera de rango,2025-10-03 05:07:52.302759
+2073,6972,Biometria Hematica,193.83,Normal,2024-09-14 10:22:52.302759
+2074,4710,Perfil Lipidico,129.34,Fuera de rango,2025-09-25 11:52:52.302759
+2075,3624,Biometria Hematica,87.09,Normal,2026-06-06 15:22:52.302759
+2076,7061,Quimica Sanguinea,4.35,Normal,2025-06-13 10:37:52.302759
+2077,6920,Perfil Lipidico,168.24,Fuera de rango,
+2078,6813,Radiografia de Torax,44.54,Normal,2025-02-08 12:07:52.302759
+2079,2160,Examen General de Orina,61.24,Normal,2026-06-06 14:52:52.302759
+2080,2881,Examen General de Orina,198.57,Normal,2026-07-03 06:22:52.302759
+2081,988,Perfil Lipidico,176.57,Normal,2025-10-11 07:22:52.302759
+2082,1054,Quimica Sanguinea,190.91,Normal,2024-08-02 13:37:52.302759
+2083,4108,Examen General de Orina,129.2,Normal,2025-07-05 13:22:52.302759
+2084,3570,Radiografia de Torax,66.87,Normal,2026-05-02 13:07:52.302759
+2085,5614,Radiografia de Torax,18.02,Normal,2025-07-20 08:07:52.302759
+2086,271,Biometria Hematica,15.62,Normal,2025-07-18 04:37:52.302759
+2087,1582,Examen General de Orina,170.57,Fuera de rango,2026-06-12 09:52:52.302759
+2088,711,Biometria Hematica,185.01,Normal,2024-11-18 06:22:52.302759
+2089,60,Examen General de Orina,182.4,Normal,2025-11-12 11:52:52.302759
+2090,1517,Quimica Sanguinea,170.92,Normal,2025-03-02 13:52:52.302759
+2091,6045,Prueba de Glucosa,118.64,Normal,2024-10-09 15:07:52.302759
+2092,7737,Prueba de Glucosa,38.48,Normal,2025-05-18 14:52:52.302759
+2093,2309,Quimica Sanguinea,51.08,Normal,2025-11-28 12:07:52.302759
+2094,6987,Quimica Sanguinea,137.15,Normal,2025-06-26 14:07:52.302759
+2095,4304,Perfil Lipidico,143.98,Normal,2026-03-29 05:07:52.302759
+2096,6588,Prueba de Glucosa,74.08,Normal,2025-01-24 11:22:52.302759
+2097,1324,Prueba de Glucosa,131.53,Normal,2024-11-06 06:52:52.302759
+2098,889,Quimica Sanguinea,37.74,Normal,2026-02-24 07:37:52.302759
+2099,1833,Examen General de Orina,104.91,Normal,2025-08-03 09:52:52.302759
+2100,829,Perfil Lipidico,52.78,Normal,2024-10-21 09:07:52.302759
+2101,7097,Prueba de Glucosa,73.11,Fuera de rango,2026-02-23 16:37:52.302759
+2102,6444,Prueba de Glucosa,36.21,Normal,2025-02-25 13:52:52.302759
+2103,1105,Perfil Lipidico,128.07,Fuera de rango,2025-11-29 07:52:52.302759
+2104,2998,Quimica Sanguinea,131.45,Normal,2025-04-18 16:07:52.302759
+2105,6184,Quimica Sanguinea,112.76,Normal,2025-01-26 13:52:52.302759
+2106,3304,Biometria Hematica,60.14,Normal,2025-12-24 09:37:52.302759
+2107,6351,Biometria Hematica,2.63,Normal,2024-11-03 05:52:52.302759
+2108,3117,Prueba de Glucosa,16.18,Normal,2025-01-12 16:07:52.302759
+2109,2976,Quimica Sanguinea,99.65,Normal,2025-03-13 05:22:52.302759
+2110,7067,Biometria Hematica,9.58,Normal,2026-03-14 16:22:52.302759
+2111,2763,Radiografia de Torax,192.93,Normal,2024-11-08 08:07:52.302759
+2112,6067,Quimica Sanguinea,189.65,Normal,2025-02-18 07:37:52.302759
+2113,2283,Biometria Hematica,84.25,Normal,2025-08-11 10:07:52.302759
+2114,2144,Examen General de Orina,82.66,Normal,
+2115,5785,Examen General de Orina,149.56,Normal,2025-12-20 07:22:52.302759
+2116,3131,Quimica Sanguinea,59.26,Normal,2025-06-26 07:07:52.302759
+2117,2421,Examen General de Orina,80.0,Fuera de rango,2026-01-01 11:22:52.302759
+2118,6929,Perfil Lipidico,97.02,Normal,2025-07-26 10:22:52.302759
+2119,3743,Radiografia de Torax,55.4,Normal,2025-05-27 12:07:52.302759
+2120,6629,Perfil Lipidico,157.24,Normal,2025-05-01 13:22:52.302759
+2121,904,Examen General de Orina,1.88,Normal,2025-01-30 07:07:52.302759
+2122,5788,Prueba de Glucosa,123.84,Normal,2025-11-06 13:22:52.302759
+2123,7569,Biometria Hematica,9.42,Normal,2025-03-31 15:37:52.302759
+2124,7656,Quimica Sanguinea,96.63,Fuera de rango,2026-01-11 13:52:52.302759
+2125,1540,Perfil Lipidico,196.94,Normal,2026-04-05 11:52:52.302759
+2126,2562,Prueba de Glucosa,8.08,Normal,2025-11-10 14:07:52.302759
+2127,3687,Radiografia de Torax,152.08,Normal,2025-10-15 13:22:52.302759
+2128,6388,Perfil Lipidico,91.93,Normal,2025-02-15 09:52:52.302759
+2129,1106,Examen General de Orina,169.07,Normal,2026-01-25 06:07:52.302759
+2130,523,Examen General de Orina,195.66,Normal,2025-04-23 08:22:52.302759
+2131,5494,Prueba de Glucosa,11.79,Fuera de rango,2025-05-14 13:22:52.302759
+2132,4937,Biometria Hematica,133.63,Normal,2024-10-31 14:22:52.302759
+2133,6225,Quimica Sanguinea,122.6,Normal,2024-09-14 16:22:52.302759
+2134,7232,Examen General de Orina,175.56,Normal,2025-03-18 15:52:52.302759
+2135,1504,Biometria Hematica,176.3,Normal,2025-03-07 04:52:52.302759
+2136,4445,Prueba de Glucosa,160.1,Normal,2025-07-21 05:22:52.302759
+2137,6523,Perfil Lipidico,6.24,Normal,2025-05-30 16:52:52.302759
+2138,6546,Radiografia de Torax,142.87,Normal,2025-05-15 12:37:52.302759
+2139,3351,Examen General de Orina,142.26,Fuera de rango,2025-08-29 09:37:52.302759
+2140,1353,Perfil Lipidico,180.49,Normal,2024-10-12 07:22:52.302759
+2141,2529,Examen General de Orina,114.13,Normal,2026-02-05 12:52:52.302759
+2142,7219,Examen General de Orina,26.71,Normal,2026-02-24 11:07:52.302759
+2143,3947,Radiografia de Torax,182.08,Normal,2024-10-17 13:52:52.302759
+2144,6751,Quimica Sanguinea,100.7,Normal,2025-09-05 17:07:52.302759
+2145,2170,Biometria Hematica,195.7,Fuera de rango,2025-03-22 05:22:52.302759
+2146,5768,Quimica Sanguinea,110.15,Normal,2026-04-05 08:22:52.302759
+2147,4659,Radiografia de Torax,64.93,Normal,2025-07-15 05:37:52.302759
+2148,7551,Prueba de Glucosa,138.39,Normal,2025-03-03 10:07:52.302759
+2149,238,Prueba de Glucosa,134.0,Normal,2024-08-03 08:37:52.302759
+2150,7830,Perfil Lipidico,173.48,Normal,2026-05-21 17:07:52.302759
+2151,1387,Radiografia de Torax,62.04,Normal,2026-06-08 13:52:52.302759
+2152,3566,Quimica Sanguinea,31.86,Normal,2026-06-16 13:22:52.302759
+2153,2791,Examen General de Orina,141.24,Normal,2026-01-17 10:37:52.302759
+2154,3633,Radiografia de Torax,171.45,Normal,2025-11-25 16:07:52.302759
+2155,372,Perfil Lipidico,95.8,Normal,2025-12-28 17:07:52.302759
+2156,2907,Biometria Hematica,100.23,Normal,
+2157,1587,Radiografia de Torax,45.34,Fuera de rango,2026-01-13 04:52:52.302759
+2158,92,Perfil Lipidico,73.94,Fuera de rango,2025-04-25 07:37:52.302759
+2159,2910,Biometria Hematica,59.5,Normal,2025-04-24 15:37:52.302759
+2160,4109,Quimica Sanguinea,164.65,Normal,2024-12-23 15:07:52.302759
+2161,2765,Radiografia de Torax,99.2,Normal,2025-03-16 08:52:52.302759
+2162,1019,Prueba de Glucosa,61.73,Normal,2025-11-07 09:07:52.302759
+2163,5155,Prueba de Glucosa,92.58,Normal,2025-05-25 16:37:52.302759
+2164,1782,Examen General de Orina,45.79,Normal,2026-03-13 08:22:52.302759
+2165,7313,Biometria Hematica,14.26,Normal,2024-10-01 07:52:52.302759
+2166,294,Biometria Hematica,134.75,Fuera de rango,2025-09-08 10:52:52.302759
+2167,118,Examen General de Orina,37.67,Fuera de rango,2026-02-02 11:07:52.302759
+2168,2836,Prueba de Glucosa,14.34,Normal,2025-02-24 11:52:52.302759
+2169,6531,Radiografia de Torax,90.35,Normal,2025-07-30 14:37:52.302759
+2170,6689,Perfil Lipidico,12.53,Normal,2024-12-23 15:22:52.302759
+2171,3846,Quimica Sanguinea,144.32,Normal,2025-02-02 12:07:52.302759
+2172,2792,Quimica Sanguinea,187.46,Normal,2024-08-06 17:07:52.302759
+2173,3531,Biometria Hematica,90.88,Normal,2025-04-09 14:07:52.302759
+2174,6858,Quimica Sanguinea,49.94,Normal,
+2175,1239,Quimica Sanguinea,126.64,Normal,2024-08-07 16:52:52.302759
+2176,7665,Perfil Lipidico,160.48,Normal,2025-11-28 12:52:52.302759
+2177,7493,Prueba de Glucosa,85.78,Fuera de rango,2025-05-29 12:52:52.302759
+2178,3905,Perfil Lipidico,110.47,Normal,2025-11-18 08:52:52.302759
+2179,1866,Biometria Hematica,20.81,Normal,2025-03-26 13:52:52.302759
+2180,5491,Examen General de Orina,66.9,Normal,2025-12-05 08:52:52.302759
+2181,503,Prueba de Glucosa,49.03,Normal,2026-06-02 06:22:52.302759
+2182,5759,Biometria Hematica,124.48,Normal,2025-01-27 09:37:52.302759
+2183,7675,Biometria Hematica,31.22,Normal,2024-09-02 09:07:52.302759
+2184,3895,Quimica Sanguinea,15.81,Normal,2025-06-29 07:37:52.302759
+2185,3512,Quimica Sanguinea,6.08,Normal,2025-09-11 12:37:52.302759
+2186,3977,Radiografia de Torax,114.77,Fuera de rango,2025-08-17 14:07:52.302759
+2187,7293,Biometria Hematica,102.89,Normal,2025-04-04 10:37:52.302759
+2188,6061,Quimica Sanguinea,189.09,Normal,2025-09-08 10:52:52.302759
+2189,4624,Examen General de Orina,12.54,Normal,2026-04-23 09:07:52.302759
+2190,769,Quimica Sanguinea,111.19,Normal,2025-01-10 12:37:52.302759
+2191,609,Radiografia de Torax,2.28,Normal,2025-06-24 09:37:52.302759
+2192,4801,Perfil Lipidico,125.32,Normal,2024-11-22 05:52:52.302759
+2193,891,Prueba de Glucosa,71.23,Normal,2025-03-18 12:37:52.302759
+2194,4406,Examen General de Orina,123.73,Normal,2025-02-13 08:07:52.302759
+2195,933,Radiografia de Torax,131.99,Normal,2024-09-19 11:22:52.302759
+2196,2687,Examen General de Orina,64.9,Normal,2026-03-03 12:52:52.302759
+2197,3784,Biometria Hematica,167.56,Normal,2025-07-19 04:37:52.302759
+2198,4348,Biometria Hematica,109.61,Normal,2024-11-29 12:22:52.302759
+2199,7752,Prueba de Glucosa,68.19,Normal,2026-02-12 07:37:52.302759
+2200,5093,Prueba de Glucosa,87.08,Normal,2026-07-01 13:22:52.302759
+2201,727,Perfil Lipidico,13.08,Normal,2025-12-31 08:37:52.302759
+2202,2950,Prueba de Glucosa,66.81,Normal,2025-02-03 11:07:52.302759
+2203,1320,Perfil Lipidico,132.14,Normal,2025-06-30 08:22:52.302759
+2204,2370,Radiografia de Torax,21.85,Normal,2026-01-15 04:37:52.302759
+2205,1997,Biometria Hematica,194.93,Normal,2026-01-14 07:37:52.302759
+2206,3228,Examen General de Orina,163.76,Normal,2024-08-08 05:22:52.302759
+2207,2060,Quimica Sanguinea,178.87,Normal,2024-11-05 06:07:52.302759
+2208,7868,Perfil Lipidico,83.2,Normal,2026-03-13 13:37:52.302759
+2209,7350,Radiografia de Torax,178.59,Normal,2026-02-23 05:22:52.302759
+2210,110,Prueba de Glucosa,2.45,Normal,2025-11-22 17:22:52.302759
+2211,5940,Quimica Sanguinea,183.32,Normal,2025-07-05 16:22:52.302759
+2212,7327,Examen General de Orina,16.14,Normal,2024-08-05 06:37:52.302759
+2213,1270,Examen General de Orina,25.69,Normal,2026-07-01 16:07:52.302759
+2214,3350,Examen General de Orina,144.44,Normal,2025-08-11 12:37:52.302759
+2215,3997,Prueba de Glucosa,22.64,Normal,2026-06-19 05:22:52.302759
+2216,2611,Examen General de Orina,109.06,Normal,2024-07-29 12:37:52.302759
+2217,5753,Radiografia de Torax,79.68,Normal,2026-01-05 15:52:52.302759
+2218,1478,Biometria Hematica,110.03,Normal,2025-08-13 10:22:52.302759
+2219,2473,Examen General de Orina,123.67,Normal,2025-02-13 13:52:52.302759
+2220,755,Perfil Lipidico,44.93,Normal,2026-02-21 13:07:52.302759
+2221,7273,Quimica Sanguinea,64.23,Normal,2026-02-03 13:22:52.302759
+2222,694,Perfil Lipidico,39.71,Normal,
+2223,2235,Prueba de Glucosa,75.04,Normal,2026-02-13 14:37:52.302759
+2224,1638,Perfil Lipidico,14.09,Normal,2024-12-14 13:22:52.302759
+2225,4339,Biometria Hematica,108.2,Normal,2024-09-26 11:37:52.302759
+2226,7614,Radiografia de Torax,61.66,Normal,2025-12-16 17:07:52.302759
+2227,2557,Prueba de Glucosa,95.03,Normal,2025-11-24 10:52:52.302759
+2228,3123,Perfil Lipidico,32.89,Normal,2026-05-30 09:37:52.302759
+2229,7525,Radiografia de Torax,153.26,Normal,2025-11-26 05:52:52.302759
+2230,3699,Quimica Sanguinea,113.7,Normal,2025-08-11 05:37:52.302759
+2231,2045,Prueba de Glucosa,32.92,Normal,2026-06-13 08:37:52.302759
+2232,918,Prueba de Glucosa,162.93,Normal,2025-04-08 07:52:52.302759
+2233,2662,Examen General de Orina,64.96,Normal,2026-03-18 05:52:52.302759
+2234,241,Examen General de Orina,45.82,Normal,2024-09-14 12:07:52.302759
+2235,4495,Perfil Lipidico,34.75,Normal,2025-08-24 12:07:52.302759
+2236,2797,Biometria Hematica,189.0,Normal,2024-11-20 15:37:52.302759
+2237,5238,Radiografia de Torax,142.66,Normal,2025-01-14 08:52:52.302759
+2238,987,Perfil Lipidico,126.66,Normal,2026-06-02 09:22:52.302759
+2239,4779,Examen General de Orina,31.59,Fuera de rango,2025-10-11 17:22:52.302759
+2240,5212,Biometria Hematica,96.76,Normal,2025-12-31 11:07:52.302759
+2241,6552,Perfil Lipidico,14.25,Normal,2026-04-16 12:22:52.302759
+2242,6152,Examen General de Orina,106.2,Normal,2024-12-04 15:37:52.302759
+2243,786,Radiografia de Torax,142.17,Fuera de rango,2025-01-21 09:07:52.302759
+2244,7058,Perfil Lipidico,117.72,Normal,2024-11-29 10:52:52.302759
+2245,6432,Perfil Lipidico,29.06,Normal,2025-03-20 14:52:52.302759
+2246,7538,Prueba de Glucosa,19.12,Normal,2025-06-25 13:52:52.302759
+2247,5523,Examen General de Orina,38.7,Normal,2025-04-06 07:07:52.302759
+2248,156,Perfil Lipidico,92.76,Fuera de rango,2024-09-06 14:52:52.302759
+2249,2156,Radiografia de Torax,98.4,Normal,2024-10-14 13:52:52.302759
+2250,3842,Quimica Sanguinea,126.6,Fuera de rango,2025-02-12 13:37:52.302759
+2251,6395,Biometria Hematica,152.83,Normal,2024-11-10 05:22:52.302759
+2252,2600,Quimica Sanguinea,161.18,Fuera de rango,2025-04-04 09:07:52.302759
+2253,5599,Biometria Hematica,22.46,Normal,2024-10-30 14:22:52.302759
+2254,4814,Biometria Hematica,47.12,Normal,2025-11-28 11:52:52.302759
+2255,171,Prueba de Glucosa,128.49,Fuera de rango,2024-12-16 13:22:52.302759
+2256,7052,Radiografia de Torax,28.88,Normal,2025-12-21 12:22:52.302759
+2257,3586,Examen General de Orina,99.33,Normal,2026-06-28 11:52:52.302759
+2258,3263,Examen General de Orina,49.88,Normal,2026-03-16 13:22:52.302759
+2259,82,Examen General de Orina,171.21,Normal,2024-09-17 04:52:52.302759
+2260,7688,Prueba de Glucosa,6.48,Normal,2026-05-05 12:52:52.302759
+2261,6946,Perfil Lipidico,166.93,Normal,2024-12-05 07:52:52.302759
+2262,4703,Biometria Hematica,91.72,Normal,2024-09-06 08:37:52.302759
+2263,3552,Perfil Lipidico,26.53,Normal,2025-02-24 11:22:52.302759
+2264,840,Quimica Sanguinea,95.06,Normal,2025-09-01 11:22:52.302759
+2265,7702,Quimica Sanguinea,114.75,Fuera de rango,2025-05-05 13:52:52.302759
+2266,914,Quimica Sanguinea,33.68,Normal,2025-10-02 15:07:52.302759
+2267,1492,Radiografia de Torax,165.02,Normal,2024-09-08 04:52:52.302759
+2268,2644,Prueba de Glucosa,189.63,Normal,2024-12-11 13:07:52.302759
+2269,3897,Radiografia de Torax,27.37,Normal,2025-04-20 07:22:52.302759
+2270,5427,Radiografia de Torax,187.8,Normal,2025-07-07 08:22:52.302759
+2271,695,Perfil Lipidico,2.07,Normal,2025-10-23 10:37:52.302759
+2272,2282,Prueba de Glucosa,65.91,Normal,2024-09-10 12:52:52.302759
+2273,3475,Quimica Sanguinea,105.62,Normal,2025-04-07 11:22:52.302759
+2274,2083,Perfil Lipidico,30.66,Normal,2025-06-26 15:07:52.302759
+2275,1699,Perfil Lipidico,21.45,Normal,2024-10-30 15:22:52.302759
+2276,5976,Perfil Lipidico,181.31,Normal,2026-06-07 14:07:52.302759
+2277,3417,Radiografia de Torax,197.38,Normal,2026-02-22 10:07:52.302759
+2278,599,Prueba de Glucosa,180.43,Normal,2024-12-15 13:37:52.302759
+2279,4233,Examen General de Orina,53.36,Normal,2026-01-03 12:52:52.302759
+2280,854,Radiografia de Torax,24.13,Normal,2024-08-26 14:52:52.302759
+2281,6493,Radiografia de Torax,158.37,Normal,2025-08-19 16:07:52.302759
+2282,733,Prueba de Glucosa,88.81,Normal,2024-11-14 14:52:52.302759
+2283,2333,Examen General de Orina,125.16,Normal,2025-06-15 14:07:52.302759
+2284,6246,Biometria Hematica,81.55,Fuera de rango,2026-07-13 05:37:52.302759
+2285,4646,Biometria Hematica,154.41,Fuera de rango,2025-05-04 07:37:52.302759
+2286,5636,Radiografia de Torax,184.84,Normal,2025-08-19 07:22:52.302759
+2287,1465,Radiografia de Torax,49.51,Normal,2025-01-09 14:37:52.302759
+2288,336,Prueba de Glucosa,161.67,Fuera de rango,2024-11-04 11:52:52.302759
+2289,6424,Radiografia de Torax,155.52,Normal,2025-09-26 06:52:52.302759
+2290,1667,Radiografia de Torax,2.53,Normal,2024-12-06 17:07:52.302759
+2291,6084,Quimica Sanguinea,181.63,Normal,2025-11-11 12:37:52.302759
+2292,1858,Quimica Sanguinea,51.62,Normal,2025-05-11 09:07:52.302759
+2293,3502,Perfil Lipidico,63.06,Normal,2025-03-09 13:07:52.302759
+2294,3188,Perfil Lipidico,58.35,Normal,2025-07-19 06:52:52.302759
+2295,5449,Perfil Lipidico,76.24,Normal,2025-06-04 06:52:52.302759
+2296,4143,Examen General de Orina,29.6,Normal,2025-04-19 10:37:52.302759
+2297,7826,Prueba de Glucosa,80.17,Normal,2025-07-26 06:52:52.302759
+2298,7521,Examen General de Orina,69.15,Normal,2024-12-24 11:22:52.302759
+2299,4420,Perfil Lipidico,7.72,Normal,2024-09-18 13:37:52.302759
+2300,1170,Prueba de Glucosa,196.37,Normal,2025-02-03 08:22:52.302759
+2301,6358,Radiografia de Torax,191.17,Fuera de rango,2024-10-11 12:22:52.302759
+2302,2739,Quimica Sanguinea,134.63,Normal,2025-10-16 05:07:52.302759
+2303,6837,Biometria Hematica,194.62,Normal,2025-10-18 09:07:52.302759
+2304,3207,Perfil Lipidico,94.92,Normal,2025-07-12 16:07:52.302759
+2305,88,Examen General de Orina,42.33,Normal,2024-08-09 11:22:52.302759
+2306,5833,Prueba de Glucosa,45.43,Normal,2026-06-10 09:07:52.302759
+2307,5654,Examen General de Orina,102.77,Fuera de rango,2025-12-19 09:37:52.302759
+2308,1941,Biometria Hematica,86.45,Normal,2026-06-22 12:07:52.302759
+2309,3498,Prueba de Glucosa,115.85,Normal,2025-09-02 09:22:52.302759
+2310,4391,Prueba de Glucosa,146.37,Normal,2025-08-07 05:07:52.302759
+2311,5160,Examen General de Orina,184.43,Fuera de rango,2024-12-04 13:52:52.302759
+2312,1831,Examen General de Orina,80.47,Normal,2024-12-21 08:22:52.302759
+2313,5965,Perfil Lipidico,199.96,Fuera de rango,2026-01-29 08:07:52.302759
+2314,190,Biometria Hematica,135.39,Normal,2026-06-22 15:22:52.302759
+2315,5557,Perfil Lipidico,12.05,Normal,2025-11-03 12:22:52.302759
+2316,2544,Quimica Sanguinea,109.25,Normal,2025-04-25 06:22:52.302759
+2317,7469,Quimica Sanguinea,136.08,Normal,2024-11-30 15:07:52.302759
+2318,2748,Radiografia de Torax,185.41,Normal,2026-01-27 16:37:52.302759
+2319,4081,Perfil Lipidico,118.7,Normal,2024-08-20 14:22:52.302759
+2320,3437,Biometria Hematica,119.78,Normal,2025-05-19 04:52:52.302759
+2321,5362,Radiografia de Torax,193.18,Normal,2025-02-16 07:52:52.302759
+2322,1056,Biometria Hematica,112.5,Normal,2025-08-31 07:52:52.302759
+2323,2849,Examen General de Orina,101.79,Normal,2025-09-15 11:37:52.302759
+2324,6349,Radiografia de Torax,73.04,Normal,2025-05-17 08:37:52.302759
+2325,3371,Examen General de Orina,124.51,Normal,2026-02-24 09:07:52.302759
+2326,447,Examen General de Orina,196.91,Normal,2026-06-24 12:22:52.302759
+2327,1753,Quimica Sanguinea,71.74,Normal,2024-08-17 09:07:52.302759
+2328,5565,Perfil Lipidico,2.39,Normal,2026-06-25 10:07:52.302759
+2329,2159,Radiografia de Torax,20.24,Normal,2025-05-28 11:07:52.302759
+2330,5863,Examen General de Orina,28.15,Normal,2025-02-09 15:37:52.302759
+2331,3439,Biometria Hematica,47.93,Normal,2025-01-23 06:52:52.302759
+2332,2211,Examen General de Orina,48.69,Normal,2025-09-21 15:52:52.302759
+2333,5087,Examen General de Orina,166.86,Normal,2024-12-22 16:07:52.302759
+2334,1033,Quimica Sanguinea,175.69,Normal,2026-05-28 09:52:52.302759
+2335,1467,Quimica Sanguinea,142.77,Normal,2025-06-08 12:22:52.302759
+2336,220,Prueba de Glucosa,197.4,Normal,2025-09-09 05:37:52.302759
+2337,3893,Examen General de Orina,161.89,Normal,2025-04-05 09:07:52.302759
+2338,7252,Biometria Hematica,24.23,Normal,2026-03-01 11:22:52.302759
+2339,2551,Prueba de Glucosa,187.8,Normal,2025-08-19 14:07:52.302759
+2340,6343,Quimica Sanguinea,141.32,Fuera de rango,2026-02-20 11:22:52.302759
+2341,7215,Radiografia de Torax,173.37,Normal,2025-10-19 14:52:52.302759
+2342,5942,Prueba de Glucosa,159.43,Normal,2024-12-27 17:22:52.302759
+2343,1271,Radiografia de Torax,55.57,Normal,2025-04-02 13:37:52.302759
+2344,7957,Examen General de Orina,19.94,Fuera de rango,2025-06-05 13:07:52.302759
+2345,367,Prueba de Glucosa,183.22,Normal,2026-07-04 11:07:52.302759
+2346,1798,Radiografia de Torax,163.78,Normal,2024-10-19 08:52:52.302759
+2347,347,Radiografia de Torax,51.07,Normal,2025-10-14 06:22:52.302759
+2348,4828,Biometria Hematica,148.09,Normal,2025-05-14 04:52:52.302759
+2349,3682,Biometria Hematica,147.08,Normal,2026-05-26 09:22:52.302759
+2350,6308,Examen General de Orina,17.97,Normal,2026-07-14 10:22:52.302759
+2351,2206,Quimica Sanguinea,14.31,Normal,2025-07-02 05:37:52.302759
+2352,1558,Examen General de Orina,12.0,Normal,2025-05-16 06:37:52.302759
+2353,5669,Perfil Lipidico,50.3,Normal,2024-07-18 14:22:52.302759
+2354,4316,Biometria Hematica,58.78,Normal,2025-06-06 15:22:52.302759
+2355,7984,Perfil Lipidico,109.68,Normal,2024-09-24 07:52:52.302759
+2356,2806,Examen General de Orina,44.27,Normal,2025-03-11 09:37:52.302759
+2357,2448,Biometria Hematica,182.58,Fuera de rango,2025-03-09 17:07:52.302759
+2358,7362,Perfil Lipidico,170.42,Normal,2026-05-10 08:37:52.302759
+2359,3446,Biometria Hematica,197.56,Normal,2026-05-29 09:52:52.302759
+2360,7281,Prueba de Glucosa,162.79,Normal,2025-10-07 05:22:52.302759
+2361,4010,Radiografia de Torax,143.75,Normal,2025-02-07 13:22:52.302759
+2362,7231,Prueba de Glucosa,186.36,Fuera de rango,2024-09-24 08:37:52.302759
+2363,126,Examen General de Orina,11.76,Normal,2026-01-25 04:37:52.302759
+2364,4343,Quimica Sanguinea,147.87,Normal,2026-04-28 16:52:52.302759
+2365,917,Examen General de Orina,145.36,Normal,2025-12-01 10:37:52.302759
+2366,7395,Biometria Hematica,21.96,Normal,2025-04-20 16:22:52.302759
+2367,589,Prueba de Glucosa,167.6,Normal,2025-11-05 15:52:52.302759
+2368,5259,Perfil Lipidico,81.07,Normal,2025-04-24 09:37:52.302759
+2369,7763,Prueba de Glucosa,90.47,Normal,2024-08-01 16:52:52.302759
+2370,5615,Examen General de Orina,41.8,Fuera de rango,2026-03-13 12:22:52.302759
+2371,1429,Quimica Sanguinea,63.03,Normal,2025-02-07 04:52:52.302759
+2372,1760,Examen General de Orina,76.43,Normal,2025-12-05 10:52:52.302759
+2373,4327,Biometria Hematica,90.95,Normal,2025-03-07 08:07:52.302759
+2374,492,Perfil Lipidico,79.49,Normal,2026-02-15 14:37:52.302759
+2375,2670,Biometria Hematica,61.8,Normal,2025-10-31 04:37:52.302759
+2376,1175,Prueba de Glucosa,108.03,Fuera de rango,2024-12-06 11:07:52.302759
+2377,2523,Biometria Hematica,155.2,Fuera de rango,2026-02-10 15:22:52.302759
+2378,3413,Biometria Hematica,98.92,Normal,2026-01-19 04:52:52.302759
+2379,5561,Examen General de Orina,38.02,Normal,2025-03-19 16:37:52.302759
+2380,827,Radiografia de Torax,48.04,Fuera de rango,2025-01-30 07:52:52.302759
+2381,270,Quimica Sanguinea,153.73,Normal,2024-09-28 09:37:52.302759
+2382,2394,Radiografia de Torax,147.14,Normal,2026-05-05 10:22:52.302759
+2383,3176,Quimica Sanguinea,134.19,Normal,2024-12-14 10:52:52.302759
+2384,6440,Perfil Lipidico,106.02,Normal,2025-07-30 15:22:52.302759
+2385,2691,Prueba de Glucosa,77.85,Normal,2024-10-28 15:37:52.302759
+2386,5035,Perfil Lipidico,16.45,Normal,2024-09-24 13:52:52.302759
+2387,2969,Quimica Sanguinea,110.53,Normal,2024-08-13 11:52:52.302759
+2388,5325,Prueba de Glucosa,109.52,Normal,2025-11-30 07:07:52.302759
+2389,5266,Prueba de Glucosa,137.98,Normal,2025-07-30 05:37:52.302759
+2390,2612,Prueba de Glucosa,136.23,Normal,2026-04-28 12:52:52.302759
+2391,958,Quimica Sanguinea,101.53,Normal,2024-08-05 16:07:52.302759
+2392,4139,Prueba de Glucosa,53.7,Normal,2026-03-18 08:37:52.302759
+2393,4906,Perfil Lipidico,171.7,Normal,2024-11-17 04:37:52.302759
+2394,4690,Biometria Hematica,129.22,Fuera de rango,2026-05-23 07:07:52.302759
+2395,1819,Prueba de Glucosa,19.47,Fuera de rango,2024-09-30 11:37:52.302759
+2396,4715,Examen General de Orina,82.0,Normal,2025-06-24 12:52:52.302759
+2397,3896,Quimica Sanguinea,73.61,Normal,2025-08-17 14:07:52.302759
+2398,7326,Prueba de Glucosa,17.94,Normal,2025-03-06 08:22:52.302759
+2399,5960,Biometria Hematica,16.61,Normal,2025-11-27 14:22:52.302759
+2400,4228,Prueba de Glucosa,11.96,Normal,2026-01-01 16:07:52.302759
+2401,633,Biometria Hematica,23.5,Normal,2025-02-20 12:52:52.302759
+2402,3209,Radiografia de Torax,37.29,Normal,2026-06-14 08:37:52.302759
+2403,4531,Radiografia de Torax,176.26,Normal,2025-11-09 16:37:52.302759
+2404,4041,Quimica Sanguinea,32.61,Fuera de rango,2026-05-21 12:37:52.302759
+2405,6186,Perfil Lipidico,164.59,Normal,2026-05-19 12:07:52.302759
+2406,7782,Radiografia de Torax,88.06,Normal,2026-05-03 04:37:52.302759
+2407,3532,Examen General de Orina,85.64,Normal,2024-08-08 11:22:52.302759
+2408,3914,Perfil Lipidico,125.5,Fuera de rango,2025-02-02 07:22:52.302759
+2409,696,Quimica Sanguinea,152.96,Fuera de rango,2025-09-23 10:07:52.302759
+2410,440,Perfil Lipidico,153.61,Normal,2026-06-27 15:52:52.302759
+2411,5174,Radiografia de Torax,50.11,Fuera de rango,2026-07-14 15:07:52.302759
+2412,3430,Examen General de Orina,185.66,Normal,2025-03-05 11:22:52.302759
+2413,935,Quimica Sanguinea,199.34,Normal,2025-01-23 08:22:52.302759
+2414,3786,Prueba de Glucosa,60.85,Normal,2024-07-17 08:52:52.302759
+2415,7518,Prueba de Glucosa,85.68,Normal,2025-02-05 17:22:52.302759
+2416,6459,Quimica Sanguinea,171.91,Fuera de rango,2025-11-23 05:37:52.302759
+2417,5187,Quimica Sanguinea,191.66,Normal,2025-05-19 15:52:52.302759
+2418,266,Biometria Hematica,134.08,Normal,2025-03-15 12:37:52.302759
+2419,4050,Biometria Hematica,88.7,Normal,2025-12-02 06:07:52.302759
+2420,3876,Radiografia de Torax,110.78,Normal,2024-12-28 10:07:52.302759
+2421,5218,Prueba de Glucosa,128.84,Normal,2026-01-15 13:22:52.302759
+2422,3534,Biometria Hematica,32.17,Normal,2025-04-13 16:07:52.302759
+2423,4448,Quimica Sanguinea,111.6,Normal,2024-08-10 17:07:52.302759
+2424,2729,Prueba de Glucosa,90.68,Normal,2026-03-27 13:07:52.302759
+2425,897,Quimica Sanguinea,29.1,Normal,2026-05-23 06:52:52.302759
+2426,3692,Perfil Lipidico,83.2,Normal,2026-05-02 14:22:52.302759
+2427,67,Biometria Hematica,83.17,Normal,2026-04-29 13:52:52.302759
+2428,6228,Perfil Lipidico,138.33,Normal,2026-05-31 09:52:52.302759
+2429,1093,Radiografia de Torax,53.82,Normal,2025-12-12 13:52:52.302759
+2430,6984,Quimica Sanguinea,27.53,Fuera de rango,2026-05-06 06:22:52.302759
+2431,5483,Perfil Lipidico,134.78,Fuera de rango,2025-04-15 12:52:52.302759
+2432,632,Prueba de Glucosa,71.91,Normal,2024-12-22 13:22:52.302759
+2433,7857,Perfil Lipidico,69.92,Normal,2024-11-24 06:07:52.302759
+2434,179,Perfil Lipidico,163.59,Normal,2024-10-14 04:52:52.302759
+2435,5213,Quimica Sanguinea,124.07,Normal,2025-09-12 06:22:52.302759
+2436,3286,Examen General de Orina,51.73,Normal,2025-04-04 12:22:52.302759
+2437,3632,Examen General de Orina,191.6,Normal,2025-09-29 15:22:52.302759
+2438,6175,Quimica Sanguinea,176.48,Normal,2026-02-01 09:07:52.302759
+2439,563,Examen General de Orina,31.89,Normal,2026-06-10 08:52:52.302759
+2440,7627,Perfil Lipidico,173.7,Fuera de rango,2026-03-10 16:07:52.302759
+2441,4540,Prueba de Glucosa,152.44,Normal,2025-05-29 08:52:52.302759
+2442,725,Biometria Hematica,86.46,Normal,2025-11-21 08:07:52.302759
+2443,549,Perfil Lipidico,8.58,Fuera de rango,2024-11-15 12:37:52.302759
+2444,7940,Prueba de Glucosa,55.01,Normal,2025-01-13 13:22:52.302759
+2445,6500,Perfil Lipidico,59.05,Normal,2026-06-21 11:37:52.302759
+2446,382,Prueba de Glucosa,138.74,Normal,2025-08-31 11:52:52.302759
+2447,3247,Perfil Lipidico,87.84,Normal,2026-01-14 09:22:52.302759
+2448,4648,Biometria Hematica,69.48,Normal,2024-10-07 12:22:52.302759
+2449,551,Biometria Hematica,63.72,Normal,2026-04-07 06:22:52.302759
+2450,6426,Examen General de Orina,36.19,Normal,
+2451,1097,Examen General de Orina,187.08,Normal,2026-06-19 05:52:52.302759
+2452,4200,Perfil Lipidico,184.84,Fuera de rango,2025-07-23 15:52:52.302759
+2453,1835,Radiografia de Torax,106.25,Normal,2026-07-03 08:52:52.302759
+2454,3686,Quimica Sanguinea,24.78,Normal,2025-11-25 14:22:52.302759
+2455,7484,Biometria Hematica,124.18,Normal,2025-05-11 13:07:52.302759
+2456,1235,Biometria Hematica,145.81,Fuera de rango,2024-08-29 09:22:52.302759
+2457,477,Perfil Lipidico,102.28,Normal,2025-08-09 09:22:52.302759
+2458,2826,Perfil Lipidico,120.85,Fuera de rango,2025-10-08 10:52:52.302759
+2459,1803,Prueba de Glucosa,124.97,Normal,2025-03-13 10:22:52.302759
+2460,2723,Biometria Hematica,134.08,Normal,2025-10-08 14:52:52.302759
+2461,7465,Quimica Sanguinea,112.51,Normal,2025-01-19 13:52:52.302759
+2462,7193,Radiografia de Torax,31.16,Normal,2025-01-02 08:22:52.302759
+2463,6648,Radiografia de Torax,157.3,Normal,2024-12-18 07:52:52.302759
+2464,6729,Examen General de Orina,195.33,Normal,2025-03-27 10:07:52.302759
+2465,2350,Biometria Hematica,175.17,Fuera de rango,2026-07-04 15:52:52.302759
+2466,934,Examen General de Orina,115.31,Fuera de rango,2024-09-17 17:07:52.302759
+2467,4137,Prueba de Glucosa,9.97,Normal,2025-01-16 17:07:52.302759
+2468,6986,Biometria Hematica,128.58,Fuera de rango,2024-08-05 12:37:52.302759
+2469,1589,Perfil Lipidico,191.32,Normal,2026-02-05 06:07:52.302759
+2470,7039,Radiografia de Torax,199.57,Normal,2025-05-19 12:22:52.302759
+2471,6668,Examen General de Orina,192.57,Normal,2025-11-13 07:22:52.302759
+2472,2327,Biometria Hematica,179.88,Normal,2026-06-02 15:22:52.302759
+2473,5473,Quimica Sanguinea,133.0,Normal,2024-08-19 06:07:52.302759
+2474,5519,Examen General de Orina,50.93,Normal,
+2475,449,Biometria Hematica,170.22,Fuera de rango,2024-09-19 07:37:52.302759
+2476,2364,Quimica Sanguinea,13.15,Normal,2025-10-15 05:37:52.302759
+2477,1419,Biometria Hematica,159.01,Normal,2024-12-16 13:37:52.302759
+2478,5056,Examen General de Orina,191.18,Normal,2025-01-03 14:52:52.302759
+2479,7796,Biometria Hematica,53.25,Normal,2025-04-29 08:22:52.302759
+2480,7864,Radiografia de Torax,153.08,Normal,2025-06-06 12:22:52.302759
+2481,236,Quimica Sanguinea,184.76,Normal,2024-11-15 04:52:52.302759
+2482,7113,Quimica Sanguinea,178.15,Normal,2025-04-02 09:52:52.302759
+2483,4834,Perfil Lipidico,64.41,Normal,2024-10-11 04:52:52.302759
+2484,219,Examen General de Orina,132.97,Normal,2025-12-29 15:52:52.302759
+2485,4638,Perfil Lipidico,108.12,Normal,2025-04-26 13:22:52.302759
+2486,4898,Radiografia de Torax,146.12,Normal,2025-02-02 07:22:52.302759
+2487,5272,Quimica Sanguinea,32.23,Normal,2025-07-14 09:52:52.302759
+2488,3091,Perfil Lipidico,85.61,Normal,2025-06-08 15:22:52.302759
+2489,2785,Prueba de Glucosa,193.72,Normal,2025-03-12 11:22:52.302759
+2490,7240,Examen General de Orina,126.18,Normal,2024-12-11 07:07:52.302759
+2491,7774,Examen General de Orina,62.51,Normal,2025-12-24 14:52:52.302759
+2492,5107,Radiografia de Torax,88.97,Normal,2025-02-05 15:37:52.302759
+2493,3760,Radiografia de Torax,190.78,Normal,2025-11-27 10:22:52.302759
+2494,1438,Radiografia de Torax,159.64,Normal,2025-06-04 08:52:52.302759
+2495,5403,Perfil Lipidico,93.57,Normal,2025-06-26 14:07:52.302759
+2496,3733,Quimica Sanguinea,171.48,Normal,2025-05-10 11:52:52.302759
+2497,5934,Quimica Sanguinea,198.04,Normal,2025-09-15 04:37:52.302759
+2498,5629,Radiografia de Torax,67.41,Normal,2024-07-21 05:07:52.302759
+2499,2011,Biometria Hematica,88.45,Normal,2024-10-20 14:37:52.302759
+2500,621,Biometria Hematica,30.31,Normal,2025-12-30 09:52:52.302759
+2501,209,Examen General de Orina,82.1,Normal,2025-09-07 12:07:52.302759
+2502,7680,Radiografia de Torax,156.94,Normal,2026-06-24 05:22:52.302759
+2503,5463,Perfil Lipidico,174.9,Normal,2025-04-17 07:52:52.302759
+2504,3331,Quimica Sanguinea,155.63,Normal,2025-03-22 06:22:52.302759
+2505,6392,Examen General de Orina,151.27,Normal,2025-01-19 09:22:52.302759
+2506,132,Biometria Hematica,181.2,Normal,2024-10-09 15:37:52.302759
+2507,3564,Radiografia de Torax,110.8,Normal,2025-08-30 12:37:52.302759
+2508,4685,Quimica Sanguinea,160.26,Normal,2025-01-19 06:52:52.302759
+2509,4009,Prueba de Glucosa,113.02,Fuera de rango,2025-03-05 12:52:52.302759
+2510,2126,Examen General de Orina,194.0,Normal,2026-01-09 15:37:52.302759
+2511,7134,Perfil Lipidico,65.19,Normal,2024-11-07 17:22:52.302759
+2512,6434,Perfil Lipidico,11.68,Normal,2025-04-19 06:37:52.302759
+2513,2008,Prueba de Glucosa,39.83,Normal,2025-09-06 11:37:52.302759
+2514,192,Perfil Lipidico,176.3,Normal,2025-01-26 06:07:52.302759
+2515,6400,Prueba de Glucosa,86.07,Normal,2024-12-09 11:37:52.302759
+2516,3011,Radiografia de Torax,149.38,Normal,2026-06-09 14:07:52.302759
+2517,1925,Radiografia de Torax,150.3,Fuera de rango,2025-11-21 05:07:52.302759
+2518,5637,Prueba de Glucosa,76.69,Normal,2025-05-25 07:52:52.302759
+2519,6238,Prueba de Glucosa,34.64,Normal,2024-10-22 15:52:52.302759
+2520,5846,Quimica Sanguinea,129.52,Normal,2025-10-13 17:22:52.302759
+2521,6687,Biometria Hematica,4.22,Normal,2025-06-10 16:52:52.302759
+2522,2686,Biometria Hematica,75.89,Normal,2026-05-02 11:22:52.302759
+2523,6650,Perfil Lipidico,138.37,Fuera de rango,2024-09-28 10:37:52.302759
+2524,4619,Biometria Hematica,53.28,Normal,2024-11-06 14:07:52.302759
+2525,2217,Quimica Sanguinea,173.52,Normal,2025-07-28 13:52:52.302759
+2526,7264,Radiografia de Torax,159.26,Normal,2026-04-11 16:52:52.302759
+2527,4581,Perfil Lipidico,142.89,Fuera de rango,2025-07-28 07:37:52.302759
+2528,378,Perfil Lipidico,50.92,Normal,2025-06-17 14:37:52.302759
+2529,263,Examen General de Orina,76.93,Normal,2025-01-29 13:52:52.302759
+2530,5318,Prueba de Glucosa,169.01,Normal,2025-01-21 11:52:52.302759
+2531,3795,Perfil Lipidico,40.66,Fuera de rango,2024-12-15 15:52:52.302759
+2532,606,Quimica Sanguinea,39.54,Normal,2025-12-03 14:52:52.302759
+2533,254,Perfil Lipidico,73.76,Normal,2025-03-01 05:07:52.302759
+2534,1756,Prueba de Glucosa,10.0,Normal,2025-09-02 14:07:52.302759
+2535,1397,Perfil Lipidico,88.37,Normal,2024-08-16 13:37:52.302759
+2536,1069,Quimica Sanguinea,195.39,Normal,2025-02-23 15:52:52.302759
+2537,374,Radiografia de Torax,127.32,Fuera de rango,2026-03-23 12:52:52.302759
+2538,2250,Perfil Lipidico,102.32,Normal,2024-10-03 17:07:52.302759
+2539,3297,Quimica Sanguinea,115.74,Normal,2025-10-10 10:52:52.302759
+2540,2426,Prueba de Glucosa,133.59,Normal,2026-01-31 14:37:52.302759
+2541,4058,Prueba de Glucosa,110.14,Normal,2025-01-30 05:37:52.302759
+2542,1868,Radiografia de Torax,125.36,Normal,2024-08-05 15:22:52.302759
+2543,1035,Biometria Hematica,175.03,Fuera de rango,2025-11-20 11:22:52.302759
+2544,2425,Quimica Sanguinea,118.01,Normal,2024-10-22 17:07:52.302759
+2545,7764,Quimica Sanguinea,57.69,Normal,2024-11-07 17:07:52.302759
+2546,6414,Radiografia de Torax,134.79,Normal,2026-04-20 16:37:52.302759
+2547,5120,Radiografia de Torax,37.34,Normal,2024-12-26 07:37:52.302759
+2548,4695,Examen General de Orina,142.14,Fuera de rango,2026-06-20 14:52:52.302759
+2549,1872,Prueba de Glucosa,172.52,Fuera de rango,2026-06-10 15:37:52.302759
+2550,262,Perfil Lipidico,168.78,Normal,2025-10-22 13:07:52.302759
+2551,2386,Prueba de Glucosa,97.34,Normal,2026-06-28 17:07:52.302759
+2552,5204,Quimica Sanguinea,151.2,Normal,2025-07-07 04:52:52.302759
+2553,4618,Perfil Lipidico,153.46,Normal,2025-09-29 11:22:52.302759
+2554,4212,Examen General de Orina,21.52,Fuera de rango,2024-11-25 17:22:52.302759
+2555,3998,Radiografia de Torax,40.51,Normal,2026-06-15 08:52:52.302759
+2556,1653,Examen General de Orina,112.65,Normal,2025-12-23 15:22:52.302759
+2557,3145,Prueba de Glucosa,199.2,Normal,2025-09-27 08:22:52.302759
+2558,7933,Examen General de Orina,100.59,Fuera de rango,2025-06-01 06:52:52.302759
+2559,841,Prueba de Glucosa,86.87,Fuera de rango,2025-08-17 09:22:52.302759
+2560,225,Biometria Hematica,156.35,Fuera de rango,2025-08-02 09:07:52.302759
+2561,7840,Prueba de Glucosa,144.83,Normal,2025-08-20 10:37:52.302759
+2562,6581,Quimica Sanguinea,145.95,Normal,2025-10-24 05:37:52.302759
+2563,4816,Perfil Lipidico,159.63,Normal,2025-07-28 05:37:52.302759
+2564,342,Quimica Sanguinea,195.0,Normal,2024-12-04 04:37:52.302759
+2565,3358,Examen General de Orina,10.56,Fuera de rango,2026-07-05 09:52:52.302759
+2566,3008,Quimica Sanguinea,104.11,Fuera de rango,2025-02-22 13:22:52.302759
+2567,355,Biometria Hematica,138.33,Normal,2025-05-01 06:37:52.302759
+2568,5978,Radiografia de Torax,95.13,Fuera de rango,2026-04-20 06:52:52.302759
+2569,1229,Prueba de Glucosa,36.47,Normal,2026-02-26 12:52:52.302759
+2570,2719,Examen General de Orina,174.43,Normal,2025-04-26 13:07:52.302759
+2571,3830,Prueba de Glucosa,123.74,Normal,2025-09-27 06:22:52.302759
+2572,5232,Prueba de Glucosa,34.81,Normal,2026-07-02 05:07:52.302759
+2573,5616,Examen General de Orina,92.6,Normal,2024-08-09 05:37:52.302759
+2574,6375,Examen General de Orina,140.27,Normal,2024-08-28 15:07:52.302759
+2575,3217,Examen General de Orina,177.26,Normal,2024-12-31 06:07:52.302759
+2576,332,Prueba de Glucosa,173.84,Normal,2025-01-24 10:52:52.302759
+2577,3167,Prueba de Glucosa,196.2,Normal,2026-02-17 06:07:52.302759
+2578,6507,Perfil Lipidico,145.45,Fuera de rango,2026-03-30 11:37:52.302759
+2579,5526,Perfil Lipidico,126.88,Normal,2025-12-18 10:52:52.302759
+2580,6545,Biometria Hematica,25.66,Normal,2025-09-27 13:37:52.302759
+2581,142,Prueba de Glucosa,84.91,Normal,2024-12-26 08:52:52.302759
+2582,1698,Biometria Hematica,127.03,Normal,2024-11-01 17:22:52.302759
+2583,272,Radiografia de Torax,189.77,Normal,2025-01-13 07:37:52.302759
+2584,6230,Prueba de Glucosa,61.58,Normal,2026-04-27 07:22:52.302759
+2585,106,Examen General de Orina,29.51,Normal,2025-12-12 07:52:52.302759
+2586,1074,Radiografia de Torax,20.46,Normal,2024-09-26 15:22:52.302759
+2587,7973,Biometria Hematica,56.49,Normal,2024-11-03 16:07:52.302759
+2588,561,Prueba de Glucosa,166.31,Normal,2024-09-18 05:07:52.302759
+2589,7015,Perfil Lipidico,21.5,Normal,2025-12-09 17:07:52.302759
+2590,676,Perfil Lipidico,164.48,Normal,2024-08-16 05:52:52.302759
+2591,6050,Quimica Sanguinea,127.92,Normal,2026-01-19 13:07:52.302759
+2592,6846,Prueba de Glucosa,10.49,Normal,2025-11-04 17:07:52.302759
+2593,7657,Perfil Lipidico,35.21,Normal,2025-03-27 05:37:52.302759
+2594,4718,Radiografia de Torax,160.11,Normal,2024-08-17 14:22:52.302759
+2595,7529,Quimica Sanguinea,121.94,Normal,2025-12-13 11:37:52.302759
+2596,4086,Biometria Hematica,129.21,Normal,2026-01-17 05:52:52.302759
+2597,2973,Biometria Hematica,78.41,Normal,2025-11-12 08:37:52.302759
+2598,2825,Examen General de Orina,93.54,Normal,2026-07-08 04:52:52.302759
+2599,2613,Quimica Sanguinea,4.41,Normal,2025-12-31 12:52:52.302759
+2600,4229,Biometria Hematica,81.49,Normal,2025-08-07 06:22:52.302759
+2601,4579,Biometria Hematica,172.34,Normal,2026-01-30 16:07:52.302759
+2602,797,Biometria Hematica,63.02,Normal,
+2603,874,Quimica Sanguinea,178.21,Normal,2025-01-05 16:37:52.302759
+2604,6822,Perfil Lipidico,174.57,Normal,
+2605,3561,Examen General de Orina,78.54,Fuera de rango,2026-06-03 15:22:52.302759
+2606,3463,Radiografia de Torax,115.27,Normal,2024-12-02 12:52:52.302759
+2607,5339,Quimica Sanguinea,163.62,Normal,2025-12-08 10:52:52.302759
+2608,1745,Radiografia de Torax,85.97,Normal,2024-08-17 16:22:52.302759
+2609,1497,Prueba de Glucosa,2.26,Normal,2024-08-18 07:52:52.302759
+2610,6075,Biometria Hematica,143.46,Normal,2025-12-03 11:37:52.302759
+2611,2351,Examen General de Orina,45.26,Normal,2025-12-12 06:52:52.302759
+2612,4078,Biometria Hematica,191.69,Fuera de rango,2025-12-20 07:37:52.302759
+2613,6374,Quimica Sanguinea,32.9,Normal,2025-02-01 07:37:52.302759
+2614,385,Perfil Lipidico,36.77,Normal,2025-03-06 08:37:52.302759
+2615,4032,Radiografia de Torax,83.69,Normal,2025-09-07 11:37:52.302759
+2616,1748,Examen General de Orina,194.42,Normal,2026-02-11 10:37:52.302759
+2617,3908,Quimica Sanguinea,167.84,Normal,2026-03-20 06:07:52.302759
+2618,4320,Examen General de Orina,170.39,Normal,2025-05-25 06:07:52.302759
+2619,6131,Radiografia de Torax,41.82,Normal,2026-01-29 14:52:52.302759
+2620,6435,Radiografia de Torax,166.6,Normal,2024-07-24 08:52:52.302759
+2621,6934,Perfil Lipidico,140.75,Normal,2024-12-16 11:52:52.302759
+2622,4708,Prueba de Glucosa,171.84,Normal,2025-04-05 07:07:52.302759
+2623,5866,Perfil Lipidico,82.86,Normal,2026-01-30 14:52:52.302759
+2624,4812,Biometria Hematica,185.47,Normal,2025-03-07 11:52:52.302759
+2625,8000,Prueba de Glucosa,150.6,Normal,2025-02-11 08:37:52.302759
+2626,3730,Examen General de Orina,71.31,Normal,2025-05-19 04:52:52.302759
+2627,845,Radiografia de Torax,114.85,Normal,2025-02-11 13:37:52.302759
+2628,5836,Radiografia de Torax,64.0,Normal,2025-08-23 13:37:52.302759
+2629,3226,Examen General de Orina,147.76,Fuera de rango,2024-08-14 07:52:52.302759
+2630,7742,Perfil Lipidico,59.75,Normal,2026-02-27 13:07:52.302759
+2631,2974,Prueba de Glucosa,48.49,Normal,2025-01-14 15:22:52.302759
+2632,6753,Prueba de Glucosa,51.76,Normal,2026-04-13 15:37:52.302759
+2633,398,Prueba de Glucosa,161.24,Normal,2025-08-28 13:22:52.302759
+2634,7765,Biometria Hematica,172.79,Normal,2026-02-12 06:07:52.302759
+2635,2650,Examen General de Orina,124.78,Normal,2026-04-01 13:07:52.302759
+2636,3832,Quimica Sanguinea,190.1,Normal,2025-04-01 06:37:52.302759
+2637,4425,Biometria Hematica,152.93,Normal,2024-08-11 05:52:52.302759
+2638,6906,Biometria Hematica,175.76,Normal,2025-08-18 09:07:52.302759
+2639,3447,Biometria Hematica,191.79,Fuera de rango,2025-01-24 10:22:52.302759
+2640,5567,Prueba de Glucosa,92.57,Normal,2025-08-20 13:22:52.302759

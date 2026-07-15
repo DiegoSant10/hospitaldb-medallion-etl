@@ -1,0 +1,51 @@
+id_doctor,nombre,especialidad,anios_experiencia,cedula_profesional
+1,Dr. Martha Barajas,Cardiologia,18,88443766
+2,Dr. Isaac Riojas,Medicina General,22,72864093
+3,Dr. Ignacio Cuellar,Oftalmologia,35,34926813
+4,Dr. Hugo Cotto,Cardiologia,25,41188324
+5,Dr. Ana Cisneros,Cardiologia,8,65628408
+6,Dr. María Teresa Reséndez,Ginecologia,21,64749465
+7,Dr. Norma Mota,Medicina General,18,93006985
+8,Dr. Marisela Valencia,Oftalmologia,6,71381118
+9,Dr. Serafín Leiva,Psiquiatria,16,92336550
+10,Dr. Karina Carmona,Traumatologia,29,53413016
+11,Dr. Esparta de la Rosa,Ginecologia,14,50739318
+12,Dr. José María Puga,Endocrinologia,20,51562387
+13,Dr. Bruno Rosales,Cardiologia,8,03369224
+14,Dr. Minerva Márquez,Traumatologia,3,72865018
+15,Dr. María Cristina Monroy,Dermatologia,6,05354525
+16,Dr. Asunción Figueroa,Psiquiatria,33,62280937
+17,Dr. Asunción Borrego,Medicina General,31,41058725
+18,Dr. Renato Delgadillo,Endocrinologia,10,90743389
+19,Dr. Gilberto Orta,Dermatologia,22,56231939
+20,Dr. Raquel Corral,Psiquiatria,34,01504121
+21,Dr. Amelia Alonzo,Ginecologia,21,68498214
+22,Dr. Nadia Nieves,Cardiologia,7,12942266
+23,Dr. Miriam Carranza,Endocrinologia,9,98626405
+24,Dr. Teresa Chacón,Dermatologia,3,82655093
+25,Dr. Rodolfo Sierra,Psiquiatria,25,82718467
+26,Dr. César Saldaña,Endocrinologia,8,27297440
+27,Dr. Eduardo del Río,Medicina General,20,16106065
+28,Dr. Ana Luisa Tello,Medicina General,6,98840694
+29,Dr. Jacinto de la O,Traumatologia,30,18134105
+30,Dr. Ofelia Saiz,Medicina General,7,08812362
+31,Dr. Yeni Lozano,Endocrinologia,20,52761065
+32,Dr. Ángel Sisneros,Medicina General,20,72800883
+33,Dr. Nelly Esquibel,Dermatologia,21,44729992
+34,Dr. Leonardo Fernández,Dermatologia,13,53643861
+35,Dr. Augusto Guardado,Ginecologia,18,22564836
+36,Dr. Lucía Lebrón,Endocrinologia,21,37164061
+37,Dr. Gilberto Velasco,Psiquiatria,8,45105517
+38,Dr. Ilse Mendoza,Ginecologia,10,75251565
+39,Dr. Rosario Polanco,Cardiologia,18,18222810
+40,Dr. Indira Gaona,Pediatria,1,36733391
+41,Dr. Héctor Díaz,Neurologia,33,24627181
+42,Dr. Fernando Abrego,Pediatria,14,07179170
+43,Dr. Hilda Nieto,Endocrinologia,23,36870288
+44,Dr. Natividad Ruelas,Endocrinologia,21,77976750
+45,Dr. Alma Ponce,Ginecologia,10,75395274
+46,Dr. Amelia Acosta,Ginecologia,16,36353243
+47,Dr. Marisela Ibarra,Cardiologia,5,57116370
+48,Dr. Sonia Guerra,Ginecologia,22,95483249
+49,Dr. Israel Flórez,Endocrinologia,29,67908211
+50,Dr. José Eduardo Quintana,Medicina General,9,29394146
