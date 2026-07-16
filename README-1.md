@@ -22,9 +22,9 @@ analítica en un dashboard interactivo.
 
 ```
 ┌─────────────────────┐
-│  Fuente de datos     │   Datos sintéticos generados con Faker
-│  (data/source_mock)  │   (simulan HospitalDB_ITVH en MariaDB)
-└──────────┬───────────┘
+│  Fuente de datos    │   Datos sintéticos generados con Faker
+│  (data/source_mock) │   (simulan HospitalDB_ITVH en MariaDB)
+└──────────┬──────────┘
            │  extract.py
            ▼
 ┌─────────────────────┐
@@ -35,22 +35,22 @@ analítica en un dashboard interactivo.
            │  transform_silver.py
            ▼
 ┌─────────────────────┐
-│      SILVER          │   Limpieza, deduplicación, validación
-│  (datos limpios,      │   Reglas de calidad documentadas en
-│   con flags)           │   docs/data_dictionary.md
-└──────────┬───────────┘
+│      SILVER         │   Limpieza, deduplicación, validación
+│  (datos limpios,    │   Reglas de calidad documentadas en
+│   con flags)        │   docs/data_dictionary.md
+└──────────┬──────────┘
            │  transform_gold.py
            ▼
 ┌─────────────────────┐
-│       GOLD            │   Esquema estrella:
-│  (modelo dimensional) │   fact_citas + dim_paciente + dim_doctor
-│                        │   + dim_tiempo
-└──────────┬───────────┘
+│       GOLD          │   Esquema estrella:
+│ (modelo dimensional)│   fact_citas + dim_paciente + dim_doctor
+│                     │   + dim_tiempo
+└──────────┬──────────┘
            │
            ▼
 ┌─────────────────────┐
-│  Dashboard Streamlit  │   KPIs, filtros interactivos,
-│                        │   transparencia de calidad de datos
+│ Dashboard Streamlit │   KPIs, filtros interactivos,
+│                     │   transparencia de calidad de datos
 └─────────────────────┘
 
            run_pipeline.py orquesta las 3 fases en orden,
