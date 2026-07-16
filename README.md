@@ -14,7 +14,7 @@ analítica en un dashboard interactivo.
 ✅ Pipeline completo funcional (extracción → limpieza → modelado → visualización)
 
 ## Demo en vivo
-🔗 [Dashboard desplegado en Streamlit Cloud](#) <!-- actualizar con el link real -->
+🔗 [Dashboard desplegado en Streamlit Cloud](https://hospitaldb-medallion-etl-vjnz8mypkhxkratpwnjkgv.streamlit.app/)
 
 ---
 
@@ -28,10 +28,10 @@ analítica en un dashboard interactivo.
            │  extract.py
            ▼
 ┌─────────────────────┐
-│      BRONZE         │   Datos crudos, sin transformar
-│  (Parquet, particio-│   Particionado por load_date
-│   nado por fecha)   │
-└──────────┬──────────┘
+│      BRONZE          │   Datos crudos, sin transformar
+│  (Parquet, particio-  │   Particionado por load_date
+│   nado por fecha)     │
+└──────────┬───────────┘
            │  transform_silver.py
            ▼
 ┌─────────────────────┐
@@ -98,7 +98,7 @@ hospitaldb-medallion-etl/
 
 ```bash
 # 1. Clonar e instalar dependencias
-git clone https://github.com/TU_USUARIO/hospitaldb-medallion-etl.git
+git clone https://github.com/DiegoSant10/hospitaldb-medallion-etl.git
 cd hospitaldb-medallion-etl
 pip install -r requirements.txt
 
@@ -163,4 +163,4 @@ datos que no cambiaron.
 
 **Diego Santiago Silván** — Estudiante de Ingeniería en Sistemas
 Computacionales (ITVH), especialización en ciencia de datos.
-[LinkedIn](#) · [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/diego-santiago-b65a412a8) · [GitHub](https://github.com/DiegoSant10)
